@@ -1,0 +1,44 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { directory, recipeUrl } from '../../lib/recipes';
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const total = directory.reduce((sum, section) => sum + section.items.length, 0);
+---
+
+<Layout title="菜谱目录 · Nico 的菜谱">
+	<section class="directory shell">
+		<div class="intro"><div class="eyebrow">THE INDEX <span>/</span> 菜谱目录</div><h1>想吃什么？</h1><p>按原始厨房笔记整理，保留每一份菜谱的来处和顺序。</p></div>
+		<div class="count"><strong>{String(total).padStart(2, '0')}</strong><span>道菜谱</span></div>
+		<div class="sections">{directory.map((section, index) => <details class="section" open={index === 0 || section.title === '早餐'}>
+			<summary><span class="section-number">{String(index + 1).padStart(2, '0')}</span><span>{section.title}</span><span class="chevron">⌄</span></summary>
+			<div class="items">{section.items.map((item) => item.recipe ? <a class="recipe-row" href={recipeUrl(item.recipe)}><span>{item.title}</span>{item.description && <small>{item.description}</small>}<b>↗</b></a> : <div class="recipe-row missing"><span>{item.title}</span><small>暂未找到对应菜谱</small></div>)}</div>
+		</details>)}</div>
+		<a class="back-home" href={base}>← 返回首页</a>
+	</section>
+</Layout>
+
+<style>
+	.directory { position:relative; padding:clamp(64px, 10vw, 120px) 0 40px; }
+	.intro { max-width:620px; }
+	.eyebrow { color:var(--orange); font-size:.74rem; font-weight:400; letter-spacing:.12em; }
+	.eyebrow span { color:var(--muted); margin:0 6px; }
+	h1 { color:var(--moss); font-size:clamp(2.9rem, 7vw, 5rem); letter-spacing:-.08em; line-height:1.08; margin:20px 0 14px; font-weight:800; }
+	.intro p { color:var(--muted); margin:0; }
+	.count { position:absolute; top:clamp(70px, 11vw, 126px); right:0; display:flex; align-items:baseline; gap:9px; color:var(--muted); font-size:12px; }
+	.count strong { color:var(--orange); font-size:2.1rem; font-weight:400; }
+	.sections { margin-top:clamp(62px, 10vw, 110px); border-top:1px solid var(--line); }
+	.section { border-bottom:1px solid var(--line); }
+	summary { min-height:74px; display:grid; grid-template-columns:50px 1fr 30px; align-items:center; cursor:pointer; list-style:none; color:var(--moss); font-size:1.1rem; font-weight:800; }
+	summary::-webkit-details-marker { display:none; }
+	.section-number { color:var(--orange); font-size:12px; font-weight:400; }
+	.chevron { color:var(--orange); font-size:1.35rem; text-align:right; transition:transform .2s; }
+	details[open] .chevron { transform:rotate(180deg); }
+	.items { padding:0 0 18px 50px; }
+	.recipe-row { min-height:54px; display:grid; grid-template-columns:minmax(0, 1fr) minmax(130px, 28%) 22px; gap:18px; align-items:center; border-top:1px solid #e2e5de; color:var(--ink); text-decoration:none; }
+	.recipe-row:hover { color:var(--orange); }
+	.recipe-row small { color:var(--muted); font-size:.82rem; line-height:1.55; }
+	.recipe-row b { color:var(--orange); font-weight:400; }
+	.missing { color:var(--muted); }
+	.back-home { display:inline-block; margin-top:38px; color:var(--moss); font-size:12px; text-decoration:none; }
+	@media (max-width:600px) { .count { position:static; margin-top:26px; } summary { min-height:68px; grid-template-columns:40px 1fr 24px; } .items { padding-left:40px; } .recipe-row { grid-template-columns:1fr 18px; gap:8px; padding:9px 0; line-height:1.45; } .recipe-row small { grid-column:1; grid-row:2; } .recipe-row b { grid-column:2; grid-row:1 / span 2; } }
+</style>

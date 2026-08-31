@@ -1,46 +1,25 @@
-# Astro Starter Kit: Basics
+# Nico Recipes
+
+一个纯静态 Astro 菜谱网站。`src/content/recipes/` 中的 Obsidian Markdown 是唯一内容源，列表结构来自 `src/content/recipes/moc/菜谱目录.md`。
+
+## 本地开发
 
 ```sh
-npm create astro@latest -- --template basics
+npm install
+astro dev --background
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+构建：`npm run build`。背景开发服务器可用 `astro dev status`、`astro dev logs` 和 `astro dev stop` 管理。
 
-## 🚀 Project Structure
+## GitHub Pages
 
-Inside of your Astro project, you'll see the following folders and files:
+`.github/workflows/deploy.yml` 会在 push 到 `main` 时构建并部署。Astro 根据 GitHub Actions 的 `GITHUB_REPOSITORY` 自动设置 project Pages 的 `site` 和 `base`，不需要填写仓库名。
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+首次启用时，在仓库 Settings → Pages → Build and deployment 中将 Source 设为 **GitHub Actions**。之后推送 `main` 即可触发部署。
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## 内容约定
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- 只解析 `moc/菜谱目录.md` 中的 WikiLink 与 Markdown link。
+- Markdown link 优先使用 href 定位；没有路径时才按唯一文件名匹配。
+- 同名文件出现多个匹配时，构建会报错；找不到目标时会给出 warning，并在目录中保留该条目但不生成详情链接。
+- `moc/**` 不会生成菜谱详情页。

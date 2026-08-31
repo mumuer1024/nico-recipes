@@ -1,23 +1,46 @@
+---
+interface Props { title?: string; }
+const { title = 'Nico 的菜谱' } = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+---
+
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
 	<head>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Nico 的个人菜谱，来自 Obsidian 的静态整理。" />
+		<link rel="icon" href={`${base}favicon.svg`} />
+		<link rel="stylesheet" href={`${base}fonts/fonts.css`} />
+		<link rel="preload" href={`${base}fonts/MapleMono-NF-CN-Regular.ttf`} as="font" type="font/ttf" crossorigin />
+		<link rel="preload" href={`${base}fonts/MapleMono-NF-CN-ExtraBold.ttf`} as="font" type="font/ttf" crossorigin />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<title>{title}</title>
 	</head>
 	<body>
-		<slot />
+		<header class="site-header"><div class="shell header-inner">
+			<a class="wordmark" href={base} aria-label="返回首页"><span>nico</span><i>recipes</i></a>
+			<nav aria-label="主导航"><a href={`${base}recipes/`}>菜谱目录 <span aria-hidden="true">↗</span></a></nav>
+		</div></header>
+		<main><slot /></main>
+		<footer class="site-footer"><div class="shell">从厨房笔记，到餐桌上的下一顿。</div></footer>
 	</body>
 </html>
 
-<style>
-	html,
-	body {
-		margin: 0;
-		width: 100%;
-		height: 100%;
-	}
+<style is:global>
+	:root { --ink:#1d2923; --muted:#718078; --paper:#f5f3ec; --line:#d8ddd4; --moss:#385443; --orange:#d87542; }
+	* { box-sizing:border-box; }
+	html { background:var(--paper); color:var(--ink); scroll-behavior:smooth; }
+	body { margin:0; min-width:320px; font-family:'Maple Mono NF CN', 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size:16px; font-weight:400; line-height:1.76; overflow-x:hidden; }
+	a { color:inherit; }
+	.shell { width:min(1120px, calc(100% - 40px)); margin:0 auto; }
+	.site-header { border-bottom:1px solid var(--line); }
+	.header-inner { height:76px; display:flex; align-items:center; justify-content:space-between; }
+	.wordmark { text-decoration:none; font-size:1.16rem; font-weight:800; letter-spacing:-.07em; }
+	.wordmark span { color:var(--moss); }
+	.wordmark i { color:var(--orange); font-style:normal; font-weight:400; }
+	nav a { color:var(--moss); text-decoration:none; font-size:.82rem; font-weight:400; letter-spacing:.04em; }
+	nav a span { color:var(--orange); font-size:1rem; margin-left:5px; }
+	.site-footer { color:var(--muted); border-top:1px solid var(--line); margin-top:96px; padding:24px 0 40px; font-size:12px; line-height:1.6; }
+	@media (max-width:600px) { .shell { width:min(100% - 32px, 1120px); } .header-inner { height:64px; } .site-footer { margin-top:64px; } }
 </style>

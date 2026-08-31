@@ -1,11 +1,27 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
-
 <Layout>
-	<Welcome />
+	<section class="hero shell">
+		<div class="hero-kicker">NICO'S KITCHEN NOTEBOOK <span>·</span> 2026</div>
+		<h1>今天，<br><em>吃点好的。</em></h1>
+		<p>一份从 Obsidian 厨房笔记里长出来的菜谱目录。<br />不追求复杂，只记录真正会再做的味道。</p>
+		<a class="button" href={`${base}recipes/`}>打开菜谱目录 <span>→</span></a>
+		<div class="hero-note"><span>01</span><span>家常 · 高蛋白 · 认真吃饭</span></div>
+	</section>
 </Layout>
+<style>
+	.hero { min-height:calc(100vh - 76px); padding:clamp(72px, 15vh, 160px) 0 70px; position:relative; }
+	.hero::after { content:'✳'; position:absolute; right:5%; top:20%; color:var(--orange); font-size:clamp(4rem, 10vw, 9rem); line-height:1; transform:rotate(16deg); opacity:.8; }
+	.hero-kicker { color:var(--orange); font-size:.74rem; font-weight:400; letter-spacing:.12em; }
+	h1 { max-width:780px; margin:22px 0 18px; color:var(--moss); font-size:clamp(3.2rem, 8vw, 6.5rem); line-height:1.06; letter-spacing:-.08em; font-weight:800; }
+	h1 em { color:var(--ink); font-style:normal; }
+	p { color:var(--muted); max-width:470px; margin:0 0 34px; font-size:1rem; line-height:1.82; }
+	.button { display:inline-flex; gap:35px; align-items:center; padding:14px 19px 14px 22px; color:#fff; background:var(--moss); border-radius:2px; text-decoration:none; font-size:.9rem; font-weight:400; transition:transform .2s, background .2s; }
+	.button:hover { background:var(--orange); transform:translateY(-2px); }
+	.button span { font-size:1.3rem; line-height:1; }
+	.hero-note { position:absolute; bottom:70px; left:0; display:flex; gap:20px; color:var(--muted); font-size:12px; line-height:1.5; letter-spacing:.05em; }
+	.hero-note span:first-child { color:var(--orange); }
+	@media (max-width:600px) { .hero { min-height:calc(100vh - 64px); padding-top:100px; } .hero::after { top:10%; right:2%; font-size:4rem; } .hero-note { bottom:30px; flex-direction:column; gap:2px; } h1 { font-size:clamp(3.1rem, 16vw, 5rem); } }
+</style>
