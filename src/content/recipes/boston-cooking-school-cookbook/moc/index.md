@@ -1,0 +1,1992 @@
+---
+title: Recipe Index
+source: The Boston Cooking-School Cook Book
+author: Fannie Merritt Farmer
+year: 1910
+---
+
+# Recipe Index
+
+共 1880 道菜谱，按原书第 III–XXXVI 章整理。
+
+## Chapter 3. Beverages
+
+- [How to Make Tea](../recipes/03-beverages/how-to-make-tea.md)（p. 34）
+- [Five o'Clock Tea](../recipes/03-beverages/five-oclock-tea.md)（p. 34）
+- [Russian Tea](../recipes/03-beverages/russian-tea.md)（p. 34）
+- [De John's Tea](../recipes/03-beverages/de-johns-tea.md)（p. 34）
+- [Iced Tea](../recipes/03-beverages/iced-tea.md)（p. 34）
+- [Wellesley Tea](../recipes/03-beverages/wellesley-tea.md)（p. 35）
+- [Filtered Coffee](../recipes/03-beverages/filtered-coffee.md)（p. 37）
+- [Boiled Coffee](../recipes/03-beverages/boiled-coffee.md)（p. 38）
+- [After-Dinner Coffee](../recipes/03-beverages/after-dinner-coffee.md)（p. 39）
+- [Cocoa Shells](../recipes/03-beverages/cocoa-shells.md)（p. 40）
+- [Cracked Cocoa](../recipes/03-beverages/cracked-cocoa.md)（p. 40）
+- [Breakfast Cocoa](../recipes/03-beverages/breakfast-cocoa.md)（p. 41）
+- [Reception Cocoa](../recipes/03-beverages/reception-cocoa.md)（p. 41）
+- [Brandy Cocoa](../recipes/03-beverages/brandy-cocoa.md)（p. 41）
+- [Chocolate I](../recipes/03-beverages/chocolate-i.md)（p. 41）
+- [Chocolate II](../recipes/03-beverages/chocolate-ii.md)（p. 41）
+- [Chocolate III](../recipes/03-beverages/chocolate-iii.md)（p. 42）
+- [Lemonade](../recipes/03-beverages/lemonade.md)（p. 42）
+- [Pineapple Lemonade](../recipes/03-beverages/pineapple-lemonade.md)（p. 42）
+- [Orangeade](../recipes/03-beverages/orangeade.md)（p. 42）
+- [Mint Julep](../recipes/03-beverages/mint-julep.md)（p. 42）
+- [Claret Punch](../recipes/03-beverages/claret-punch.md)（p. 43）
+- [Fruit Punch I](../recipes/03-beverages/fruit-punch-i.md)（p. 43）
+- [Fruit Punch II](../recipes/03-beverages/fruit-punch-ii.md)（p. 43）
+- [Fruit Punch III](../recipes/03-beverages/fruit-punch-iii.md)（p. 43）
+- [Fruit Punch IV](../recipes/03-beverages/fruit-punch-iv.md)（p. 44）
+- [Ginger Punch](../recipes/03-beverages/ginger-punch.md)（p. 44）
+- [Champagne Punch](../recipes/03-beverages/champagne-punch.md)（p. 44）
+- [Club Punch](../recipes/03-beverages/club-punch.md)（p. 44）
+- [Unfermented Grape Juice](../recipes/03-beverages/unfermented-grape-juice.md)（p. 45）
+- [Claret Cup](../recipes/03-beverages/claret-cup.md)（p. 45）
+- [Sauterne Cup](../recipes/03-beverages/sauterne-cup.md)（p. 46）
+
+## Chapter 4. Bread and Bread Making
+
+- [Water Bread](../recipes/04-bread-and-bread-making/water-bread.md)（p. 54）
+- [Milk and Water Bread](../recipes/04-bread-and-bread-making/milk-and-water-bread.md)（p. 55）
+- [Entire Wheat Bread](../recipes/04-bread-and-bread-making/entire-wheat-bread.md)（p. 55）
+- [German Caraway Bread](../recipes/04-bread-and-bread-making/german-caraway-bread.md)（p. 54）
+- [Entire Wheat and White Flour Bread](../recipes/04-bread-and-bread-making/entire-wheat-and-white-flour-bread.md)（p. 56）
+- [Graham Bread](../recipes/04-bread-and-bread-making/graham-bread.md)（p. 56）
+- [Third Bread](../recipes/04-bread-and-bread-making/third-bread.md)（p. 56）
+- [Rolled Oats Bread](../recipes/04-bread-and-bread-making/rolled-oats-bread.md)（p. 56）
+- [Rye Biscuit](../recipes/04-bread-and-bread-making/rye-biscuit.md)（p. 57）
+- [Rye Bread](../recipes/04-bread-and-bread-making/rye-bread.md)（p. 57）
+- [Date Bread](../recipes/04-bread-and-bread-making/date-bread.md)（p. 67）
+- [Boston Brown Bread](../recipes/04-bread-and-bread-making/boston-brown-bread.md)（p. 58）
+- [New England Brown Bread](../recipes/04-bread-and-bread-making/new-england-brown-bread.md)（p. 58）
+- [Indian Bread](../recipes/04-bread-and-bread-making/indian-bread.md)（p. 58）
+- [Steamed Graham Bread](../recipes/04-bread-and-bread-making/steamed-graham-bread.md)（p. 58）
+- [Parker House Rolls](../recipes/04-bread-and-bread-making/parker-house-rolls.md)（p. 59）
+- [Salad or Dinner Rolls](../recipes/04-bread-and-bread-making/salad-or-dinner-rolls.md)（p. 59）
+- [Sticks](../recipes/04-bread-and-bread-making/sticks.md)（p. 60）
+- [Salad Sticks](../recipes/04-bread-and-bread-making/salad-sticks.md)（p. 60）
+- [Swedish Rolls](../recipes/04-bread-and-bread-making/swedish-rolls.md)（p. 60）
+- [Sweet French Rolls](../recipes/04-bread-and-bread-making/sweet-french-rolls.md)（p. 61）
+- [Luncheon Rolls](../recipes/04-bread-and-bread-making/luncheon-rolls.md)（p. 61）
+- [French Rusks](../recipes/04-bread-and-bread-making/french-rusks.md)（p. 61）
+- [Rusks (Zweiback)](../recipes/04-bread-and-bread-making/rusks-zweiback.md)（p. 62）
+- [German Coffee Bread](../recipes/04-bread-and-bread-making/german-coffee-bread.md)（p. 62）
+- [Coffee Cakes (Brioche)](../recipes/04-bread-and-bread-making/coffee-cakes-brioche.md)（p. 63）
+- [Coffee Rolls](../recipes/04-bread-and-bread-making/coffee-rolls.md)（p. 63）
+- [Swedish Bread](../recipes/04-bread-and-bread-making/swedish-bread.md)（p. 64）
+- [Dutch Apple Cake](../recipes/04-bread-and-bread-making/dutch-apple-cake.md)（p. 65）
+- [Buns](../recipes/04-bread-and-bread-making/buns.md)（p. 65）
+- [Hot Cross Buns](../recipes/04-bread-and-bread-making/hot-cross-buns.md)（p. 65）
+- [Raised Muffins](../recipes/04-bread-and-bread-making/raised-muffins.md)（p. 66）
+- [Grilled Muffins](../recipes/04-bread-and-bread-making/grilled-muffins.md)（p. 66）
+- [Raised Hominy Muffins](../recipes/04-bread-and-bread-making/raised-hominy-muffins.md)（p. 66）
+- [Raised Rice Muffins](../recipes/04-bread-and-bread-making/raised-rice-muffins.md)（p. 66）
+- [Raised Oatmeal Muffins](../recipes/04-bread-and-bread-making/raised-oatmeal-muffins.md)（p. 67）
+- [Health Food Muffins](../recipes/04-bread-and-bread-making/health-food-muffins.md)（p. 67）
+- [Squash Biscuits](../recipes/04-bread-and-bread-making/squash-biscuits.md)（p. 67）
+- [Imperial Muffins](../recipes/04-bread-and-bread-making/imperial-muffins.md)（p. 67）
+- [Dry Toast](../recipes/04-bread-and-bread-making/dry-toast.md)（p. 68）
+- [Water Toast](../recipes/04-bread-and-bread-making/water-toast.md)（p. 68）
+- [Milk Toast I](../recipes/04-bread-and-bread-making/milk-toast-i.md)（p. 68）
+- [Milk Toast II](../recipes/04-bread-and-bread-making/milk-toast-ii.md)（p. 68）
+- [Brown Bread Milk Toast](../recipes/04-bread-and-bread-making/brown-bread-milk-toast.md)（p. 68）
+- [Cream Toast](../recipes/04-bread-and-bread-making/cream-toast.md)（p. 68）
+- [Tomato Cream Toast](../recipes/04-bread-and-bread-making/tomato-cream-toast.md)（p. 69）
+- [German Toast](../recipes/04-bread-and-bread-making/german-toast.md)（p. 69）
+- [Brewis](../recipes/04-bread-and-bread-making/brewis.md)（p. 69）
+- [Bread for Garnishing](../recipes/04-bread-and-bread-making/bread-for-garnishing.md)（p. 69）
+
+## Chapter 5. Biscuits, Breakfast Cakes, and Shortcakes
+
+- [Cream Scones](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/cream-scones.md)（p. 70）
+- [Baking Powder Biscuit I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/baking-powder-biscuit-i.md)（p. 71）
+- [Baking Powder Biscuit II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/baking-powder-biscuit-ii.md)（p. 71）
+- [Emergency Biscuit](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/emergency-biscuit.md)（p. 71）
+- [Fruit Rolls (Pin Wheel Biscuit)](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/fruit-rolls-pin-wheel-biscuit.md)（p. 71）
+- [Twin Mountain Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/twin-mountain-muffins.md)（p. 72）
+- [One Egg Muffins I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/one-egg-muffins-i.md)（p. 72）
+- [One Egg Muffins II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/one-egg-muffins-ii.md)（p. 72）
+- [Berry Muffins I (without eggs)](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/berry-muffins-i-without-eggs.md)（p. 72）
+- [Berry Muffins II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/berry-muffins-ii.md)（p. 73）
+- [Queen of Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/queen-of-muffins.md)（p. 73）
+- [Rice Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rice-muffins.md)（p. 73）
+- [Oatmeal Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/oatmeal-muffins.md)（p. 73）
+- [Graham Muffins I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/graham-muffins-i.md)（p. 73）
+- [Graham Muffins II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/graham-muffins-ii.md)（p. 74）
+- [Rye Muffins I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rye-muffins-i.md)（p. 74）
+- [Rye Muffins II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rye-muffins-ii.md)（p. 74）
+- [Rye Gems](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rye-gems.md)（p. 74）
+- [Corn Meal Gems](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/corn-meal-gems.md)（p. 74）
+- [Hominy Gems](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/hominy-gems.md)（p. 75）
+- [Berkshire Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/berkshire-muffins.md)（p. 75）
+- [Golden Corn Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/golden-corn-cake.md)（p. 75）
+- [Corn Cake (sweetened with Molasses)](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/corn-cake-sweetened-with-molasses.md)（p. 75）
+- [White Corn Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/white-corn-cake.md)（p. 76）
+- [Rich Corn Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rich-corn-cake.md)（p. 76）
+- [Susie's Spider Corn Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/susies-spider-corn-cake.md)（p. 76）
+- [White Corn Meal Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/white-corn-meal-cake.md)（p. 76）
+- [Pop-overs](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/pop-overs.md)（p. 77）
+- [Graham Pop-overs](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/graham-pop-overs.md)（p. 77）
+- [Breakfast Puffs](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/breakfast-puffs.md)（p. 77）
+- [Fadges](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/fadges.md)（p. 77）
+- [Zante Muffins](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/zante-muffins.md)（p. 77）
+- [Maryland Biscuit](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/maryland-biscuit.md)（p. 78）
+- [Sour Milk Griddle-cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/sour-milk-griddle-cakes.md)（p. 78）
+- [Sweet Milk Griddle-cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/sweet-milk-griddle-cakes.md)（p. 78）
+- [Entire Wheat Griddle-cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/entire-wheat-griddle-cakes.md)（p. 78）
+- [Corn Griddle-cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/corn-griddle-cakes.md)（p. 79）
+- [Rice Griddle-cakes I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rice-griddle-cakes-i.md)（p. 79）
+- [Rice Griddle-cakes II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rice-griddle-cakes-ii.md)（p. 79）
+- [Bread Griddle-cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/bread-griddle-cakes.md)（p. 79）
+- [Buckwheat Cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/buckwheat-cakes.md)（p. 80）
+- [Waffles](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/waffles.md)（p. 80）
+- [Waffles with Boiled Cider](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/waffles-with-boiled-cider.md)（p. 80）
+- [Rice Waffles](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rice-waffles.md)（p. 80）
+- [Virginia Waffles](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/virginia-waffles.md)（p. 81）
+- [Raised Waffles](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/raised-waffles.md)（p. 81）
+- [Fried Drop Cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/fried-drop-cakes.md)（p. 81）
+- [Rye Drop Cakes](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rye-drop-cakes.md)（p. 81）
+- [Raised Doughnuts](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/raised-doughnuts.md)（p. 82）
+- [Doughnuts I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/doughnuts-i.md)（p. 82）
+- [Doughnuts II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/doughnuts-ii.md)（p. 83）
+- [Doughnuts III](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/doughnuts-iii.md)（p. 83）
+- [Crullers](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/crullers.md)（p. 83）
+- [Strawberry Short Cake I](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/strawberry-short-cake-i.md)（p. 84）
+- [Strawberry Short Cake II](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/strawberry-short-cake-ii.md)（p. 84）
+- [Rich Strawberry Short Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/rich-strawberry-short-cake.md)（p. 84）
+- [Fruit Short Cake](../recipes/05-biscuits-breakfast-cakes-and-shortcakes/fruit-short-cake.md)（p. 85）
+
+## Chapter 6. Cereals
+
+- [Oatmeal Mush with Apples](../recipes/06-cereals/oatmeal-mush-with-apples.md)（p. 87）
+- [Cereal with Fruit](../recipes/06-cereals/cereal-with-fruit.md)（p. 87）
+- [Fried Mushes](../recipes/06-cereals/fried-mushes.md)（p. 88）
+- [Fried Corn Meal Mush, or Fried Hominy](../recipes/06-cereals/fried-corn-meal-mush-or-fried-hominy.md)（p. 88）
+- [Boiled Rice](../recipes/06-cereals/boiled-rice.md)（p. 88）
+- [Steamed Rice](../recipes/06-cereals/steamed-rice.md)（p. 89）
+- [Rice with Cheese](../recipes/06-cereals/rice-with-cheese.md)（p. 89）
+- [Rice à la Riston](../recipes/06-cereals/rice-a-la-riston.md)（p. 89）
+- [Turkish Pilaf I](../recipes/06-cereals/turkish-pilaf-i.md)（p. 89）
+- [Turkish Pilaf II](../recipes/06-cereals/turkish-pilaf-ii.md)（p. 89）
+- [Turkish Pilaf III](../recipes/06-cereals/turkish-pilaf-iii.md)（p. 90）
+- [Russian Pilaf](../recipes/06-cereals/russian-pilaf.md)（p. 90）
+- [Rissoto Creole](../recipes/06-cereals/rissoto-creole.md)（p. 90）
+- [Boiled Macaroni](../recipes/06-cereals/boiled-macaroni.md)（p. 90）
+- [Macaroni with White Sauce](../recipes/06-cereals/macaroni-with-white-sauce.md)（p. 91）
+- [Baked Macaroni](../recipes/06-cereals/baked-macaroni.md)（p. 91）
+- [Baked Macaroni with Cheese](../recipes/06-cereals/baked-macaroni-with-cheese.md)（p. 91）
+- [Macaroni with Tomato Sauce](../recipes/06-cereals/macaroni-with-tomato-sauce.md)（p. 91）
+- [Macaroni à l'Italienne](../recipes/06-cereals/macaroni-a-litalienne.md)（p. 91）
+- [Macaroni, Italian Style](../recipes/06-cereals/macaroni-italian-style.md)（p. 92）
+- [Macaroni à la Milanaise](../recipes/06-cereals/macaroni-a-la-milanaise.md)（p. 92）
+- [Spaghetti](../recipes/06-cereals/spaghetti.md)（p. 92）
+- [Knöfli](../recipes/06-cereals/knofli.md)（p. 92）
+- [Ravioli](../recipes/06-cereals/ravioli.md)（p. 93）
+- [Tomato Sauce](../recipes/06-cereals/tomato-sauce.md)（p. 94）
+
+## Chapter 7. Eggs
+
+- [Boiled Eggs](../recipes/07-eggs/boiled-eggs.md)（p. 95）
+- [Dropped Eggs (Poached)](../recipes/07-eggs/dropped-eggs-poached.md)（p. 96）
+- [Eggs à la Finnoise](../recipes/07-eggs/eggs-a-la-finnoise.md)（p. 96）
+- [Poached Eggs à la Reine](../recipes/07-eggs/poached-eggs-a-la-reine.md)（p. 96）
+- [Eggs à la Suisse](../recipes/07-eggs/eggs-a-la-suisse.md)（p. 96）
+- [Eggs Susette](../recipes/07-eggs/eggs-susette.md)（p. 97）
+- [Baked or Shirred Eggs](../recipes/07-eggs/baked-or-shirred-eggs.md)（p. 97）
+- [Eggs à la Tripe](../recipes/07-eggs/eggs-a-la-tripe.md)（p. 558）
+- [Eggs à la Benedict](../recipes/07-eggs/eggs-a-la-benedict.md)（p. 274）
+- [Eggs à la Lee](../recipes/07-eggs/eggs-a-la-lee.md)（p. 274）
+- [Eggs à la Commodore](../recipes/07-eggs/eggs-a-la-commodore.md)（p. 98）
+- [Eggs, Waldorf Style](../recipes/07-eggs/eggs-waldorf-style.md)（p. 268）
+- [Poached Eggs with Sauce Bearnaise](../recipes/07-eggs/poached-eggs-with-sauce-bearnaise.md)（p. 268）
+- [Scrambled Eggs](../recipes/07-eggs/scrambled-eggs.md)（p. 268）
+- [Scrambled Eggs with Tomato Sauce](../recipes/07-eggs/scrambled-eggs-with-tomato-sauce.md)（p. 99）
+- [Scrambled Eggs with Anchovy Toast](../recipes/07-eggs/scrambled-eggs-with-anchovy-toast.md)（p. 99）
+- [Eggs à la Buckingham](../recipes/07-eggs/eggs-a-la-buckingham.md)（p. 99）
+- [Eggs à la Turk](../recipes/07-eggs/eggs-a-la-turk.md)（p. 99）
+- [Eggs à la Livingstone](../recipes/07-eggs/eggs-a-la-livingstone.md)（p. 99）
+- [Scrambled Eggs, Country Style](../recipes/07-eggs/scrambled-eggs-country-style.md)（p. 99）
+- [Buttered Eggs](../recipes/07-eggs/buttered-eggs.md)（p. 100）
+- [Buttered Eggs with Tomatoes](../recipes/07-eggs/buttered-eggs-with-tomatoes.md)（p. 100）
+- [Planked Eggs](../recipes/07-eggs/planked-eggs.md)（p. 100）
+- [Fried Eggs](../recipes/07-eggs/fried-eggs.md)（p. 100）
+- [Eggs à la Goldenrod](../recipes/07-eggs/eggs-a-la-goldenrod.md)（p. 100）
+- [Eggs au Gratin](../recipes/07-eggs/eggs-au-gratin.md)（p. 101）
+- [Eggs in Batter](../recipes/07-eggs/eggs-in-batter.md)（p. 101）
+- [Curried Eggs I](../recipes/07-eggs/curried-eggs-i.md)（p. 101）
+- [Curried Eggs II](../recipes/07-eggs/curried-eggs-ii.md)（p. 101）
+- [Scalloped Eggs](../recipes/07-eggs/scalloped-eggs.md)（p. 102）
+- [Stuffed Eggs](../recipes/07-eggs/stuffed-eggs.md)（p. 102）
+- [Stuffed Eggs in a Nest](../recipes/07-eggs/stuffed-eggs-in-a-nest.md)（p. 102）
+- [Eggs à la Sidney](../recipes/07-eggs/eggs-a-la-sidney.md)（p. 102）
+- [Eggs Huntington](../recipes/07-eggs/eggs-huntington.md)（p. 102）
+- [Egg Farci I](../recipes/07-eggs/egg-farci-i.md)（p. 103）
+- [Egg Farci II](../recipes/07-eggs/egg-farci-ii.md)（p. 98）
+- [Lucanian Eggs](../recipes/07-eggs/lucanian-eggs.md)（p. 98）
+- [Egg Soufflé](../recipes/07-eggs/egg-souffle.md)（p. 104）
+- [Egg Timbales](../recipes/07-eggs/egg-timbales.md)（p. 271）
+- [Egg Croquettes](../recipes/07-eggs/egg-croquettes.md)（p. 271）
+- [Eggs à la Juliette](../recipes/07-eggs/eggs-a-la-juliette.md)（p. 271）
+- [Eggs à la Parisienne](../recipes/07-eggs/eggs-a-la-parisienne.md)（p. 105）
+- [Eggs Mornay](../recipes/07-eggs/eggs-mornay.md)（p. 266）
+- [Plain Omelet](../recipes/07-eggs/plain-omelet.md)（p. 106）
+- [Omelet with Meat or Vegetables](../recipes/07-eggs/omelet-with-meat-or-vegetables.md)（p. 106）
+- [Oyster Omelet](../recipes/07-eggs/oyster-omelet.md)（p. 106）
+- [Orange Omelet](../recipes/07-eggs/orange-omelet.md)（p. 106）
+- [Jelly Omelet](../recipes/07-eggs/jelly-omelet.md)（p. 106）
+- [Bread Omelet](../recipes/07-eggs/bread-omelet.md)（p. 107）
+- [French Omelet](../recipes/07-eggs/french-omelet.md)（p. 107）
+- [Omelet with Croûtons](../recipes/07-eggs/omelet-with-croutons.md)（p. 107）
+- [Eggs with Spinach à la Martin](../recipes/07-eggs/eggs-with-spinach-a-la-martin.md)（p. 107）
+- [Spanish Omelet](../recipes/07-eggs/spanish-omelet.md)（p. 108）
+- [Rich Omelet](../recipes/07-eggs/rich-omelet.md)（p. 108）
+- [Omelette Robespierre](../recipes/07-eggs/omelette-robespierre.md)（p. 108）
+- [Almond Omelet, Caramel Sauce](../recipes/07-eggs/almond-omelet-caramel-sauce.md)（p. 109）
+
+## Chapter 8. Soups
+
+- [How to Clear Soup Stock](../recipes/08-soups/how-to-clear-soup-stock.md)（p. 113）
+- [How to Bind Soups](../recipes/08-soups/how-to-bind-soups.md)（p. 113）
+- [Brown Soup Stock](../recipes/08-soups/brown-soup-stock.md)（p. 114）
+- [Bouillon](../recipes/08-soups/bouillon.md)（p. 114）
+- [Tomato Bouillon with Oysters](../recipes/08-soups/tomato-bouillon-with-oysters.md)（p. 114）
+- [Iced Bouillon](../recipes/08-soups/iced-bouillon.md)（p. 114）
+- [Macaroni Soup](../recipes/08-soups/macaroni-soup.md)（p. 115）
+- [Tomato Soup with Stock](../recipes/08-soups/tomato-soup-with-stock.md)（p. 115）
+- [Turkish Soup](../recipes/08-soups/turkish-soup.md)（p. 115）
+- [Creole Soup](../recipes/08-soups/creole-soup.md)（p. 116）
+- [Julienne Soup](../recipes/08-soups/julienne-soup.md)（p. 116）
+- [Dinner Soup](../recipes/08-soups/dinner-soup.md)（p. 116）
+- [Bortchock Soup](../recipes/08-soups/bortchock-soup.md)（p. 117）
+- [Ox-tail Soup](../recipes/08-soups/ox-tail-soup.md)（p. 117）
+- [Scotch Soup](../recipes/08-soups/scotch-soup.md)（p. 118）
+- [White Soup Stock I](../recipes/08-soups/white-soup-stock-i.md)（p. 118）
+- [White Soup Stock II](../recipes/08-soups/white-soup-stock-ii.md)（p. 118）
+- [White Soup Stock III](../recipes/08-soups/white-soup-stock-iii.md)（p. 118）
+- [Chicken Soup with Wine](../recipes/08-soups/chicken-soup-with-wine.md)（p. 119）
+- [French White Soup](../recipes/08-soups/french-white-soup.md)（p. 119）
+- [White Soup](../recipes/08-soups/white-soup.md)（p. 120）
+- [Chicken Soup](../recipes/08-soups/chicken-soup.md)（p. 120）
+- [Turkey Soup](../recipes/08-soups/turkey-soup.md)（p. 120）
+- [Hygienic Soup](../recipes/08-soups/hygienic-soup.md)（p. 120）
+- [Farina Soup](../recipes/08-soups/farina-soup.md)（p. 120）
+- [Spring Soup](../recipes/08-soups/spring-soup.md)（p. 121）
+- [Duchess Soup](../recipes/08-soups/duchess-soup.md)（p. 121）
+- [Potage à la Reine](../recipes/08-soups/potage-a-la-reine.md)（p. 121）
+- [Royal Soup](../recipes/08-soups/royal-soup.md)（p. 122）
+- [St. Germain Soup](../recipes/08-soups/st-germain-soup.md)（p. 122）
+- [Imperial Soup](../recipes/08-soups/imperial-soup.md)（p. 122）
+- [Veal and Sago Soup](../recipes/08-soups/veal-and-sago-soup.md)（p. 123）
+- [Asparagus Soup](../recipes/08-soups/asparagus-soup.md)（p. 123）
+- [Cream of Celery Soup](../recipes/08-soups/cream-of-celery-soup.md)（p. 123）
+- [Spinach Soup](../recipes/08-soups/spinach-soup.md)（p. 124）
+- [Cream of Lettuce Soup](../recipes/08-soups/cream-of-lettuce-soup.md)（p. 124）
+- [Mushroom Soup](../recipes/08-soups/mushroom-soup.md)（p. 124）
+- [Cream of Mushroom Soup](../recipes/08-soups/cream-of-mushroom-soup.md)（p. 124）
+- [Cream of Watercress Soup](../recipes/08-soups/cream-of-watercress-soup.md)（p. 125）
+- [Cream of Cauliflower Soup](../recipes/08-soups/cream-of-cauliflower-soup.md)（p. 125）
+- [Cucumber Soup](../recipes/08-soups/cucumber-soup.md)（p. 125）
+- [Almond Soup](../recipes/08-soups/almond-soup.md)（p. 126）
+- [String Bean Soup](../recipes/08-soups/string-bean-soup.md)（p. 126）
+- [Soup à la Soubise](../recipes/08-soups/soup-a-la-soubise.md)（p. 126）
+- [Chestnut Purée](../recipes/08-soups/chestnut-puree.md)（p. 126）
+- [Crab Soup](../recipes/08-soups/crab-soup.md)（p. 127）
+- [Philadelphia Pepper Pot](../recipes/08-soups/philadelphia-pepper-pot.md)（p. 127）
+- [Mulligatawny Soup](../recipes/08-soups/mulligatawny-soup.md)（p. 127）
+- [Mock Turtle Soup](../recipes/08-soups/mock-turtle-soup.md)（p. 128）
+- [Consommé](../recipes/08-soups/consomme.md)（p. 128）
+- [Consommé à la Royal](../recipes/08-soups/consomme-a-la-royal.md)（p. 128）
+- [Consommé au Parmesan](../recipes/08-soups/consomme-au-parmesan.md)（p. 128）
+- [Consommé Colbert](../recipes/08-soups/consomme-colbert.md)（p. 129）
+- [Consommé aux Pâtes](../recipes/08-soups/consomme-aux-pates.md)（p. 129）
+- [Consommé d'Orleans](../recipes/08-soups/consomme-dorleans.md)（p. 129）
+- [Consommé with Vegetables](../recipes/08-soups/consomme-with-vegetables.md)（p. 129）
+- [Consommé Princess](../recipes/08-soups/consomme-princess.md)（p. 129）
+- [Claret Consommé](../recipes/08-soups/claret-consomme.md)（p. 129）
+- [Bortchock Consommé](../recipes/08-soups/bortchock-consomme.md)（p. 129）
+- [Clam Bouillon](../recipes/08-soups/clam-bouillon.md)（p. 129）
+- [Oyster Stew](../recipes/08-soups/oyster-stew.md)（p. 130）
+- [Scallop Stew](../recipes/08-soups/scallop-stew.md)（p. 130）
+- [Oyster Soup](../recipes/08-soups/oyster-soup.md)（p. 130）
+- [French Oyster Soup](../recipes/08-soups/french-oyster-soup.md)（p. 130）
+- [Oyster Soup, Amsterdam Style](../recipes/08-soups/oyster-soup-amsterdam-style.md)（p. 131）
+- [Oyster Gumbo](../recipes/08-soups/oyster-gumbo.md)（p. 131）
+- [Clam Soup with Poached Eggs](../recipes/08-soups/clam-soup-with-poached-eggs.md)（p. 131）
+- [Clam and Oyster Soup](../recipes/08-soups/clam-and-oyster-soup.md)（p. 132）
+- [Cream of Clam Soup](../recipes/08-soups/cream-of-clam-soup.md)（p. 132）
+- [Clam Consommé](../recipes/08-soups/clam-consomme.md)（p. 132）
+- [Clam and Chicken Frappé](../recipes/08-soups/clam-and-chicken-frappe.md)（p. 132）
+- [Clam and Tomato Bisque](../recipes/08-soups/clam-and-tomato-bisque.md)（p. 133）
+- [Oyster Bisque](../recipes/08-soups/oyster-bisque.md)（p. 133）
+- [Cream of Scallop Soup](../recipes/08-soups/cream-of-scallop-soup.md)（p. 133）
+- [Lobster Bisque](../recipes/08-soups/lobster-bisque.md)（p. 134）
+
+## Chapter 9. Soups without Stock
+
+- [Black Bean Soup](../recipes/09-soups-without-stock/black-bean-soup.md)（p. 135）
+- [Baked Bean Soup](../recipes/09-soups-without-stock/baked-bean-soup.md)（p. 136）
+- [Cream of Lima Bean Soup](../recipes/09-soups-without-stock/cream-of-lima-bean-soup.md)（p. 136）
+- [Cream of Artichoke Soup](../recipes/09-soups-without-stock/cream-of-artichoke-soup.md)（p. 136）
+- [Celery Soup I](../recipes/09-soups-without-stock/celery-soup-i.md)（p. 137）
+- [Celery Soup II](../recipes/09-soups-without-stock/celery-soup-ii.md)（p. 137）
+- [Corn Soup](../recipes/09-soups-without-stock/corn-soup.md)（p. 137）
+- [Halibut Soup](../recipes/09-soups-without-stock/halibut-soup.md)（p. 137）
+- [Pea Soup](../recipes/09-soups-without-stock/pea-soup.md)（p. 138）
+- [Split Pea Soup](../recipes/09-soups-without-stock/split-pea-soup.md)（p. 138）
+- [Kornlet Soup](../recipes/09-soups-without-stock/kornlet-soup.md)（p. 138）
+- [Potato Soup](../recipes/09-soups-without-stock/potato-soup.md)（p. 138）
+- [Appledore Soup](../recipes/09-soups-without-stock/appledore-soup.md)（p. 139）
+- [Swiss Potato Soup](../recipes/09-soups-without-stock/swiss-potato-soup.md)（p. 139）
+- [Leek and Potato Soup](../recipes/09-soups-without-stock/leek-and-potato-soup.md)（p. 139）
+- [Vegetable Soup](../recipes/09-soups-without-stock/vegetable-soup.md)（p. 140）
+- [Salmon Soup](../recipes/09-soups-without-stock/salmon-soup.md)（p. 140）
+- [Squash Soup](../recipes/09-soups-without-stock/squash-soup.md)（p. 140）
+- [Tomato Soup](../recipes/09-soups-without-stock/tomato-soup.md)（p. 140）
+- [Cream of Tomato Soup](../recipes/09-soups-without-stock/cream-of-tomato-soup.md)（p. 141）
+- [Mock Bisque Soup](../recipes/09-soups-without-stock/mock-bisque-soup.md)（p. 141）
+- [Tapioca Wine Soup](../recipes/09-soups-without-stock/tapioca-wine-soup.md)（p. 141）
+- [Corn Chowder](../recipes/09-soups-without-stock/corn-chowder.md)（p. 142）
+- [Fish Chowder](../recipes/09-soups-without-stock/fish-chowder.md)（p. 142）
+- [Connecticut Chowder](../recipes/09-soups-without-stock/connecticut-chowder.md)（p. 143）
+- [Clam Chowder](../recipes/09-soups-without-stock/clam-chowder.md)（p. 143）
+- [Rhode Island Chowder](../recipes/09-soups-without-stock/rhode-island-chowder.md)（p. 144）
+- [Lobster Chowder](../recipes/09-soups-without-stock/lobster-chowder.md)（p. 144）
+- [German Chowder](../recipes/09-soups-without-stock/german-chowder.md)（p. 145）
+
+## Chapter 10. Soup Garnishings and Force-Meats
+
+- [Crisp Crackers](../recipes/10-soup-garnishings-and-force-meats/crisp-crackers.md)（p. 145）
+- [Souffléd Crackers](../recipes/10-soup-garnishings-and-force-meats/souffled-crackers.md)（p. 145）
+- [Crackers with Cheese](../recipes/10-soup-garnishings-and-force-meats/crackers-with-cheese.md)（p. 145）
+- [Croûtons (Duchess Crusts)](../recipes/10-soup-garnishings-and-force-meats/croutons-duchess-crusts.md)（p. 145）
+- [Cheese Sticks](../recipes/10-soup-garnishings-and-force-meats/cheese-sticks.md)（p. 145）
+- [Imperial Sticks in Rings](../recipes/10-soup-garnishings-and-force-meats/imperial-sticks-in-rings.md)（p. 146）
+- [Mock Almonds](../recipes/10-soup-garnishings-and-force-meats/mock-almonds.md)（p. 146）
+- [Pulled Bread](../recipes/10-soup-garnishings-and-force-meats/pulled-bread.md)（p. 146）
+- [Egg Balls I](../recipes/10-soup-garnishings-and-force-meats/egg-balls-i.md)（p. 146）
+- [Egg Balls II](../recipes/10-soup-garnishings-and-force-meats/egg-balls-ii.md)（p. 146）
+- [Egg Custard](../recipes/10-soup-garnishings-and-force-meats/egg-custard.md)（p. 147）
+- [Harlequin Slices](../recipes/10-soup-garnishings-and-force-meats/harlequin-slices.md)（p. 147）
+- [Royal Custard](../recipes/10-soup-garnishings-and-force-meats/royal-custard.md)（p. 147）
+- [Chicken Custard](../recipes/10-soup-garnishings-and-force-meats/chicken-custard.md)（p. 147）
+- [Noodles](../recipes/10-soup-garnishings-and-force-meats/noodles.md)（p. 148）
+- [Fritter Beans](../recipes/10-soup-garnishings-and-force-meats/fritter-beans.md)（p. 148）
+- [Pâte à Choux](../recipes/10-soup-garnishings-and-force-meats/pate-a-choux.md)（p. 148）
+- [Parmesan Pâte à Choux](../recipes/10-soup-garnishings-and-force-meats/parmesan-pate-a-choux.md)（p. 148）
+- [White Bait Garnish](../recipes/10-soup-garnishings-and-force-meats/white-bait-garnish.md)（p. 148）
+- [Fish Force-meat I](../recipes/10-soup-garnishings-and-force-meats/fish-force-meat-i.md)（p. 149）
+- [Fish Force-meat II](../recipes/10-soup-garnishings-and-force-meats/fish-force-meat-ii.md)（p. 149）
+- [Salmon Force-meat](../recipes/10-soup-garnishings-and-force-meats/salmon-force-meat.md)（p. 149）
+- [Oyster Force-meat](../recipes/10-soup-garnishings-and-force-meats/oyster-force-meat.md)（p. 149）
+- [Clam Force-meat](../recipes/10-soup-garnishings-and-force-meats/clam-force-meat.md)（p. 149）
+- [Chicken Force-meat I](../recipes/10-soup-garnishings-and-force-meats/chicken-force-meat-i.md)（p. 150）
+- [Chicken Force-meat II](../recipes/10-soup-garnishings-and-force-meats/chicken-force-meat-ii.md)（p. 150）
+- [Quenelles](../recipes/10-soup-garnishings-and-force-meats/quenelles.md)（p. 151）
+
+## Chapter 11. Fish
+
+- [Boiled Haddock](../recipes/11-fish/boiled-haddock.md)（p. 162）
+- [Boiled Salmon](../recipes/11-fish/boiled-salmon.md)（p. 163）
+- [Steamed Halibut, Silesian Sauce](../recipes/11-fish/steamed-halibut-silesian-sauce.md)（p. 163）
+- [Broiled Scrod](../recipes/11-fish/broiled-scrod.md)（p. 163）
+- [Broiled Chicken Halibut](../recipes/11-fish/broiled-chicken-halibut.md)（p. 163）
+- [Broiled Swordfish](../recipes/11-fish/broiled-swordfish.md)（p. 163）
+- [Broiled Shad Roe](../recipes/11-fish/broiled-shad-roe.md)（p. 164）
+- [Broiled Pompano with Fricassee of Clams](../recipes/11-fish/broiled-pompano-with-fricassee-of-clams.md)（p. 160）
+- [Baked Haddock with Stuffing](../recipes/11-fish/baked-haddock-with-stuffing.md)（p. 160）
+- [Fish Stuffing I](../recipes/11-fish/fish-stuffing-i.md)（p. 165）
+- [Fish Stuffing II](../recipes/11-fish/fish-stuffing-ii.md)（p. 165）
+- [Baked Bluefish](../recipes/11-fish/baked-bluefish.md)（p. 165）
+- [Breslin Baked Bluefish](../recipes/11-fish/breslin-baked-bluefish.md)（p. 165）
+- [Bluefish à l'Italienne](../recipes/11-fish/bluefish-a-litalienne.md)（p. 165）
+- [Baked Cod with Oyster Stuffing](../recipes/11-fish/baked-cod-with-oyster-stuffing.md)（p. 166）
+- [Oyster Stuffing](../recipes/11-fish/oyster-stuffing.md)（p. 166）
+- [Baked Haddock with Oyster Stuffing](../recipes/11-fish/baked-haddock-with-oyster-stuffing.md)（p. 166）
+- [Baked Halibut with Tomato Sauce](../recipes/11-fish/baked-halibut-with-tomato-sauce.md)（p. 166）
+- [Baked Halibut with Lobster Sauce](../recipes/11-fish/baked-halibut-with-lobster-sauce.md)（p. 167）
+- [Hollenden Halibut](../recipes/11-fish/hollenden-halibut.md)（p. 167）
+- [Baked Mackerel](../recipes/11-fish/baked-mackerel.md)（p. 167）
+- [Planked Shad or Whitefish](../recipes/11-fish/planked-shad-or-whitefish.md)（p. 168）
+- [Planked Shad with Creamed Roe](../recipes/11-fish/planked-shad-with-creamed-roe.md)（p. 168）
+- [Planked Haddock](../recipes/11-fish/planked-haddock.md)（p. 168）
+- [Baked Stuffed Smelts](../recipes/11-fish/baked-stuffed-smelts.md)（p. 169）
+- [Smelts à la Langtry](../recipes/11-fish/smelts-a-la-langtry.md)（p. 169）
+- [Baked Shad Roe with Tomato Sauce](../recipes/11-fish/baked-shad-roe-with-tomato-sauce.md)（p. 169）
+- [Baked Fillets of Bass or Halibut](../recipes/11-fish/baked-fillets-of-bass-or-halibut.md)（p. 169）
+- [Fillets of Halibut with Brown Sauce](../recipes/11-fish/fillets-of-halibut-with-brown-sauce.md)（p. 170）
+- [Fillets of Haddock, White Wine Sauce](../recipes/11-fish/fillets-of-haddock-white-wine-sauce.md)（p. 170）
+- [Halibut à la Poulette](../recipes/11-fish/halibut-a-la-poulette.md)（p. 170）
+- [Moulded Fish, Normandy Sauce](../recipes/11-fish/moulded-fish-normandy-sauce.md)（p. 171）
+- [Halibut à la Martin](../recipes/11-fish/halibut-a-la-martin.md)（p. 171）
+- [Fillets of Fish à la Bement](../recipes/11-fish/fillets-of-fish-a-la-bement.md)（p. 171）
+- [Halibut à la Rarebit](../recipes/11-fish/halibut-a-la-rarebit.md)（p. 172）
+- [Sandwiches of Chicken Halibut](../recipes/11-fish/sandwiches-of-chicken-halibut.md)（p. 172）
+- [Sole à la Bercy](../recipes/11-fish/sole-a-la-bercy.md)（p. 172）
+- [Halibut au Lit](../recipes/11-fish/halibut-au-lit.md)（p. 173）
+- [Fried Cod Steaks](../recipes/11-fish/fried-cod-steaks.md)（p. 173）
+- [Fried Smelts](../recipes/11-fish/fried-smelts.md)（p. 173）
+- [Smelts à la Menière](../recipes/11-fish/smelts-a-la-meniere.md)（p. 173）
+- [Fried Fillets of Halibut or Flounder](../recipes/11-fish/fried-fillets-of-halibut-or-flounder.md)（p. 174）
+- [Fried Fish, Russian Style, Mushroom Sauce](../recipes/11-fish/fried-fish-russian-style-mushroom-sauce.md)（p. 174）
+- [Fried Eels](../recipes/11-fish/fried-eels.md)（p. 174）
+- [Fried Stuffed Smelts](../recipes/11-fish/fried-stuffed-smelts.md)（p. 174）
+- [Fried Shad Roe](../recipes/11-fish/fried-shad-roe.md)（p. 174）
+- [Soft-shell Crabs](../recipes/11-fish/soft-shell-crabs.md)（p. 175）
+- [Frogs' Hind Legs](../recipes/11-fish/frogs-hind-legs.md)（p. 175）
+- [Terrapin](../recipes/11-fish/terrapin.md)（p. 175）
+- [Terrapin à la Baltimore](../recipes/11-fish/terrapin-a-la-baltimore.md)（p. 175）
+- [Terrapin à la Maryland](../recipes/11-fish/terrapin-a-la-maryland.md)（p. 176）
+- [Washington Terrapin](../recipes/11-fish/washington-terrapin.md)（p. 176）
+- [Fish à la Crême](../recipes/11-fish/fish-a-la-creme.md)（p. 176）
+- [Turban of Fish](../recipes/11-fish/turban-of-fish.md)（p. 177）
+- [Fish Hash](../recipes/11-fish/fish-hash.md)（p. 177）
+- [Fish Croquettes](../recipes/11-fish/fish-croquettes.md)（p. 177）
+- [Fish and Egg Croquettes](../recipes/11-fish/fish-and-egg-croquettes.md)（p. 177）
+- [Scalloped Cod](../recipes/11-fish/scalloped-cod.md)（p. 177）
+- [Salmon Box](../recipes/11-fish/salmon-box.md)（p. 178）
+- [Creamed Salt Codfish](../recipes/11-fish/creamed-salt-codfish.md)（p. 178）
+- [Fish Balls](../recipes/11-fish/fish-balls.md)（p. 178）
+- [Salted Codfish Hash](../recipes/11-fish/salted-codfish-hash.md)（p. 178）
+- [Toasted Salt Fish](../recipes/11-fish/toasted-salt-fish.md)（p. 179）
+- [Kippered Herrings](../recipes/11-fish/kippered-herrings.md)（p. 179）
+- [Baked Finnan Haddie](../recipes/11-fish/baked-finnan-haddie.md)（p. 179）
+- [Broiled Finnan Haddie](../recipes/11-fish/broiled-finnan-haddie.md)（p. 179）
+- [Finnan Haddie à la Delmonico](../recipes/11-fish/finnan-haddie-a-la-delmonico.md)（p. 179）
+- [Oysters on the Half Shell](../recipes/11-fish/oysters-on-the-half-shell.md)（p. 179）
+- [Raw Oysters](../recipes/11-fish/raw-oysters.md)（p. 180）
+- [Oyster Cocktail I](../recipes/11-fish/oyster-cocktail-i.md)（p. 180）
+- [Oyster Cocktail II](../recipes/11-fish/oyster-cocktail-ii.md)（p. 180）
+- [Oyster Cocktail III](../recipes/11-fish/oyster-cocktail-iii.md)（p. 180）
+- [Roasted Oysters](../recipes/11-fish/roasted-oysters.md)（p. 181）
+- [Oysters à la Ballard](../recipes/11-fish/oysters-a-la-ballard.md)（p. 181）
+- [Panned Oysters](../recipes/11-fish/panned-oysters.md)（p. 181）
+- [Fancy Roast](../recipes/11-fish/fancy-roast.md)（p. 181）
+- [Oyster Fricassee](../recipes/11-fish/oyster-fricassee.md)（p. 182）
+- [Creamed Oysters](../recipes/11-fish/creamed-oysters.md)（p. 182）
+- [Oysters in Brown Sauce](../recipes/11-fish/oysters-in-brown-sauce.md)（p. 182）
+- [Savory Oysters](../recipes/11-fish/savory-oysters.md)（p. 182）
+- [Oysters à la Astor](../recipes/11-fish/oysters-a-la-astor.md)（p. 183）
+- [Broiled Oysters](../recipes/11-fish/broiled-oysters.md)（p. 183）
+- [Oyster Toast](../recipes/11-fish/oyster-toast.md)（p. 183）
+- [Oysters and Macaroni](../recipes/11-fish/oysters-and-macaroni.md)（p. 183）
+- [Scalloped Oysters](../recipes/11-fish/scalloped-oysters.md)（p. 184）
+- [Sautéd Oysters](../recipes/11-fish/sauted-oysters.md)（p. 184）
+- [Oysters with Bacon](../recipes/11-fish/oysters-with-bacon.md)（p. 184）
+- [Fried Oysters](../recipes/11-fish/fried-oysters.md)（p. 184）
+- [Fried Oysters in Batter](../recipes/11-fish/fried-oysters-in-batter.md)（p. 184）
+- [Batter](../recipes/11-fish/batter.md)（p. 185）
+- [Fried Oysters. Philadelphia Relish](../recipes/11-fish/fried-oysters-philadelphia-relish.md)（p. 185）
+- [Little Neck Clams](../recipes/11-fish/little-neck-clams.md)（p. 185）
+- [Steamed Clams](../recipes/11-fish/steamed-clams.md)（p. 185）
+- [Roasted Clams](../recipes/11-fish/roasted-clams.md)（p. 185）
+- [Clams, Union League](../recipes/11-fish/clams-union-league.md)（p. 186）
+- [Clams à la Grand Union](../recipes/11-fish/clams-a-la-grand-union.md)（p. 186）
+- [Fried Scallops](../recipes/11-fish/fried-scallops.md)（p. 186）
+- [Plain Lobster](../recipes/11-fish/plain-lobster.md)（p. 186）
+- [Lobster Cocktail](../recipes/11-fish/lobster-cocktail.md)（p. 186）
+- [Fried Lobster](../recipes/11-fish/fried-lobster.md)（p. 187）
+- [Buttered Lobster](../recipes/11-fish/buttered-lobster.md)（p. 187）
+- [Scalloped Lobster](../recipes/11-fish/scalloped-lobster.md)（p. 187）
+- [Devilled Lobster](../recipes/11-fish/devilled-lobster.md)（p. 187）
+- [Curried Lobster](../recipes/11-fish/curried-lobster.md)（p. 187）
+- [Lobster Farci](../recipes/11-fish/lobster-farci.md)（p. 188）
+- [Lobster and Oyster Filling](../recipes/11-fish/lobster-and-oyster-filling.md)（p. 188）
+- [Fricassee of Lobster and Mushrooms](../recipes/11-fish/fricassee-of-lobster-and-mushrooms.md)（p. 188）
+- [Lobster and Oyster Ragout](../recipes/11-fish/lobster-and-oyster-ragout.md)（p. 189）
+- [Stuffed Lobster à la Béchamel](../recipes/11-fish/stuffed-lobster-a-la-bechamel.md)（p. 189）
+- [Broiled Live Lobster](../recipes/11-fish/broiled-live-lobster.md)（p. 189）
+- [Baked Live Lobster. Devilled Sauce.](../recipes/11-fish/baked-live-lobster-devilled-sauce.md)（p. 190）
+- [Live Lobster en Brochette](../recipes/11-fish/live-lobster-en-brochette.md)（p. 190）
+- [Lobster à l'Américaine](../recipes/11-fish/lobster-a-lamericaine.md)（p. 190）
+- [Lobster à la Muisset](../recipes/11-fish/lobster-a-la-muisset.md)（p. 191）
+
+## Chapter 12. Beef
+
+- [Broiled Beefsteak](../recipes/12-beef/broiled-beefsteak.md)（p. 196）
+- [Beefsteak with Maître d'Hôtel Butter](../recipes/12-beef/beefsteak-with-maitre-dhotel-butter.md)（p. 196）
+- [Porterhouse Steak with Mushroom Sauce](../recipes/12-beef/porterhouse-steak-with-mushroom-sauce.md)（p. 196）
+- [Porterhouse Steak with Tomato and Mushroom Sauce](../recipes/12-beef/porterhouse-steak-with-tomato-and-mushroom-sauce.md)（p. 196）
+- [Porterhouse Steak, Bordelaise Sauce](../recipes/12-beef/porterhouse-steak-bordelaise-sauce.md)（p. 197）
+- [Beefsteak à la Henriette](../recipes/12-beef/beefsteak-a-la-henriette.md)（p. 274）
+- [Beefsteak à la Victor Hugo](../recipes/12-beef/beefsteak-a-la-victor-hugo.md)（p. 274）
+- [Steak à la Chiron](../recipes/12-beef/steak-a-la-chiron.md)（p. 274）
+- [Beefsteak à la Mirabeau](../recipes/12-beef/beefsteak-a-la-mirabeau.md)（p. 198）
+- [Beefsteak with Oyster Blanket](../recipes/12-beef/beefsteak-with-oyster-blanket.md)（p. 147）
+- [Planked Beefsteak](../recipes/12-beef/planked-beefsteak.md)（p. 147）
+- [Broiled Fillets of Beef](../recipes/12-beef/broiled-fillets-of-beef.md)（p. 199）
+- [Cutlets of Tenderloin with Chestnut Purée](../recipes/12-beef/cutlets-of-tenderloin-with-chestnut-puree.md)（p. 199）
+- [Sautéd Mignon Fillets of Beef with Sauce Figaro](../recipes/12-beef/sauted-mignon-fillets-of-beef-with-sauce-figaro.md)（p. 199）
+- [Sautéd Mignon Fillets of Beef with Sauce Trianon](../recipes/12-beef/sauted-mignon-fillets-of-beef-with-sauce-trianon.md)（p. 199）
+- [Sautéd Fillets of Beef à la Moelle](../recipes/12-beef/sauted-fillets-of-beef-a-la-moelle.md)（p. 199）
+- [Sautéd Fillets of Beef, Cherry Sauce](../recipes/12-beef/sauted-fillets-of-beef-cherry-sauce.md)（p. 200）
+- [Sautéd Fillets of Beef with Stuffed Mushroom Caps](../recipes/12-beef/sauted-fillets-of-beef-with-stuffed-mushroom-caps.md)（p. 200）
+- [Châteaubriand of Beef](../recipes/12-beef/chateaubriand-of-beef.md)（p. 200）
+- [Broiled Meat Cakes](../recipes/12-beef/broiled-meat-cakes.md)（p. 200）
+- [Hamburg Steaks](../recipes/12-beef/hamburg-steaks.md)（p. 201）
+- [Cannelon of Beef](../recipes/12-beef/cannelon-of-beef.md)（p. 201）
+- [Roast Beef](../recipes/12-beef/roast-beef.md)（p. 202）
+- [Yorkshire Pudding](../recipes/12-beef/yorkshire-pudding.md)（p. 203）
+- [Larded Fillet of Beef](../recipes/12-beef/larded-fillet-of-beef.md)（p. 23）
+- [Fillet of Beef with Vegetables](../recipes/12-beef/fillet-of-beef-with-vegetables.md)（p. 204）
+- [Braised Beef](../recipes/12-beef/braised-beef.md)（p. 204）
+- [Beef à la Mode](../recipes/12-beef/beef-a-la-mode.md)（p. 204）
+- [Pressed Beef Flank](../recipes/12-beef/pressed-beef-flank.md)（p. 205）
+- [Beef Stew with Dumplings](../recipes/12-beef/beef-stew-with-dumplings.md)（p. 205）
+- [Dumplings](../recipes/12-beef/dumplings.md)（p. 206）
+- [Corned Beef](../recipes/12-beef/corned-beef.md)（p. 206）
+- [Boiled Dinner](../recipes/12-beef/boiled-dinner.md)（p. 207）
+- [Boiled Tongue](../recipes/12-beef/boiled-tongue.md)（p. 207）
+- [Braised Tongue](../recipes/12-beef/braised-tongue.md)（p. 207）
+- [Broiled Liver](../recipes/12-beef/broiled-liver.md)（p. 207）
+- [Liver and Bacon](../recipes/12-beef/liver-and-bacon.md)（p. 208）
+- [Bacon I](../recipes/12-beef/bacon-i.md)（p. 208）
+- [Bacon II](../recipes/12-beef/bacon-ii.md)（p. 208）
+- [Braised Liver](../recipes/12-beef/braised-liver.md)（p. 208）
+- [Calf's Liver, Stuffed and Larded](../recipes/12-beef/calfs-liver-stuffed-and-larded.md)（p. 209）
+- [Broiled Tripe](../recipes/12-beef/broiled-tripe.md)（p. 209）
+- [Tripe in Batter](../recipes/12-beef/tripe-in-batter.md)（p. 209）
+- [Tripe Fried in Batter](../recipes/12-beef/tripe-fried-in-batter.md)（p. 209）
+- [Lyonnaise Tripe](../recipes/12-beef/lyonnaise-tripe.md)（p. 210）
+- [Tripe à la Creole](../recipes/12-beef/tripe-a-la-creole.md)（p. 210）
+- [Tripe à la Provençale](../recipes/12-beef/tripe-a-la-provencale.md)（p. 210）
+- [Calf's Head à la Terrapin](../recipes/12-beef/calfs-head-a-la-terrapin.md)（p. 210）
+- [Calves' Tongues](../recipes/12-beef/calves-tongues.md)（p. 210）
+- [Calves' Tongues, Sauce Piquante](../recipes/12-beef/calves-tongues-sauce-piquante.md)（p. 211）
+- [Calf's Heart](../recipes/12-beef/calfs-heart.md)（p. 164）
+- [Stuffed Hearts with Vegetables](../recipes/12-beef/stuffed-hearts-with-vegetables.md)（p. 164）
+- [Braised Ox Joints](../recipes/12-beef/braised-ox-joints.md)（p. 212）
+- [Roast Beef with Gravy](../recipes/12-beef/roast-beef-with-gravy.md)（p. 212）
+- [Roast Beef, Mexican Sauce](../recipes/12-beef/roast-beef-mexican-sauce.md)（p. 212）
+- [Cottage Pie](../recipes/12-beef/cottage-pie.md)（p. 212）
+- [Beefsteak Pie](../recipes/12-beef/beefsteak-pie.md)（p. 213）
+- [Cecils with Tomato Sauce](../recipes/12-beef/cecils-with-tomato-sauce.md)（p. 213）
+- [Corned Beef Hash](../recipes/12-beef/corned-beef-hash.md)（p. 213）
+- [Corned Beef Hash with Beets](../recipes/12-beef/corned-beef-hash-with-beets.md)（p. 213）
+- [Dried Beef with Cream](../recipes/12-beef/dried-beef-with-cream.md)（p. 214）
+
+## Chapter 13. Lamb and Mutton
+
+- [Broiled Lamb or Mutton Chops](../recipes/13-lamb-and-mutton/broiled-lamb-or-mutton-chops.md)（p. 196）
+- [Pan-broiled Chops](../recipes/13-lamb-and-mutton/pan-broiled-chops.md)（p. 216）
+- [Breaded Mutton Chops](../recipes/13-lamb-and-mutton/breaded-mutton-chops.md)（p. 216）
+- [Chops à la Signora](../recipes/13-lamb-and-mutton/chops-a-la-signora.md)（p. 216）
+- [Lamb Chops à la Marseilles](../recipes/13-lamb-and-mutton/lamb-chops-a-la-marseilles.md)（p. 216）
+- [Chops à la Castillane](../recipes/13-lamb-and-mutton/chops-a-la-castillane.md)（p. 217）
+- [Chops en Papillote](../recipes/13-lamb-and-mutton/chops-en-papillote.md)（p. 217）
+- [Mutton Cutlets à la Maintenon](../recipes/13-lamb-and-mutton/mutton-cutlets-a-la-maintenon.md)（p. 217）
+- [Boiled Leg of Mutton](../recipes/13-lamb-and-mutton/boiled-leg-of-mutton.md)（p. 218）
+- [Braised Leg of Mutton](../recipes/13-lamb-and-mutton/braised-leg-of-mutton.md)（p. 218）
+- [Stuffing](../recipes/13-lamb-and-mutton/stuffing.md)（p. 218）
+- [Roast Lamb](../recipes/13-lamb-and-mutton/roast-lamb.md)（p. 202）
+- [Lamb Bretonne](../recipes/13-lamb-and-mutton/lamb-bretonne.md)（p. 219）
+- [Saddle of Mutton](../recipes/13-lamb-and-mutton/saddle-of-mutton.md)（p. 219）
+- [Saddle of Mutton, Currant Mint Sauce](../recipes/13-lamb-and-mutton/saddle-of-mutton-currant-mint-sauce.md)（p. 219）
+- [Saddle of Lamb à l'Estragnon](../recipes/13-lamb-and-mutton/saddle-of-lamb-a-lestragnon.md)（p. 219）
+- [Crown of Lamb](../recipes/13-lamb-and-mutton/crown-of-lamb.md)（p. 220）
+- [Lamb en Casserole](../recipes/13-lamb-and-mutton/lamb-en-casserole.md)（p. 220）
+- [Mutton Curry](../recipes/13-lamb-and-mutton/mutton-curry.md)（p. 221）
+- [Fricassee of Lamb with Brown Gravy](../recipes/13-lamb-and-mutton/fricassee-of-lamb-with-brown-gravy.md)（p. 221）
+- [Mutton Broth](../recipes/13-lamb-and-mutton/mutton-broth.md)（p. 221）
+- [Irish Stew with Dumplings](../recipes/13-lamb-and-mutton/irish-stew-with-dumplings.md)（p. 205）
+- [Scotch Broth](../recipes/13-lamb-and-mutton/scotch-broth.md)（p. 222）
+- [Lambs' Kidneys I](../recipes/13-lamb-and-mutton/lambs-kidneys-i.md)（p. 222）
+- [Lambs' Kidneys II](../recipes/13-lamb-and-mutton/lambs-kidneys-ii.md)（p. 222）
+- [Ragout of Kidneys](../recipes/13-lamb-and-mutton/ragout-of-kidneys.md)（p. 223）
+- [Kidney Rolls](../recipes/13-lamb-and-mutton/kidney-rolls.md)（p. 223）
+- [Minced Lamb on Toast](../recipes/13-lamb-and-mutton/minced-lamb-on-toast.md)（p. 223）
+- [Scalloped Lamb](../recipes/13-lamb-and-mutton/scalloped-lamb.md)（p. 223）
+- [Blanquette of Lamb](../recipes/13-lamb-and-mutton/blanquette-of-lamb.md)（p. 224）
+- [Barbecued Lamb](../recipes/13-lamb-and-mutton/barbecued-lamb.md)（p. 224）
+- [Rechauffé of Lamb](../recipes/13-lamb-and-mutton/rechauffe-of-lamb.md)（p. 224）
+- [Salmi of Lamb](../recipes/13-lamb-and-mutton/salmi-of-lamb.md)（p. 224）
+- [Casserole of Rice and Meat](../recipes/13-lamb-and-mutton/casserole-of-rice-and-meat.md)（p. 225）
+- [Breast of Lamb](../recipes/13-lamb-and-mutton/breast-of-lamb.md)（p. 226）
+
+## Chapter 14. Veal
+
+- [Veal Cutlets](../recipes/14-veal/veal-cutlets.md)（p. 227）
+- [Veal Chops Bavarian](../recipes/14-veal/veal-chops-bavarian.md)（p. 267）
+- [Fricassee of Veal](../recipes/14-veal/fricassee-of-veal.md)（p. 228）
+- [Minuten Fleisch](../recipes/14-veal/minuten-fleisch.md)（p. 228）
+- [Loin of Veal à la Jardinière](../recipes/14-veal/loin-of-veal-a-la-jardiniere.md)（p. 228）
+- [Braised Shoulder of Veal](../recipes/14-veal/braised-shoulder-of-veal.md)（p. 228）
+- [English Meat Pie](../recipes/14-veal/english-meat-pie.md)（p. 229）
+- [Roast Veal](../recipes/14-veal/roast-veal.md)（p. 229）
+- [Fricandeau of Veal](../recipes/14-veal/fricandeau-of-veal.md)（p. 229）
+- [India Curry](../recipes/14-veal/india-curry.md)（p. 229）
+- [Veal Birds](../recipes/14-veal/veal-birds.md)（p. 230）
+- [Veal Loaf I](../recipes/14-veal/veal-loaf-i.md)（p. 230）
+- [Veal Loaf II](../recipes/14-veal/veal-loaf-ii.md)（p. 231）
+- [Broiled Veal Kidneys](../recipes/14-veal/broiled-veal-kidneys.md)（p. 231）
+- [Veal Kidneys à la Canfield](../recipes/14-veal/veal-kidneys-a-la-canfield.md)（p. 231）
+- [Minced Veal on Toast](../recipes/14-veal/minced-veal-on-toast.md)（p. 231）
+- [Blanquette of Veal](../recipes/14-veal/blanquette-of-veal.md)（p. 231）
+- [Ragoût of Veal](../recipes/14-veal/ragout-of-veal.md)（p. 232）
+
+## Chapter 15. Sweetbreads
+
+- [Broiled Sweetbread](../recipes/15-sweetbreads/broiled-sweetbread.md)（p. 233）
+- [Creamed Sweetbread](../recipes/15-sweetbreads/creamed-sweetbread.md)（p. 233）
+- [Creamed Sweetbread and Chicken](../recipes/15-sweetbreads/creamed-sweetbread-and-chicken.md)（p. 233）
+- [Sweetbread à la Poulette](../recipes/15-sweetbreads/sweetbread-a-la-poulette.md)（p. 233）
+- [Sweetbreads, Country Style](../recipes/15-sweetbreads/sweetbreads-country-style.md)（p. 233）
+- [Larded Sweetbread](../recipes/15-sweetbreads/larded-sweetbread.md)（p. 233）
+- [Sweetbreads à la Napoli](../recipes/15-sweetbreads/sweetbreads-a-la-napoli.md)（p. 234）
+- [Braised Sweetbreads Eugénie](../recipes/15-sweetbreads/braised-sweetbreads-eugenie.md)（p. 234）
+- [Sweetbread Cutlets with Asparagus Tips](../recipes/15-sweetbreads/sweetbread-cutlets-with-asparagus-tips.md)（p. 234）
+- [Sweetbread with Tomato Sauce](../recipes/15-sweetbreads/sweetbread-with-tomato-sauce.md)（p. 234）
+- [Sweetbread and Bacon](../recipes/15-sweetbreads/sweetbread-and-bacon.md)（p. 235）
+
+## Chapter 16. Pork
+
+- [Pork Chops](../recipes/16-pork/pork-chops.md)（p. 236）
+- [Pork Chops with Fried Apples](../recipes/16-pork/pork-chops-with-fried-apples.md)（p. 236）
+- [Roast Pork](../recipes/16-pork/roast-pork.md)（p. 236）
+- [Pork Tenderloins with Sweet Potatoes](../recipes/16-pork/pork-tenderloins-with-sweet-potatoes.md)（p. 236）
+- [Breakfast Bacon](../recipes/16-pork/breakfast-bacon.md)（p. 207）
+- [Fried Salt Pork with Codfish](../recipes/16-pork/fried-salt-pork-with-codfish.md)（p. 237）
+- [Broiled Ham](../recipes/16-pork/broiled-ham.md)（p. 237）
+- [Fried Ham and Eggs](../recipes/16-pork/fried-ham-and-eggs.md)（p. 237）
+- [Barbecued Ham](../recipes/16-pork/barbecued-ham.md)（p. 237）
+- [Boiled Ham](../recipes/16-pork/boiled-ham.md)（p. 28）
+- [Roast Ham with Champagne Sauce](../recipes/16-pork/roast-ham-with-champagne-sauce.md)（p. 238）
+- [Westphalian Ham](../recipes/16-pork/westphalian-ham.md)（p. 238）
+- [Broiled Pigs' Feet](../recipes/16-pork/broiled-pigs-feet.md)（p. 238）
+- [Fried Pigs' Feet](../recipes/16-pork/fried-pigs-feet.md)（p. 238）
+- [Sausages](../recipes/16-pork/sausages.md)（p. 238）
+- [Boston Baked Beans](../recipes/16-pork/boston-baked-beans.md)（p. 239）
+
+## Chapter 17. Poultry and Game
+
+- [Broiled Chicken](../recipes/17-poultry-and-game/broiled-chicken.md)（p. 244）
+- [Boiled Fowl](../recipes/17-poultry-and-game/boiled-fowl.md)（p. 246）
+- [Boiled Capon with Cauliflower Sauce](../recipes/17-poultry-and-game/boiled-capon-with-cauliflower-sauce.md)（p. 246）
+- [Chicken à la Providence](../recipes/17-poultry-and-game/chicken-a-la-providence.md)（p. 246）
+- [Stewed Chicken with Onions](../recipes/17-poultry-and-game/stewed-chicken-with-onions.md)（p. 246）
+- [Chicken à la Stanley](../recipes/17-poultry-and-game/chicken-a-la-stanley.md)（p. 246）
+- [Chili Con Carni](../recipes/17-poultry-and-game/chili-con-carni.md)（p. 247）
+- [Roast Chicken](../recipes/17-poultry-and-game/roast-chicken.md)（p. 247）
+- [Stuffing I](../recipes/17-poultry-and-game/stuffing-i.md)（p. 247）
+- [Stuffing II](../recipes/17-poultry-and-game/stuffing-ii.md)（p. 248）
+- [Gravy](../recipes/17-poultry-and-game/gravy.md)（p. 248）
+- [Braised Chicken](../recipes/17-poultry-and-game/braised-chicken.md)（p. 248）
+- [Chicken Fricassee](../recipes/17-poultry-and-game/chicken-fricassee.md)（p. 249）
+- [Fried Chicken](../recipes/17-poultry-and-game/fried-chicken.md)（p. 249）
+- [Fried Chicken (Southern Style)](../recipes/17-poultry-and-game/fried-chicken-southern-style.md)（p. 249）
+- [Maryland Chicken](../recipes/17-poultry-and-game/maryland-chicken.md)（p. 249）
+- [Blanketed Chicken](../recipes/17-poultry-and-game/blanketed-chicken.md)（p. 250）
+- [Chicken à la Merango](../recipes/17-poultry-and-game/chicken-a-la-merango.md)（p. 250）
+- [Sauce](../recipes/17-poultry-and-game/sauce.md)（p. 250）
+- [Baked Chicken](../recipes/17-poultry-and-game/baked-chicken.md)（p. 250）
+- [Planked Chicken](../recipes/17-poultry-and-game/planked-chicken.md)（p. 251）
+- [Chicken Gumbo](../recipes/17-poultry-and-game/chicken-gumbo.md)（p. 312）
+- [Chicken Stew](../recipes/17-poultry-and-game/chicken-stew.md)（p. 312）
+- [Chicken Pie](../recipes/17-poultry-and-game/chicken-pie.md)（p. 252）
+- [Chicken Curry](../recipes/17-poultry-and-game/chicken-curry.md)（p. 252）
+- [Chicken en Casserole](../recipes/17-poultry-and-game/chicken-en-casserole.md)（p. 252）
+- [Breslin Potted Chicken](../recipes/17-poultry-and-game/breslin-potted-chicken.md)（p. 253）
+- [Jellied Chicken](../recipes/17-poultry-and-game/jellied-chicken.md)（p. 253）
+- [Chickens' Livers with Madeira Sauce](../recipes/17-poultry-and-game/chickens-livers-with-madeira-sauce.md)（p. 253）
+- [Sautéd Chickens' Livers](../recipes/17-poultry-and-game/sauted-chickens-livers.md)（p. 254）
+- [Chickens' Livers with Curry](../recipes/17-poultry-and-game/chickens-livers-with-curry.md)（p. 254）
+- [Boiled Turkey](../recipes/17-poultry-and-game/boiled-turkey.md)（p. 254）
+- [Roast Turkey](../recipes/17-poultry-and-game/roast-turkey.md)（p. 255）
+- [Chestnut Stuffing](../recipes/17-poultry-and-game/chestnut-stuffing.md)（p. 255）
+- [Oyster Stuffing](../recipes/17-poultry-and-game/oyster-stuffing.md)（p. 255）
+- [Turkey Stuffing (Swedish Style)](../recipes/17-poultry-and-game/turkey-stuffing-swedish-style.md)（p. 255）
+- [Gravy](../recipes/17-poultry-and-game/gravy-2.md)（p. 255）
+- [Chestnut Gravy](../recipes/17-poultry-and-game/chestnut-gravy.md)（p. 255）
+- [Roast Goose with Potato Stuffing](../recipes/17-poultry-and-game/roast-goose-with-potato-stuffing.md)（p. 256）
+- [Potato Stuffing](../recipes/17-poultry-and-game/potato-stuffing.md)（p. 256）
+- [Goose Stuffing (Chestnut)](../recipes/17-poultry-and-game/goose-stuffing-chestnut.md)（p. 257）
+- [To Truss a Goose](../recipes/17-poultry-and-game/to-truss-a-goose.md)（p. 257）
+- [Roast Wild Duck](../recipes/17-poultry-and-game/roast-wild-duck.md)（p. 257）
+- [Duck Stuffing (Peanut)](../recipes/17-poultry-and-game/duck-stuffing-peanut.md)（p. 257）
+- [Braised Duck](../recipes/17-poultry-and-game/braised-duck.md)（p. 258）
+- [Broiled Quail](../recipes/17-poultry-and-game/broiled-quail.md)（p. 258）
+- [Roast Quail](../recipes/17-poultry-and-game/roast-quail.md)（p. 258）
+- [Larded Grouse](../recipes/17-poultry-and-game/larded-grouse.md)（p. 258）
+- [Breast of Grouse Sauté Chasseur](../recipes/17-poultry-and-game/breast-of-grouse-saute-chasseur.md)（p. 258）
+- [Broiled or Roasted Plover](../recipes/17-poultry-and-game/broiled-or-roasted-plover.md)（p. 258）
+- [Potted Pigeons](../recipes/17-poultry-and-game/potted-pigeons.md)（p. 259）
+- [Stuffing](../recipes/17-poultry-and-game/stuffing.md)（p. 259）
+- [Broiled Venison Steak](../recipes/17-poultry-and-game/broiled-venison-steak.md)（p. 259）
+- [Venison Steaks, Sautéd, Cumberland Sauce](../recipes/17-poultry-and-game/venison-steaks-sauted-cumberland-sauce.md)（p. 259）
+- [Venison Steak, Chestnut Sauce](../recipes/17-poultry-and-game/venison-steak-chestnut-sauce.md)（p. 260）
+- [Venison Cutlets](../recipes/17-poultry-and-game/venison-cutlets.md)（p. 260）
+- [Roast Leg of Venison](../recipes/17-poultry-and-game/roast-leg-of-venison.md)（p. 260）
+- [Saddle of Venison](../recipes/17-poultry-and-game/saddle-of-venison.md)（p. 260）
+- [Belgian Hare à la Maryland](../recipes/17-poultry-and-game/belgian-hare-a-la-maryland.md)（p. 249）
+- [Belgian Hare, Sour Cream Sauce](../recipes/17-poultry-and-game/belgian-hare-sour-cream-sauce.md)（p. 261）
+- [Creamed Chicken](../recipes/17-poultry-and-game/creamed-chicken.md)（p. 261）
+- [Creamed Chicken with Mushrooms](../recipes/17-poultry-and-game/creamed-chicken-with-mushrooms.md)（p. 261）
+- [Chicken with Potato Border](../recipes/17-poultry-and-game/chicken-with-potato-border.md)（p. 261）
+- [Chicken in Baskets](../recipes/17-poultry-and-game/chicken-in-baskets.md)（p. 261）
+- [Chicken and Oysters à la Métropole](../recipes/17-poultry-and-game/chicken-and-oysters-a-la-metropole.md)（p. 261）
+- [Luncheon Chicken](../recipes/17-poultry-and-game/luncheon-chicken.md)（p. 262）
+- [Blanquette of Chicken](../recipes/17-poultry-and-game/blanquette-of-chicken.md)（p. 262）
+- [Scalloped Chicken](../recipes/17-poultry-and-game/scalloped-chicken.md)（p. 262）
+- [Mock Terrapin](../recipes/17-poultry-and-game/mock-terrapin.md)（p. 262）
+- [Chicken Soufflé](../recipes/17-poultry-and-game/chicken-souffle.md)（p. 263）
+- [Chicken Hollandaise](../recipes/17-poultry-and-game/chicken-hollandaise.md)（p. 263）
+- [Chicken Chartreuse](../recipes/17-poultry-and-game/chicken-chartreuse.md)（p. 263）
+- [Scalloped Turkey](../recipes/17-poultry-and-game/scalloped-turkey.md)（p. 263）
+- [Minced Turkey](../recipes/17-poultry-and-game/minced-turkey.md)（p. 264）
+- [Salmi of Duck](../recipes/17-poultry-and-game/salmi-of-duck.md)（p. 265）
+
+## Chapter 18. Fish and Meat Sauces
+
+- [Thin White Sauce](../recipes/18-fish-and-meat-sauces/thin-white-sauce.md)（p. 266）
+- [Cream Sauce](../recipes/18-fish-and-meat-sauces/cream-sauce.md)（p. 266）
+- [White Sauce I](../recipes/18-fish-and-meat-sauces/white-sauce-i.md)（p. 266）
+- [White Sauce II](../recipes/18-fish-and-meat-sauces/white-sauce-ii.md)（p. 266）
+- [Thick White Sauce (for Cutlets and Croquets)](../recipes/18-fish-and-meat-sauces/thick-white-sauce-for-cutlets-and-croquets.md)（p. 266）
+- [Velouté Sauce](../recipes/18-fish-and-meat-sauces/veloute-sauce.md)（p. 266）
+- [Sauce Allemande](../recipes/18-fish-and-meat-sauces/sauce-allemande.md)（p. 267）
+- [Soubise Sauce](../recipes/18-fish-and-meat-sauces/soubise-sauce.md)（p. 267）
+- [Drawn Butter Sauce](../recipes/18-fish-and-meat-sauces/drawn-butter-sauce.md)（p. 267）
+- [Shrimp Sauce](../recipes/18-fish-and-meat-sauces/shrimp-sauce.md)（p. 267）
+- [Caper Sauce](../recipes/18-fish-and-meat-sauces/caper-sauce.md)（p. 267）
+- [Egg Sauce I](../recipes/18-fish-and-meat-sauces/egg-sauce-i.md)（p. 267）
+- [Egg Sauce II](../recipes/18-fish-and-meat-sauces/egg-sauce-ii.md)（p. 267）
+- [Brown Sauce I](../recipes/18-fish-and-meat-sauces/brown-sauce-i.md)（p. 268）
+- [Brown Sauce II (Espagnole)](../recipes/18-fish-and-meat-sauces/brown-sauce-ii-espagnole.md)（p. 268）
+- [Brown Mushroom Sauce I](../recipes/18-fish-and-meat-sauces/brown-mushroom-sauce-i.md)（p. 268）
+- [Brown Mushroom Sauce II](../recipes/18-fish-and-meat-sauces/brown-mushroom-sauce-ii.md)（p. 268）
+- [Sauce Piquante](../recipes/18-fish-and-meat-sauces/sauce-piquante.md)（p. 268）
+- [Olive Sauce](../recipes/18-fish-and-meat-sauces/olive-sauce.md)（p. 269）
+- [Orange Sauce](../recipes/18-fish-and-meat-sauces/orange-sauce.md)（p. 269）
+- [Sauce à l'Italienne](../recipes/18-fish-and-meat-sauces/sauce-a-litalienne.md)（p. 269）
+- [Champagne Sauce](../recipes/18-fish-and-meat-sauces/champagne-sauce.md)（p. 269）
+- [Tomato Sauce I (without Stock)](../recipes/18-fish-and-meat-sauces/tomato-sauce-i-without-stock.md)（p. 270）
+- [Tomato Sauce II](../recipes/18-fish-and-meat-sauces/tomato-sauce-ii.md)（p. 270）
+- [Tomato Sauce III](../recipes/18-fish-and-meat-sauces/tomato-sauce-iii.md)（p. 270）
+- [Tomato and Mushroom Sauce](../recipes/18-fish-and-meat-sauces/tomato-and-mushroom-sauce.md)（p. 271）
+- [Tomato Cream Sauce](../recipes/18-fish-and-meat-sauces/tomato-cream-sauce.md)（p. 271）
+- [Spanish Sauce](../recipes/18-fish-and-meat-sauces/spanish-sauce.md)（p. 271）
+- [Béchamel Sauce](../recipes/18-fish-and-meat-sauces/bechamel-sauce.md)（p. 271）
+- [Yellow Béchamel Sauce](../recipes/18-fish-and-meat-sauces/yellow-bechamel-sauce.md)（p. 272）
+- [Olive and Almond Sauce](../recipes/18-fish-and-meat-sauces/olive-and-almond-sauce.md)（p. 272）
+- [Oyster Sauce](../recipes/18-fish-and-meat-sauces/oyster-sauce.md)（p. 272）
+- [Cucumber Sauce I](../recipes/18-fish-and-meat-sauces/cucumber-sauce-i.md)（p. 272）
+- [Cucumber Sauce II](../recipes/18-fish-and-meat-sauces/cucumber-sauce-ii.md)（p. 272）
+- [Celery Sauce](../recipes/18-fish-and-meat-sauces/celery-sauce.md)（p. 273）
+- [Suprême Sauce](../recipes/18-fish-and-meat-sauces/supreme-sauce.md)（p. 273）
+- [Maître d'Hôtel Butter](../recipes/18-fish-and-meat-sauces/maitre-dhotel-butter.md)（p. 273）
+- [Tartar Sauce](../recipes/18-fish-and-meat-sauces/tartar-sauce.md)（p. 273）
+- [Lemon Butter](../recipes/18-fish-and-meat-sauces/lemon-butter.md)（p. 273）
+- [Anchovy Butter](../recipes/18-fish-and-meat-sauces/anchovy-butter.md)（p. 273）
+- [Lobster Butter](../recipes/18-fish-and-meat-sauces/lobster-butter.md)（p. 274）
+- [Hollandaise Sauce I](../recipes/18-fish-and-meat-sauces/hollandaise-sauce-i.md)（p. 274）
+- [Hollandaise Sauce II](../recipes/18-fish-and-meat-sauces/hollandaise-sauce-ii.md)（p. 274）
+- [Anchovy Sauce](../recipes/18-fish-and-meat-sauces/anchovy-sauce.md)（p. 274）
+- [Horseradish Hollandaise Sauce](../recipes/18-fish-and-meat-sauces/horseradish-hollandaise-sauce.md)（p. 274）
+- [Lobster Sauce I](../recipes/18-fish-and-meat-sauces/lobster-sauce-i.md)（p. 275）
+- [Lobster Sauce II](../recipes/18-fish-and-meat-sauces/lobster-sauce-ii.md)（p. 275）
+- [Sauce Béarnaise](../recipes/18-fish-and-meat-sauces/sauce-bearnaise.md)（p. 275）
+- [Sauce Trianon](../recipes/18-fish-and-meat-sauces/sauce-trianon.md)（p. 275）
+- [Sauce Figaro](../recipes/18-fish-and-meat-sauces/sauce-figaro.md)（p. 275）
+- [Horseradish Sauce I](../recipes/18-fish-and-meat-sauces/horseradish-sauce-i.md)（p. 275）
+- [Horseradish Sauce II](../recipes/18-fish-and-meat-sauces/horseradish-sauce-ii.md)（p. 276）
+- [Bread Sauce](../recipes/18-fish-and-meat-sauces/bread-sauce.md)（p. 276）
+- [Rice Sauce](../recipes/18-fish-and-meat-sauces/rice-sauce.md)（p. 276）
+- [Cauliflower Sauce](../recipes/18-fish-and-meat-sauces/cauliflower-sauce.md)（p. 276）
+- [Mint Sauce](../recipes/18-fish-and-meat-sauces/mint-sauce.md)（p. 276）
+- [Currant Jelly Sauce](../recipes/18-fish-and-meat-sauces/currant-jelly-sauce.md)（p. 277）
+- [Port Wine Sauce](../recipes/18-fish-and-meat-sauces/port-wine-sauce.md)（p. 277）
+- [Vinaigrette Sauce](../recipes/18-fish-and-meat-sauces/vinaigrette-sauce.md)（p. 277）
+- [Sauce Tartare](../recipes/18-fish-and-meat-sauces/sauce-tartare.md)（p. 277）
+- [Hot Sauce Tartare](../recipes/18-fish-and-meat-sauces/hot-sauce-tartare.md)（p. 278）
+- [Hot Mayonnaise](../recipes/18-fish-and-meat-sauces/hot-mayonnaise.md)（p. 278）
+- [Sauce Tyrolienne](../recipes/18-fish-and-meat-sauces/sauce-tyrolienne.md)（p. 278）
+- [Creole Sauce](../recipes/18-fish-and-meat-sauces/creole-sauce.md)（p. 278）
+- [Russian Sauce](../recipes/18-fish-and-meat-sauces/russian-sauce.md)（p. 279）
+- [Sauce Finiste](../recipes/18-fish-and-meat-sauces/sauce-finiste.md)（p. 280）
+
+## Chapter 19. Vegetables
+
+- [Truffles](../recipes/19-vegetables/truffles.md)（p. 283）
+- [Artichokes](../recipes/19-vegetables/artichokes.md)（p. 283）
+- [Boiled Artichokes](../recipes/19-vegetables/boiled-artichokes.md)（p. 283）
+- [Fried Artichokes](../recipes/19-vegetables/fried-artichokes.md)（p. 284）
+- [Artichoke Bottoms](../recipes/19-vegetables/artichoke-bottoms.md)（p. 284）
+- [Stuffed Artichokes](../recipes/19-vegetables/stuffed-artichokes.md)（p. 284）
+- [Asparagus](../recipes/19-vegetables/asparagus.md)（p. 284）
+- [Boiled Asparagus](../recipes/19-vegetables/boiled-asparagus.md)（p. 284）
+- [Asparagus on Toast](../recipes/19-vegetables/asparagus-on-toast.md)（p. 284）
+- [Asparagus in White Sauce](../recipes/19-vegetables/asparagus-in-white-sauce.md)（p. 285）
+- [Asparagus à la Hollandaise](../recipes/19-vegetables/asparagus-a-la-hollandaise.md)（p. 285）
+- [Asparagus in Crusts](../recipes/19-vegetables/asparagus-in-crusts.md)（p. 285）
+- [Beans](../recipes/19-vegetables/beans.md)（p. 285）
+- [String Beans](../recipes/19-vegetables/string-beans.md)（p. 285）
+- [Shell Beans](../recipes/19-vegetables/shell-beans.md)（p. 285）
+- [Cream of Lima Beans](../recipes/19-vegetables/cream-of-lima-beans.md)（p. 286）
+- [Boiled Beets](../recipes/19-vegetables/boiled-beets.md)（p. 286）
+- [Sugared Beets](../recipes/19-vegetables/sugared-beets.md)（p. 286）
+- [Pickled Beets](../recipes/19-vegetables/pickled-beets.md)（p. 286）
+- [Beets, Sour Sauce](../recipes/19-vegetables/beets-sour-sauce.md)（p. 286）
+- [Harvard Beets](../recipes/19-vegetables/harvard-beets.md)（p. 286）
+- [Brussels Sprouts](../recipes/19-vegetables/brussels-sprouts.md)（p. 287）
+- [Brussels Sprouts in White Sauce](../recipes/19-vegetables/brussels-sprouts-in-white-sauce.md)（p. 287）
+- [Scalloped Brussels Sprouts](../recipes/19-vegetables/scalloped-brussels-sprouts.md)（p. 287）
+- [Cabbage](../recipes/19-vegetables/cabbage.md)（p. 287）
+- [Boiled Cabbage](../recipes/19-vegetables/boiled-cabbage.md)（p. 287）
+- [Escalloped Cabbage](../recipes/19-vegetables/escalloped-cabbage.md)（p. 288）
+- [German Cabbage](../recipes/19-vegetables/german-cabbage.md)（p. 288）
+- [Cole-Slaw](../recipes/19-vegetables/cole-slaw.md)（p. 288）
+- [Hot Slaw](../recipes/19-vegetables/hot-slaw.md)（p. 288）
+- [Carrots](../recipes/19-vegetables/carrots.md)（p. 288）
+- [Carrots and Peas](../recipes/19-vegetables/carrots-and-peas.md)（p. 288）
+- [Carrots, Poulette Sauce](../recipes/19-vegetables/carrots-poulette-sauce.md)（p. 289）
+- [Cauliflower](../recipes/19-vegetables/cauliflower.md)（p. 308）
+- [Creamed Cauliflower](../recipes/19-vegetables/creamed-cauliflower.md)（p. 308）
+- [Cauliflower à la Hollandaise](../recipes/19-vegetables/cauliflower-a-la-hollandaise.md)（p. 308）
+- [Cauliflower au Gratin](../recipes/19-vegetables/cauliflower-au-gratin.md)（p. 308）
+- [Cauliflower à la Parmesan](../recipes/19-vegetables/cauliflower-a-la-parmesan.md)（p. 308）
+- [Cauliflower à la Huntington](../recipes/19-vegetables/cauliflower-a-la-huntington.md)（p. 290）
+- [Celery](../recipes/19-vegetables/celery.md)（p. 290）
+- [Celery in White Sauce](../recipes/19-vegetables/celery-in-white-sauce.md)（p. 290）
+- [Fried Celery, Tomato Sauce](../recipes/19-vegetables/fried-celery-tomato-sauce.md)（p. 290）
+- [Chiccory or Endive](../recipes/19-vegetables/chiccory-or-endive.md)（p. 291）
+- [Corn](../recipes/19-vegetables/corn.md)（p. 291）
+- [Boiled Green Corn](../recipes/19-vegetables/boiled-green-corn.md)（p. 291）
+- [Succotash](../recipes/19-vegetables/succotash.md)（p. 291）
+- [Corn Oysters](../recipes/19-vegetables/corn-oysters.md)（p. 291）
+- [Corn Fritters](../recipes/19-vegetables/corn-fritters.md)（p. 291）
+- [Corn à la Southern](../recipes/19-vegetables/corn-a-la-southern.md)（p. 292）
+- [Chestnuts](../recipes/19-vegetables/chestnuts.md)（p. 292）
+- [Chestnut Purée](../recipes/19-vegetables/chestnut-puree.md)（p. 292）
+- [Baked Chestnuts](../recipes/19-vegetables/baked-chestnuts.md)（p. 292）
+- [Cucumbers](../recipes/19-vegetables/cucumbers.md)（p. 292）
+- [Sliced Cucumbers](../recipes/19-vegetables/sliced-cucumbers.md)（p. 292）
+- [Boiled Cucumbers](../recipes/19-vegetables/boiled-cucumbers.md)（p. 292）
+- [Fried Cucumbers](../recipes/19-vegetables/fried-cucumbers.md)（p. 293）
+- [Stuffed Cucumbers](../recipes/19-vegetables/stuffed-cucumbers.md)（p. 293）
+- [Fried Eggplant I](../recipes/19-vegetables/fried-eggplant-i.md)（p. 293）
+- [Fried Eggplant II](../recipes/19-vegetables/fried-eggplant-ii.md)（p. 293）
+- [Stuffed Eggplant](../recipes/19-vegetables/stuffed-eggplant.md)（p. 294）
+- [Scalloped Eggplant](../recipes/19-vegetables/scalloped-eggplant.md)（p. 294）
+- [Greens](../recipes/19-vegetables/greens.md)（p. 294）
+- [Boiled Beet Greens](../recipes/19-vegetables/boiled-beet-greens.md)（p. 294）
+- [Dandelions](../recipes/19-vegetables/dandelions.md)（p. 294）
+- [Lettuce](../recipes/19-vegetables/lettuce.md)（p. 295）
+- [Leeks on Toast](../recipes/19-vegetables/leeks-on-toast.md)（p. 295）
+- [Onions](../recipes/19-vegetables/onions.md)（p. 295）
+- [Boiled Onions](../recipes/19-vegetables/boiled-onions.md)（p. 295）
+- [Onions in Cream](../recipes/19-vegetables/onions-in-cream.md)（p. 295）
+- [Scalloped Onions](../recipes/19-vegetables/scalloped-onions.md)（p. 296）
+- [Glazed Onions](../recipes/19-vegetables/glazed-onions.md)（p. 296）
+- [Fried Onions](../recipes/19-vegetables/fried-onions.md)（p. 296）
+- [French Fried Onions](../recipes/19-vegetables/french-fried-onions.md)（p. 296）
+- [Stuffed Onions](../recipes/19-vegetables/stuffed-onions.md)（p. 296）
+- [Creamed Oyster Plant (Salsify)](../recipes/19-vegetables/creamed-oyster-plant-salsify.md)（p. 296）
+- [Salsify Fritters](../recipes/19-vegetables/salsify-fritters.md)（p. 297）
+- [Parsnips](../recipes/19-vegetables/parsnips.md)（p. 297）
+- [Parsnips with Drawn Butter Sauce](../recipes/19-vegetables/parsnips-with-drawn-butter-sauce.md)（p. 297）
+- [Parsnip Fritters](../recipes/19-vegetables/parsnip-fritters.md)（p. 297）
+- [Peas](../recipes/19-vegetables/peas.md)（p. 297）
+- [Boiled Peas](../recipes/19-vegetables/boiled-peas.md)（p. 298）
+- [Creamed Peas](../recipes/19-vegetables/creamed-peas.md)（p. 28）
+- [Pea Timbales](../recipes/19-vegetables/pea-timbales.md)（p. 28）
+- [Stuffed Peppers I](../recipes/19-vegetables/stuffed-peppers-i.md)（p. 28）
+- [Stuffed Peppers II](../recipes/19-vegetables/stuffed-peppers-ii.md)（p. 299）
+- [Pumpkins](../recipes/19-vegetables/pumpkins.md)（p. 299）
+- [Radishes](../recipes/19-vegetables/radishes.md)（p. 299）
+- [Spinach](../recipes/19-vegetables/spinach.md)（p. 299）
+- [Boiled Spinach](../recipes/19-vegetables/boiled-spinach.md)（p. 300）
+- [Spinach à la Béchamel](../recipes/19-vegetables/spinach-a-la-bechamel.md)（p. 300）
+- [Purée of Spinach](../recipes/19-vegetables/puree-of-spinach.md)（p. 300）
+- [Spinach (French Style)](../recipes/19-vegetables/spinach-french-style.md)（p. 300）
+- [Squash](../recipes/19-vegetables/squash.md)（p. 301）
+- [Boiled Summer Squash](../recipes/19-vegetables/boiled-summer-squash.md)（p. 301）
+- [Fried Summer Squash I](../recipes/19-vegetables/fried-summer-squash-i.md)（p. 301）
+- [Fried Summer Squash II](../recipes/19-vegetables/fried-summer-squash-ii.md)（p. 301）
+- [Steamed Winter Squash](../recipes/19-vegetables/steamed-winter-squash.md)（p. 301）
+- [Boiled Winter Squash](../recipes/19-vegetables/boiled-winter-squash.md)（p. 301）
+- [Baked Winter Squash I](../recipes/19-vegetables/baked-winter-squash-i.md)（p. 301）
+- [Baked Winter Squash II](../recipes/19-vegetables/baked-winter-squash-ii.md)（p. 302）
+- [Tomatoes](../recipes/19-vegetables/tomatoes.md)（p. 302）
+- [Sliced Tomatoes](../recipes/19-vegetables/sliced-tomatoes.md)（p. 302）
+- [Stewed Tomatoes](../recipes/19-vegetables/stewed-tomatoes.md)（p. 302）
+- [Broiled Tomatoes](../recipes/19-vegetables/broiled-tomatoes.md)（p. 302）
+- [Tomatoes à la Crême](../recipes/19-vegetables/tomatoes-a-la-creme.md)（p. 303）
+- [Devilled Tomatoes](../recipes/19-vegetables/devilled-tomatoes.md)（p. 303）
+- [Baked Tomatoes I](../recipes/19-vegetables/baked-tomatoes-i.md)（p. 303）
+- [Baked Tomatoes II](../recipes/19-vegetables/baked-tomatoes-ii.md)（p. 303）
+- [Stuffed Tomatoes](../recipes/19-vegetables/stuffed-tomatoes.md)（p. 304）
+- [Turnips](../recipes/19-vegetables/turnips.md)（p. 304）
+- [Mashed Turnip](../recipes/19-vegetables/mashed-turnip.md)（p. 304）
+- [Creamed Turnip](../recipes/19-vegetables/creamed-turnip.md)（p. 304）
+- [Turnip Croquettes](../recipes/19-vegetables/turnip-croquettes.md)（p. 304）
+- [Stewed Mushrooms](../recipes/19-vegetables/stewed-mushrooms.md)（p. 304）
+- [Stewed Mushrooms in Cream](../recipes/19-vegetables/stewed-mushrooms-in-cream.md)（p. 305）
+- [Broiled Mushrooms](../recipes/19-vegetables/broiled-mushrooms.md)（p. 305）
+- [Baked Mushrooms in Cream](../recipes/19-vegetables/baked-mushrooms-in-cream.md)（p. 305）
+- [Sautéd Mushrooms](../recipes/19-vegetables/sauted-mushrooms.md)（p. 305）
+- [Mushrooms à la Sabine](../recipes/19-vegetables/mushrooms-a-la-sabine.md)（p. 306）
+- [Mushrooms à l'Algonquin](../recipes/19-vegetables/mushrooms-a-lalgonquin.md)（p. 306）
+- [Mushrooms Allamande](../recipes/19-vegetables/mushrooms-allamande.md)（p. 306）
+- [Stuffed Mushrooms](../recipes/19-vegetables/stuffed-mushrooms.md)（p. 306）
+- [Mushrooms under Glass I](../recipes/19-vegetables/mushrooms-under-glass-i.md)（p. 307）
+- [Mushrooms under Glass II](../recipes/19-vegetables/mushrooms-under-glass-ii.md)（p. 307）
+- [Vegetable Soufflé](../recipes/19-vegetables/vegetable-souffle.md)（p. 307）
+- [Curried Vegetables](../recipes/19-vegetables/curried-vegetables.md)（p. 308）
+- [Macedoine of Vegetables à la Poulette](../recipes/19-vegetables/macedoine-of-vegetables-a-la-poulette.md)（p. 309）
+
+## Chapter 20. Potatoes
+
+- [Sweet Potatoes](../recipes/20-potatoes/sweet-potatoes.md)（p. 310）
+- [Baked Potatoes](../recipes/20-potatoes/baked-potatoes.md)（p. 310）
+- [Boiled Potatoes](../recipes/20-potatoes/boiled-potatoes.md)（p. 310）
+- [Riced Potatoes](../recipes/20-potatoes/riced-potatoes.md)（p. 311）
+- [Mashed Potatoes](../recipes/20-potatoes/mashed-potatoes.md)（p. 311）
+- [Potato Omelet](../recipes/20-potatoes/potato-omelet.md)（p. 311）
+- [Potato Border](../recipes/20-potatoes/potato-border.md)（p. 311）
+- [Escalloped Potatoes](../recipes/20-potatoes/escalloped-potatoes.md)（p. 311）
+- [Potatoes à la Hollandaise](../recipes/20-potatoes/potatoes-a-la-hollandaise.md)（p. 311）
+- [Chambery Potatoes](../recipes/20-potatoes/chambery-potatoes.md)（p. 312）
+- [Potatoes Baked in Half Shell](../recipes/20-potatoes/potatoes-baked-in-half-shell.md)（p. 312）
+- [Duchess Potatoes](../recipes/20-potatoes/duchess-potatoes.md)（p. 312）
+- [Maître d'Hôtel Potatoes](../recipes/20-potatoes/maitre-dhotel-potatoes.md)（p. 312）
+- [Maître d'Hôtel Butter](../recipes/20-potatoes/maitre-dhotel-butter.md)（p. 312）
+- [Franconia Potatoes](../recipes/20-potatoes/franconia-potatoes.md)（p. 313）
+- [Brabant Potatoes](../recipes/20-potatoes/brabant-potatoes.md)（p. 313）
+- [Anna Potatoes](../recipes/20-potatoes/anna-potatoes.md)（p. 313）
+- [Persillade Potatoes](../recipes/20-potatoes/persillade-potatoes.md)（p. 313）
+- [Potato Balls](../recipes/20-potatoes/potato-balls.md)（p. 313）
+- [Hongroise Potatoes](../recipes/20-potatoes/hongroise-potatoes.md)（p. 314）
+- [Shadow Potatoes (Saratoga Chips)](../recipes/20-potatoes/shadow-potatoes-saratoga-chips.md)（p. 314）
+- [Shredded Potatoes](../recipes/20-potatoes/shredded-potatoes.md)（p. 314）
+- [Lattice Potatoes](../recipes/20-potatoes/lattice-potatoes.md)（p. 314）
+- [Potato Nests](../recipes/20-potatoes/potato-nests.md)（p. 315）
+- [French Fried Potatoes](../recipes/20-potatoes/french-fried-potatoes.md)（p. 315）
+- [O'Brion Potatoes](../recipes/20-potatoes/obrion-potatoes.md)（p. 315）
+- [Potato Marbles](../recipes/20-potatoes/potato-marbles.md)（p. 315）
+- [Fried Potato Balls](../recipes/20-potatoes/fried-potato-balls.md)（p. 315）
+- [Potatoes, Somerset Style](../recipes/20-potatoes/potatoes-somerset-style.md)（p. 316）
+- [Potato Fritters](../recipes/20-potatoes/potato-fritters.md)（p. 316）
+- [Potato Curls](../recipes/20-potatoes/potato-curls.md)（p. 316）
+- [Potato Croquettes](../recipes/20-potatoes/potato-croquettes.md)（p. 316）
+- [French Potato Croquettes](../recipes/20-potatoes/french-potato-croquettes.md)（p. 317）
+- [Potato Apples](../recipes/20-potatoes/potato-apples.md)（p. 317）
+- [Potatoes en Surprise](../recipes/20-potatoes/potatoes-en-surprise.md)（p. 317）
+- [Baked Sweet Potatoes](../recipes/20-potatoes/baked-sweet-potatoes.md)（p. 317）
+- [Sweet Potatoes, Southern Style](../recipes/20-potatoes/sweet-potatoes-southern-style.md)（p. 317）
+- [Boiled Sweet Potatoes](../recipes/20-potatoes/boiled-sweet-potatoes.md)（p. 317）
+- [Mashed Sweet Potatoes](../recipes/20-potatoes/mashed-sweet-potatoes.md)（p. 318）
+- [Sweet Potatoes, Georgian Style](../recipes/20-potatoes/sweet-potatoes-georgian-style.md)（p. 318）
+- [Glazed Sweet Potatoes](../recipes/20-potatoes/glazed-sweet-potatoes.md)（p. 318）
+- [Sweet Potatoes au Gratin](../recipes/20-potatoes/sweet-potatoes-au-gratin.md)（p. 318）
+- [Sweet Potatoes en Brochette](../recipes/20-potatoes/sweet-potatoes-en-brochette.md)（p. 318）
+- [Sweet Potato Balls](../recipes/20-potatoes/sweet-potato-balls.md)（p. 318）
+- [Sweet Potato Croquettes](../recipes/20-potatoes/sweet-potato-croquettes.md)（p. 319）
+- [Potato Cakes](../recipes/20-potatoes/potato-cakes.md)（p. 319）
+- [Creamed Potatoes](../recipes/20-potatoes/creamed-potatoes.md)（p. 319）
+- [Potatoes au Gratin](../recipes/20-potatoes/potatoes-au-gratin.md)（p. 319）
+- [Delmonico Potatoes](../recipes/20-potatoes/delmonico-potatoes.md)（p. 319）
+- [Potatoes à l'Antlers](../recipes/20-potatoes/potatoes-a-lantlers.md)（p. 319）
+- [Hashed Brown Potatoes](../recipes/20-potatoes/hashed-brown-potatoes.md)（p. 320）
+- [Sautéd Potatoes](../recipes/20-potatoes/sauted-potatoes.md)（p. 320）
+- [Chartreuse Potatoes](../recipes/20-potatoes/chartreuse-potatoes.md)（p. 320）
+- [Lyonnaise Potatoes I](../recipes/20-potatoes/lyonnaise-potatoes-i.md)（p. 320）
+- [Lyonnaise Potatoes II](../recipes/20-potatoes/lyonnaise-potatoes-ii.md)（p. 320）
+- [Oak Hill Potatoes](../recipes/20-potatoes/oak-hill-potatoes.md)（p. 321）
+- [Curried Potatoes](../recipes/20-potatoes/curried-potatoes.md)（p. 322）
+
+## Chapter 21. Salads and Salad Dressings
+
+- [French Dressing](../recipes/21-salads-and-salad-dressings/french-dressing.md)（p. 323）
+- [Parisian French Dressing](../recipes/21-salads-and-salad-dressings/parisian-french-dressing.md)（p. 324）
+- [Club French Dressing](../recipes/21-salads-and-salad-dressings/club-french-dressing.md)（p. 324）
+- [Curry Dressing](../recipes/21-salads-and-salad-dressings/curry-dressing.md)（p. 324）
+- [Cream Dressing I](../recipes/21-salads-and-salad-dressings/cream-dressing-i.md)（p. 324）
+- [Cream Dressing II](../recipes/21-salads-and-salad-dressings/cream-dressing-ii.md)（p. 324）
+- [Boiled Dressing I](../recipes/21-salads-and-salad-dressings/boiled-dressing-i.md)（p. 325）
+- [Boiled Dressing II](../recipes/21-salads-and-salad-dressings/boiled-dressing-ii.md)（p. 325）
+- [German Dressing](../recipes/21-salads-and-salad-dressings/german-dressing.md)（p. 325）
+- [Chicken Salad Dressing](../recipes/21-salads-and-salad-dressings/chicken-salad-dressing.md)（p. 325）
+- [Oil Dressing I](../recipes/21-salads-and-salad-dressings/oil-dressing-i.md)（p. 326）
+- [Oil Dressing II](../recipes/21-salads-and-salad-dressings/oil-dressing-ii.md)（p. 326）
+- [Mayonnaise Dressing I](../recipes/21-salads-and-salad-dressings/mayonnaise-dressing-i.md)（p. 326）
+- [Mayonnaise Dressing II](../recipes/21-salads-and-salad-dressings/mayonnaise-dressing-ii.md)（p. 327）
+- [Cream Mayonnaise Dressing](../recipes/21-salads-and-salad-dressings/cream-mayonnaise-dressing.md)（p. 327）
+- [Green Mayonnaise](../recipes/21-salads-and-salad-dressings/green-mayonnaise.md)（p. 327）
+- [Potato Mayonnaise](../recipes/21-salads-and-salad-dressings/potato-mayonnaise.md)（p. 327）
+- [Dressed Lettuce](../recipes/21-salads-and-salad-dressings/dressed-lettuce.md)（p. 294）
+- [Lettuce and Cucumber Salad](../recipes/21-salads-and-salad-dressings/lettuce-and-cucumber-salad.md)（p. 294）
+- [Lettuce and Radish Salad](../recipes/21-salads-and-salad-dressings/lettuce-and-radish-salad.md)（p. 328）
+- [Lettuce and Tomato Salad](../recipes/21-salads-and-salad-dressings/lettuce-and-tomato-salad.md)（p. 299）
+- [Dressed Watercress](../recipes/21-salads-and-salad-dressings/dressed-watercress.md)（p. 299）
+- [Cucumber Salad](../recipes/21-salads-and-salad-dressings/cucumber-salad.md)（p. 299）
+- [Watercress and Cucumber Salad](../recipes/21-salads-and-salad-dressings/watercress-and-cucumber-salad.md)（p. 299）
+- [Cucumber and Tomato Salad](../recipes/21-salads-and-salad-dressings/cucumber-and-tomato-salad.md)（p. 299）
+- [Cucumber Cups with Lettuce](../recipes/21-salads-and-salad-dressings/cucumber-cups-with-lettuce.md)（p. 277）
+- [Cucumber Baskets](../recipes/21-salads-and-salad-dressings/cucumber-baskets.md)（p. 329）
+- [Dressed Celery](../recipes/21-salads-and-salad-dressings/dressed-celery.md)（p. 329）
+- [Celery and Cabbage Salad](../recipes/21-salads-and-salad-dressings/celery-and-cabbage-salad.md)（p. 329）
+- [Asparagus Salad](../recipes/21-salads-and-salad-dressings/asparagus-salad.md)（p. 329）
+- [Corn Salad](../recipes/21-salads-and-salad-dressings/corn-salad.md)（p. 329）
+- [String Bean Salad](../recipes/21-salads-and-salad-dressings/string-bean-salad.md)（p. 329）
+- [Potato Salad I](../recipes/21-salads-and-salad-dressings/potato-salad-i.md)（p. 330）
+- [Potato Salad II](../recipes/21-salads-and-salad-dressings/potato-salad-ii.md)（p. 330）
+- [Hot Potato Salad](../recipes/21-salads-and-salad-dressings/hot-potato-salad.md)（p. 330）
+- [Potato and Celery Salad](../recipes/21-salads-and-salad-dressings/potato-and-celery-salad.md)（p. 330）
+- [Bolivia Salad](../recipes/21-salads-and-salad-dressings/bolivia-salad.md)（p. 331）
+- [Lettuce Salad](../recipes/21-salads-and-salad-dressings/lettuce-salad.md)（p. 331）
+- [Macédoine Salad](../recipes/21-salads-and-salad-dressings/macedoine-salad.md)（p. 331）
+- [Russian Salad](../recipes/21-salads-and-salad-dressings/russian-salad.md)（p. 332）
+- [Tomatoes Stuffed with Pineapple](../recipes/21-salads-and-salad-dressings/tomatoes-stuffed-with-pineapple.md)（p. 332）
+- [Stuffed Tomato Salad I](../recipes/21-salads-and-salad-dressings/stuffed-tomato-salad-i.md)（p. 332）
+- [Stuffed Tomato Salad II](../recipes/21-salads-and-salad-dressings/stuffed-tomato-salad-ii.md)（p. 332）
+- [Stuffed Tomato Salad (German Style)](../recipes/21-salads-and-salad-dressings/stuffed-tomato-salad-german-style.md)（p. 332）
+- [Tomato and Horseradish Salad](../recipes/21-salads-and-salad-dressings/tomato-and-horseradish-salad.md)（p. 333）
+- [Hindoo Salad](../recipes/21-salads-and-salad-dressings/hindoo-salad.md)（p. 333）
+- [Tomato Ciboulettes](../recipes/21-salads-and-salad-dressings/tomato-ciboulettes.md)（p. 333）
+- [Tomato and Watercress Salad](../recipes/21-salads-and-salad-dressings/tomato-and-watercress-salad.md)（p. 333）
+- [Tomato and Cucumber Salad](../recipes/21-salads-and-salad-dressings/tomato-and-cucumber-salad.md)（p. 333）
+- [Salad Chiffonade](../recipes/21-salads-and-salad-dressings/salad-chiffonade.md)（p. 333）
+- [Wiersbick's Salad](../recipes/21-salads-and-salad-dressings/wiersbicks-salad.md)（p. 334）
+- [Tomato and Cheese Salad](../recipes/21-salads-and-salad-dressings/tomato-and-cheese-salad.md)（p. 334）
+- [Tomato Jelly Salad](../recipes/21-salads-and-salad-dressings/tomato-jelly-salad.md)（p. 334）
+- [Frozen Tomato Salad](../recipes/21-salads-and-salad-dressings/frozen-tomato-salad.md)（p. 334）
+- [Salad à la Russe](../recipes/21-salads-and-salad-dressings/salad-a-la-russe.md)（p. 335）
+- [Spinach Salad](../recipes/21-salads-and-salad-dressings/spinach-salad.md)（p. 335）
+- [Moulded Russian Salad](../recipes/21-salads-and-salad-dressings/moulded-russian-salad.md)（p. 335）
+- [Mexican Jelly](../recipes/21-salads-and-salad-dressings/mexican-jelly.md)（p. 336）
+- [Egg Salad I](../recipes/21-salads-and-salad-dressings/egg-salad-i.md)（p. 336）
+- [Egg Salad II](../recipes/21-salads-and-salad-dressings/egg-salad-ii.md)（p. 336）
+- [Lenten Salad](../recipes/21-salads-and-salad-dressings/lenten-salad.md)（p. 336）
+- [Crackers and Cheese](../recipes/21-salads-and-salad-dressings/crackers-and-cheese.md)（p. 336）
+- [Cottage Cheese I](../recipes/21-salads-and-salad-dressings/cottage-cheese-i.md)（p. 337）
+- [Cottage Cheese II](../recipes/21-salads-and-salad-dressings/cottage-cheese-ii.md)（p. 337）
+- [Cheese Salad](../recipes/21-salads-and-salad-dressings/cheese-salad.md)（p. 337）
+- [Neufchâtel Salad I](../recipes/21-salads-and-salad-dressings/neufchatel-salad-i.md)（p. 337）
+- [Neufchâtel Salad II](../recipes/21-salads-and-salad-dressings/neufchatel-salad-ii.md)（p. 337）
+- [Cheese and Olive Salad](../recipes/21-salads-and-salad-dressings/cheese-and-olive-salad.md)（p. 337）
+- [Cheese and Currant Salad](../recipes/21-salads-and-salad-dressings/cheese-and-currant-salad.md)（p. 337）
+- [East India Salad](../recipes/21-salads-and-salad-dressings/east-india-salad.md)（p. 338）
+- [Nut Salad](../recipes/21-salads-and-salad-dressings/nut-salad.md)（p. 324）
+- [Nut and Celery Salad I](../recipes/21-salads-and-salad-dressings/nut-and-celery-salad-i.md)（p. 324）
+- [Nut and Celery Salad II](../recipes/21-salads-and-salad-dressings/nut-and-celery-salad-ii.md)（p. 324）
+- [Banana Salad](../recipes/21-salads-and-salad-dressings/banana-salad.md)（p. 324）
+- [Orange Salad](../recipes/21-salads-and-salad-dressings/orange-salad.md)（p. 339）
+- [Orange Mint Salad](../recipes/21-salads-and-salad-dressings/orange-mint-salad.md)（p. 339）
+- [French Fruit Salad](../recipes/21-salads-and-salad-dressings/french-fruit-salad.md)（p. 339）
+- [Hungarian Salad](../recipes/21-salads-and-salad-dressings/hungarian-salad.md)（p. 339）
+- [Waldorf Salad](../recipes/21-salads-and-salad-dressings/waldorf-salad.md)（p. 339）
+- [Malaga Salad](../recipes/21-salads-and-salad-dressings/malaga-salad.md)（p. 340）
+- [Brazilian Salad](../recipes/21-salads-and-salad-dressings/brazilian-salad.md)（p. 327）
+- [De John's Salad](../recipes/21-salads-and-salad-dressings/de-johns-salad.md)（p. 327）
+- [Pear Salad](../recipes/21-salads-and-salad-dressings/pear-salad.md)（p. 581）
+- [Game Salad](../recipes/21-salads-and-salad-dressings/game-salad.md)（p. 581）
+- [Pepper and Grape Fruit Salad](../recipes/21-salads-and-salad-dressings/pepper-and-grape-fruit-salad.md)（p. 341）
+- [Grape Fruit and Celery Salad](../recipes/21-salads-and-salad-dressings/grape-fruit-and-celery-salad.md)（p. 341）
+- [Monte Carlo Salad](../recipes/21-salads-and-salad-dressings/monte-carlo-salad.md)（p. 341）
+- [Salmon Salad](../recipes/21-salads-and-salad-dressings/salmon-salad.md)（p. 341）
+- [Shrimp Salad](../recipes/21-salads-and-salad-dressings/shrimp-salad.md)（p. 341）
+- [Sardine Salad](../recipes/21-salads-and-salad-dressings/sardine-salad.md)（p. 342）
+- [Lobster Salad I](../recipes/21-salads-and-salad-dressings/lobster-salad-i.md)（p. 342）
+- [Lobster Salad II](../recipes/21-salads-and-salad-dressings/lobster-salad-ii.md)（p. 342）
+- [Lobster Salad III](../recipes/21-salads-and-salad-dressings/lobster-salad-iii.md)（p. 343）
+- [Fish Salad with Cucumbers](../recipes/21-salads-and-salad-dressings/fish-salad-with-cucumbers.md)（p. 324）
+- [Crab and Tomato Salad](../recipes/21-salads-and-salad-dressings/crab-and-tomato-salad.md)（p. 324）
+- [Scallop and Tomato Salad](../recipes/21-salads-and-salad-dressings/scallop-and-tomato-salad.md)（p. 344）
+- [Salmon à la Martin, Ravigôte Mayonnaise](../recipes/21-salads-and-salad-dressings/salmon-a-la-martin-ravigote-mayonnaise.md)（p. 326）
+- [Oyster and Grape Fruit Salad](../recipes/21-salads-and-salad-dressings/oyster-and-grape-fruit-salad.md)（p. 326）
+- [Chicken Salad I](../recipes/21-salads-and-salad-dressings/chicken-salad-i.md)（p. 326）
+- [Chicken Salad II](../recipes/21-salads-and-salad-dressings/chicken-salad-ii.md)（p. 345）
+- [Individual Chicken Salads in Aspic](../recipes/21-salads-and-salad-dressings/individual-chicken-salads-in-aspic.md)（p. 147）
+- [Swiss Salad](../recipes/21-salads-and-salad-dressings/swiss-salad.md)（p. 147）
+- [Nile Salad](../recipes/21-salads-and-salad-dressings/nile-salad.md)（p. 344）
+- [Berkshire Salad in Boxes](../recipes/21-salads-and-salad-dressings/berkshire-salad-in-boxes.md)（p. 346）
+- [Chicken and Oyster Salad](../recipes/21-salads-and-salad-dressings/chicken-and-oyster-salad.md)（p. 346）
+- [Sweetbread and Cucumber Salad I](../recipes/21-salads-and-salad-dressings/sweetbread-and-cucumber-salad-i.md)（p. 346）
+- [Sweetbread and Cucumber Salad II](../recipes/21-salads-and-salad-dressings/sweetbread-and-cucumber-salad-ii.md)（p. 347）
+- [Sweetbread and Celery Salad](../recipes/21-salads-and-salad-dressings/sweetbread-and-celery-salad.md)（p. 347）
+- [Harvard Salad](../recipes/21-salads-and-salad-dressings/harvard-salad.md)（p. 348）
+
+## Chapter 22. Entrées
+
+- [Batter I](../recipes/22-entrees/batter-i.md)（p. 348）
+- [Batter II](../recipes/22-entrees/batter-ii.md)（p. 348）
+- [Batter III](../recipes/22-entrees/batter-iii.md)（p. 348）
+- [Batter IV](../recipes/22-entrees/batter-iv.md)（p. 349）
+- [Batter V](../recipes/22-entrees/batter-v.md)（p. 349）
+- [Apple Fritters I](../recipes/22-entrees/apple-fritters-i.md)（p. 21）
+- [Apple Fritters II](../recipes/22-entrees/apple-fritters-ii.md)（p. 21）
+- [Apple Fritters III](../recipes/22-entrees/apple-fritters-iii.md)（p. 21）
+- [Banana Fritters I](../recipes/22-entrees/banana-fritters-i.md)（p. 350）
+- [Banana Fritters II](../recipes/22-entrees/banana-fritters-ii.md)（p. 350）
+- [Orange Fritters](../recipes/22-entrees/orange-fritters.md)（p. 350）
+- [Fruit Fritters](../recipes/22-entrees/fruit-fritters.md)（p. 350）
+- [Cauliflower Fritters](../recipes/22-entrees/cauliflower-fritters.md)（p. 350）
+- [Fried Celery](../recipes/22-entrees/fried-celery.md)（p. 351）
+- [Sardines Fried in Batter](../recipes/22-entrees/sardines-fried-in-batter.md)（p. 351）
+- [Tomato Fritters](../recipes/22-entrees/tomato-fritters.md)（p. 351）
+- [Cherry Fritters](../recipes/22-entrees/cherry-fritters.md)（p. 351）
+- [Maraschino Sauce](../recipes/22-entrees/maraschino-sauce.md)（p. 352）
+- [Farina Cakes with Jelly](../recipes/22-entrees/farina-cakes-with-jelly.md)（p. 352）
+- [Gnocchi à la Romaine](../recipes/22-entrees/gnocchi-a-la-romaine.md)（p. 352）
+- [Queen Fritters](../recipes/22-entrees/queen-fritters.md)（p. 353）
+- [Chocolate Fritters with Vanilla Sauce](../recipes/22-entrees/chocolate-fritters-with-vanilla-sauce.md)（p. 353）
+- [Coffee Fritters, Coffee Cream Sauce](../recipes/22-entrees/coffee-fritters-coffee-cream-sauce.md)（p. 353）
+- [Sponge Fritters](../recipes/22-entrees/sponge-fritters.md)（p. 354）
+- [Calf's Brains Fritters](../recipes/22-entrees/calfs-brains-fritters.md)（p. 279）
+- [Clam Fritters](../recipes/22-entrees/clam-fritters.md)（p. 279）
+- [Croquettes](../recipes/22-entrees/croquettes.md)（p. 21）
+- [Banana Croquettes](../recipes/22-entrees/banana-croquettes.md)（p. 355）
+- [Cheese Croquettes](../recipes/22-entrees/cheese-croquettes.md)（p. 355）
+- [Chestnut Croquettes](../recipes/22-entrees/chestnut-croquettes.md)（p. 355）
+- [Chestnut Roulettes](../recipes/22-entrees/chestnut-roulettes.md)（p. 355）
+- [Lenten Croquettes](../recipes/22-entrees/lenten-croquettes.md)（p. 356）
+- [Rice Croquettes with Jelly](../recipes/22-entrees/rice-croquettes-with-jelly.md)（p. 356）
+- [Sweet Rice Croquettes](../recipes/22-entrees/sweet-rice-croquettes.md)（p. 356）
+- [Rice and Tomato Croquettes](../recipes/22-entrees/rice-and-tomato-croquettes.md)（p. 357）
+- [Oyster Crabs à la Newburg](../recipes/22-entrees/oyster-crabs-a-la-newburg.md)（p. 357）
+- [Oyster and Macaroni Croquettes](../recipes/22-entrees/oyster-and-macaroni-croquettes.md)（p. 357）
+- [Oysters à la Somerset](../recipes/22-entrees/oysters-a-la-somerset.md)（p. 358）
+- [Salmon Croquettes](../recipes/22-entrees/salmon-croquettes.md)（p. 358）
+- [Salmon Cutlets](../recipes/22-entrees/salmon-cutlets.md)（p. 358）
+- [Lobster Croquettes](../recipes/22-entrees/lobster-croquettes.md)（p. 358）
+- [Lobster Cutlets](../recipes/22-entrees/lobster-cutlets.md)（p. 359）
+- [Beef and Rice Croquettes](../recipes/22-entrees/beef-and-rice-croquettes.md)（p. 359）
+- [Lamb Croquettes](../recipes/22-entrees/lamb-croquettes.md)（p. 359）
+- [Veal Croquettes](../recipes/22-entrees/veal-croquettes.md)（p. 360）
+- [Chicken Croquettes I](../recipes/22-entrees/chicken-croquettes-i.md)（p. 360）
+- [Chicken Croquettes II](../recipes/22-entrees/chicken-croquettes-ii.md)（p. 360）
+- [Chicken and Mushroom Croquettes](../recipes/22-entrees/chicken-and-mushroom-croquettes.md)（p. 360）
+- [Maryland Croquettes](../recipes/22-entrees/maryland-croquettes.md)（p. 361）
+- [Lincoln Croquettes](../recipes/22-entrees/lincoln-croquettes.md)（p. 361）
+- [Cutlets of Sweetbreads à la Victoria](../recipes/22-entrees/cutlets-of-sweetbreads-a-la-victoria.md)（p. 361）
+- [Epigrams of Sweetbreads](../recipes/22-entrees/epigrams-of-sweetbreads.md)（p. 362）
+- [Swedish Timbales](../recipes/22-entrees/swedish-timbales.md)（p. 362）
+- [Bunuelos](../recipes/22-entrees/bunuelos.md)（p. 362）
+- [Strawberry Baskets](../recipes/22-entrees/strawberry-baskets.md)（p. 363）
+- [Rice Timbales](../recipes/22-entrees/rice-timbales.md)（p. 363）
+- [Macaroni Timbales](../recipes/22-entrees/macaroni-timbales.md)（p. 363）
+- [Spaghetti Timbales](../recipes/22-entrees/spaghetti-timbales.md)（p. 363）
+- [Pimento Timbales](../recipes/22-entrees/pimento-timbales.md)（p. 366）
+- [Brown Mushroom Sauce](../recipes/22-entrees/brown-mushroom-sauce.md)（p. 364）
+- [Halibut Timbales I](../recipes/22-entrees/halibut-timbales-i.md)（p. 364）
+- [Halibut Timbales II](../recipes/22-entrees/halibut-timbales-ii.md)（p. 364）
+- [Lobster Timbales I](../recipes/22-entrees/lobster-timbales-i.md)（p. 364）
+- [Lobster Timbales II](../recipes/22-entrees/lobster-timbales-ii.md)（p. 365）
+- [Lobster Cream I](../recipes/22-entrees/lobster-cream-i.md)（p. 278）
+- [Lobster Cream II](../recipes/22-entrees/lobster-cream-ii.md)（p. 278）
+- [Chicken Timbales I](../recipes/22-entrees/chicken-timbales-i.md)（p. 366）
+- [Chicken Timbales II](../recipes/22-entrees/chicken-timbales-ii.md)（p. 366）
+- [Chicken Timbales III](../recipes/22-entrees/chicken-timbales-iii.md)（p. 366）
+- [Ham Timbales](../recipes/22-entrees/ham-timbales.md)（p. 366）
+- [Sweetbread and Mushroom Timbales](../recipes/22-entrees/sweetbread-and-mushroom-timbales.md)（p. 367）
+- [Sweetbread Mousse](../recipes/22-entrees/sweetbread-mousse.md)（p. 367）
+- [Suprême of Chicken](../recipes/22-entrees/supreme-of-chicken.md)（p. 368）
+- [Devilled Oysters](../recipes/22-entrees/devilled-oysters.md)（p. 368）
+- [Crab meat, Indienne](../recipes/22-entrees/crab-meat-indienne.md)（p. 368）
+- [Devilled Crabs](../recipes/22-entrees/devilled-crabs.md)（p. 369）
+- [Devilled Scallops](../recipes/22-entrees/devilled-scallops.md)（p. 369）
+- [Fried Oyster Crabs](../recipes/22-entrees/fried-oyster-crabs.md)（p. 369）
+- [Bouchées of Oyster Crabs](../recipes/22-entrees/bouchees-of-oyster-crabs.md)（p. 369）
+- [Halibut Marguerites](../recipes/22-entrees/halibut-marguerites.md)（p. 369）
+- [Cromesquis à la Russe](../recipes/22-entrees/cromesquis-a-la-russe.md)（p. 370）
+- [Shad Roe with Celery](../recipes/22-entrees/shad-roe-with-celery.md)（p. 370）
+- [Stuffed Clams](../recipes/22-entrees/stuffed-clams.md)（p. 266）
+- [Crab Meat, Terrapin Style](../recipes/22-entrees/crab-meat-terrapin-style.md)（p. 371）
+- [Mock Crabs](../recipes/22-entrees/mock-crabs.md)（p. 371）
+- [Martin's Specialty](../recipes/22-entrees/martins-specialty.md)（p. 371）
+- [Sweetbread Ramequins](../recipes/22-entrees/sweetbread-ramequins.md)（p. 371）
+- [Sweetbread à la Mont Vert](../recipes/22-entrees/sweetbread-a-la-mont-vert.md)（p. 372）
+- [Sweetbread in Peppers](../recipes/22-entrees/sweetbread-in-peppers.md)（p. 372）
+- [Cutlets of Chicken](../recipes/22-entrees/cutlets-of-chicken.md)（p. 373）
+- [Fillets of Game](../recipes/22-entrees/fillets-of-game.md)（p. 373）
+- [Chicken Cutlets](../recipes/22-entrees/chicken-cutlets.md)（p. 245）
+- [Russian Cutlets](../recipes/22-entrees/russian-cutlets.md)（p. 374）
+- [Brown Mushroom Sauce](../recipes/22-entrees/brown-mushroom-sauce-2.md)（p. 374）
+- [Chicken à la McDonald](../recipes/22-entrees/chicken-a-la-mcdonald.md)（p. 374）
+- [Chicken Mousse](../recipes/22-entrees/chicken-mousse.md)（p. 374）
+- [Fillets of Chicken, Sauce Suprême](../recipes/22-entrees/fillets-of-chicken-sauce-supreme.md)（p. 375）
+- [Birds on Canapés](../recipes/22-entrees/birds-on-canapes.md)（p. 376）
+- [Breast of Quail Lucullus](../recipes/22-entrees/breast-of-quail-lucullus.md)（p. 376）
+- [Pan Broiled Lamb Chops à la Lucullus](../recipes/22-entrees/pan-broiled-lamb-chops-a-la-lucullus.md)（p. 376）
+- [Chickens' Livers en Brochette](../recipes/22-entrees/chickens-livers-en-brochette.md)（p. 376）
+- [Chestnuts en Casserole](../recipes/22-entrees/chestnuts-en-casserole.md)（p. 377）
+- [Cheese Fondue](../recipes/22-entrees/cheese-fondue.md)（p. 377）
+- [Cheese Soufflé](../recipes/22-entrees/cheese-souffle.md)（p. 377）
+- [Ramequins Soufflés](../recipes/22-entrees/ramequins-souffles.md)（p. 377）
+- [Cheese Balls](../recipes/22-entrees/cheese-balls.md)（p. 377）
+- [Compote of Rice with Peaches](../recipes/22-entrees/compote-of-rice-with-peaches.md)（p. 378）
+- [Compote of Rice and Pears](../recipes/22-entrees/compote-of-rice-and-pears.md)（p. 378）
+- [Croustades of Bread](../recipes/22-entrees/croustades-of-bread.md)（p. 378）
+- [Rice Croustades](../recipes/22-entrees/rice-croustades.md)（p. 378）
+- [Soufflé au Rhum](../recipes/22-entrees/souffle-au-rhum.md)（p. 379）
+- [Omelet Soufflé](../recipes/22-entrees/omelet-souffle.md)（p. 379）
+- [Patties](../recipes/22-entrees/patties.md)（p. 379）
+- [Bouchées](../recipes/22-entrees/bouchees.md)（p. 379）
+- [Vol-au-vents](../recipes/22-entrees/vol-au-vents.md)（p. 379）
+- [Rissoles](../recipes/22-entrees/rissoles.md)（p. 380）
+- [Cigarettes à la Prince Henry](../recipes/22-entrees/cigarettes-a-la-prince-henry.md)（p. 380）
+- [Zigaras à la Russe](../recipes/22-entrees/zigaras-a-la-russe.md)（p. 380）
+- [Dresden Patties](../recipes/22-entrees/dresden-patties.md)（p. 380）
+- [Russian Patties](../recipes/22-entrees/russian-patties.md)（p. 381）
+- [Cheese Soufflé with Pastry](../recipes/22-entrees/cheese-souffle-with-pastry.md)（p. 381）
+- [Lamb Rissoles à l'Indienne](../recipes/22-entrees/lamb-rissoles-a-lindienne.md)（p. 381）
+- [Quail Pies](../recipes/22-entrees/quail-pies.md)（p. 382）
+- [Aspic Jelly](../recipes/22-entrees/aspic-jelly.md)（p. 382）
+- [Tomatoes in Aspic](../recipes/22-entrees/tomatoes-in-aspic.md)（p. 383）
+- [Stuffed Olives in Aspic](../recipes/22-entrees/stuffed-olives-in-aspic.md)（p. 382）
+- [Tongue in Aspic](../recipes/22-entrees/tongue-in-aspic.md)（p. 210）
+- [Birds in Aspic](../recipes/22-entrees/birds-in-aspic.md)（p. 384）
+- [Egg Custard for Decorating](../recipes/22-entrees/egg-custard-for-decorating.md)（p. 384）
+- [Stuffing for Chicken in Aspic](../recipes/22-entrees/stuffing-for-chicken-in-aspic.md)（p. 384）
+- [Spring Mousse](../recipes/22-entrees/spring-mousse.md)（p. 385）
+- [Chaud-froid of Eggs](../recipes/22-entrees/chaud-froid-of-eggs.md)（p. 385）
+- [Jellied Vegetables](../recipes/22-entrees/jellied-vegetables.md)（p. 386）
+- [Mayonnaise of Mackerel](../recipes/22-entrees/mayonnaise-of-mackerel.md)（p. 386）
+- [Chaud-froid of Chicken](../recipes/22-entrees/chaud-froid-of-chicken.md)（p. 386）
+- [Moulded Salmon, Cucumber Sauce](../recipes/22-entrees/moulded-salmon-cucumber-sauce.md)（p. 387）
+- [Moulded Chicken, Sauterne Jelly](../recipes/22-entrees/moulded-chicken-sauterne-jelly.md)（p. 420）
+- [Lenox Chicken](../recipes/22-entrees/lenox-chicken.md)（p. 388）
+- [Rum Cakes](../recipes/22-entrees/rum-cakes.md)（p. 388）
+- [Rum Sauce](../recipes/22-entrees/rum-sauce.md)（p. 388）
+- [Flûtes](../recipes/22-entrees/flutes.md)（p. 388）
+- [Baba Cakes](../recipes/22-entrees/baba-cakes.md)（p. 389）
+- [Baba Cakes with Apricots](../recipes/22-entrees/baba-cakes-with-apricots.md)（p. 390）
+
+## Chapter 23. Hot Puddings
+
+- [Rice Pudding](../recipes/23-hot-puddings/rice-pudding.md)（p. 390）
+- [Poor Man's Pudding](../recipes/23-hot-puddings/poor-mans-pudding.md)（p. 390）
+- [Indian Pudding](../recipes/23-hot-puddings/indian-pudding.md)（p. 390）
+- [Cerealine Pudding](../recipes/23-hot-puddings/cerealine-pudding.md)（p. 391）
+- [Newton Tapioca](../recipes/23-hot-puddings/newton-tapioca.md)（p. 391）
+- [Apple Tapioca](../recipes/23-hot-puddings/apple-tapioca.md)（p. 391）
+- [Tapioca Custard Pudding](../recipes/23-hot-puddings/tapioca-custard-pudding.md)（p. 391）
+- [Peach Tapioca](../recipes/23-hot-puddings/peach-tapioca.md)（p. 392）
+- [Corn Pudding](../recipes/23-hot-puddings/corn-pudding.md)（p. 392）
+- [Scalloped Apples](../recipes/23-hot-puddings/scalloped-apples.md)（p. 392）
+- [Bread Pudding](../recipes/23-hot-puddings/bread-pudding.md)（p. 393）
+- [Cracker Custard Pudding](../recipes/23-hot-puddings/cracker-custard-pudding.md)（p. 393）
+- [Bread and Butter Pudding](../recipes/23-hot-puddings/bread-and-butter-pudding.md)（p. 393）
+- [Bread and Butter Apple Pudding](../recipes/23-hot-puddings/bread-and-butter-apple-pudding.md)（p. 393）
+- [Chocolate Bread Pudding](../recipes/23-hot-puddings/chocolate-bread-pudding.md)（p. 394）
+- [Mock Indian Pudding](../recipes/23-hot-puddings/mock-indian-pudding.md)（p. 394）
+- [Bangor Pudding](../recipes/23-hot-puddings/bangor-pudding.md)（p. 394）
+- [Steamed Lemon Pudding](../recipes/23-hot-puddings/steamed-lemon-pudding.md)（p. 395）
+- [Cottage Pudding](../recipes/23-hot-puddings/cottage-pudding.md)（p. 395）
+- [Strawberry Cottage Pudding](../recipes/23-hot-puddings/strawberry-cottage-pudding.md)（p. 395）
+- [Orange Puffs](../recipes/23-hot-puddings/orange-puffs.md)（p. 395）
+- [Chocolate Pudding](../recipes/23-hot-puddings/chocolate-pudding.md)（p. 396）
+- [Custard Soufflé](../recipes/23-hot-puddings/custard-souffle.md)（p. 396）
+- [Apricot Soufflé](../recipes/23-hot-puddings/apricot-souffle.md)（p. 396）
+- [Lemon Soufflé](../recipes/23-hot-puddings/lemon-souffle.md)（p. 397）
+- [Chocolate Soufflé](../recipes/23-hot-puddings/chocolate-souffle.md)（p. 397）
+- [Mocha Soufflé](../recipes/23-hot-puddings/mocha-souffle.md)（p. 397）
+- [Fruit Soufflé](../recipes/23-hot-puddings/fruit-souffle.md)（p. 398）
+- [Spanish Soufflé](../recipes/23-hot-puddings/spanish-souffle.md)（p. 398）
+- [Chestnut Soufflé](../recipes/23-hot-puddings/chestnut-souffle.md)（p. 398）
+- [Chocolate Rice Meringue](../recipes/23-hot-puddings/chocolate-rice-meringue.md)（p. 398）
+- [Steamed Apple Pudding](../recipes/23-hot-puddings/steamed-apple-pudding.md)（p. 399）
+- [Steamed Blueberry Pudding](../recipes/23-hot-puddings/steamed-blueberry-pudding.md)（p. 399）
+- [Steamed Cranberry Pudding](../recipes/23-hot-puddings/steamed-cranberry-pudding.md)（p. 399）
+- [Ginger Pudding](../recipes/23-hot-puddings/ginger-pudding.md)（p. 400）
+- [Harvard Pudding](../recipes/23-hot-puddings/harvard-pudding.md)（p. 400）
+- [Steamed Chocolate Pudding](../recipes/23-hot-puddings/steamed-chocolate-pudding.md)（p. 400）
+- [Cream Sauce](../recipes/23-hot-puddings/cream-sauce.md)（p. 400）
+- [Swiss Pudding](../recipes/23-hot-puddings/swiss-pudding.md)（p. 401）
+- [Snowballs](../recipes/23-hot-puddings/snowballs.md)（p. 401）
+- [Graham Pudding](../recipes/23-hot-puddings/graham-pudding.md)（p. 401）
+- [St. James Pudding](../recipes/23-hot-puddings/st-james-pudding.md)（p. 402）
+- [Suet Pudding](../recipes/23-hot-puddings/suet-pudding.md)（p. 402）
+- [Thanksgiving Pudding I](../recipes/23-hot-puddings/thanksgiving-pudding-i.md)（p. 402）
+- [Thanksgiving Pudding II](../recipes/23-hot-puddings/thanksgiving-pudding-ii.md)（p. 403）
+- [Hunters' Pudding](../recipes/23-hot-puddings/hunters-pudding.md)（p. 403）
+- [French Fruit Pudding](../recipes/23-hot-puddings/french-fruit-pudding.md)（p. 403）
+- [Fig Pudding I](../recipes/23-hot-puddings/fig-pudding-i.md)（p. 403）
+- [Fig Pudding II](../recipes/23-hot-puddings/fig-pudding-ii.md)（p. 404）
+- [English Plum Pudding I](../recipes/23-hot-puddings/english-plum-pudding-i.md)（p. 404）
+- [English Plum Pudding II](../recipes/23-hot-puddings/english-plum-pudding-ii.md)（p. 405）
+
+## Chapter 24. Pudding Sauces
+
+- [Lemon Sauce I](../recipes/24-pudding-sauces/lemon-sauce-i.md)（p. 406）
+- [Lemon Sauce II](../recipes/24-pudding-sauces/lemon-sauce-ii.md)（p. 406）
+- [Lemon Sauce III](../recipes/24-pudding-sauces/lemon-sauce-iii.md)（p. 406）
+- [Vanilla Sauce](../recipes/24-pudding-sauces/vanilla-sauce.md)（p. 407）
+- [Molasses Sauce](../recipes/24-pudding-sauces/molasses-sauce.md)（p. 407）
+- [Cream Sauce I](../recipes/24-pudding-sauces/cream-sauce-i.md)（p. 407）
+- [Cream Sauce II](../recipes/24-pudding-sauces/cream-sauce-ii.md)（p. 407）
+- [Yellow Sauce I](../recipes/24-pudding-sauces/yellow-sauce-i.md)（p. 407）
+- [Yellow Sauce II](../recipes/24-pudding-sauces/yellow-sauce-ii.md)（p. 407）
+- [Orange Sauce](../recipes/24-pudding-sauces/orange-sauce.md)（p. 408）
+- [Strawberry Sauce](../recipes/24-pudding-sauces/strawberry-sauce.md)（p. 408）
+- [Creamy Sauce I](../recipes/24-pudding-sauces/creamy-sauce-i.md)（p. 408）
+- [Creamy Sauce II](../recipes/24-pudding-sauces/creamy-sauce-ii.md)（p. 408）
+- [Foamy Sauce I](../recipes/24-pudding-sauces/foamy-sauce-i.md)（p. 408）
+- [Foamy Sauce II](../recipes/24-pudding-sauces/foamy-sauce-ii.md)（p. 408）
+- [Chocolate Sauce](../recipes/24-pudding-sauces/chocolate-sauce.md)（p. 409）
+- [Sabyon Sauce](../recipes/24-pudding-sauces/sabyon-sauce.md)（p. 409）
+- [Hard Sauce](../recipes/24-pudding-sauces/hard-sauce.md)（p. 409）
+- [Sterling Sauce](../recipes/24-pudding-sauces/sterling-sauce.md)（p. 409）
+- [Wine Sauce](../recipes/24-pudding-sauces/wine-sauce.md)（p. 409）
+- [Brandy Sauce](../recipes/24-pudding-sauces/brandy-sauce.md)（p. 410）
+- [Caramel Brandy Sauce](../recipes/24-pudding-sauces/caramel-brandy-sauce.md)（p. 410）
+- [Apricot Sauce](../recipes/24-pudding-sauces/apricot-sauce.md)（p. 411）
+
+## Chapter 25. Cold Desserts
+
+- [Irish Moss Blanc-Mange](../recipes/25-cold-desserts/irish-moss-blanc-mange.md)（p. 411）
+- [Chocolate Blanc-Mange](../recipes/25-cold-desserts/chocolate-blanc-mange.md)（p. 411）
+- [Rebecca Pudding](../recipes/25-cold-desserts/rebecca-pudding.md)（p. 412）
+- [Moulded Snow](../recipes/25-cold-desserts/moulded-snow.md)（p. 412）
+- [Chocolate Cream](../recipes/25-cold-desserts/chocolate-cream.md)（p. 412）
+- [Pineapple Pudding](../recipes/25-cold-desserts/pineapple-pudding.md)（p. 412）
+- [Caramel Junket](../recipes/25-cold-desserts/caramel-junket.md)（p. 413）
+- [Boiled Custard](../recipes/25-cold-desserts/boiled-custard.md)（p. 413）
+- [Tipsy Pudding](../recipes/25-cold-desserts/tipsy-pudding.md)（p. 413）
+- [Peach Custard](../recipes/25-cold-desserts/peach-custard.md)（p. 413）
+- [Orange Custard](../recipes/25-cold-desserts/orange-custard.md)（p. 413）
+- [Apple Meringue](../recipes/25-cold-desserts/apple-meringue.md)（p. 413）
+- [Apple Snow](../recipes/25-cold-desserts/apple-snow.md)（p. 414）
+- [Prune Whip](../recipes/25-cold-desserts/prune-whip.md)（p. 414）
+- [Raspberry Whip](../recipes/25-cold-desserts/raspberry-whip.md)（p. 414）
+- [Baked Custard](../recipes/25-cold-desserts/baked-custard.md)（p. 415）
+- [Caramel Custard](../recipes/25-cold-desserts/caramel-custard.md)（p. 415）
+- [Caramel Sauce](../recipes/25-cold-desserts/caramel-sauce.md)（p. 415）
+- [Coffee Custard](../recipes/25-cold-desserts/coffee-custard.md)（p. 415）
+- [Tapioca Cream](../recipes/25-cold-desserts/tapioca-cream.md)（p. 416）
+- [Norwegian Prune Pudding](../recipes/25-cold-desserts/norwegian-prune-pudding.md)（p. 416）
+- [Nut Prune Soufflé](../recipes/25-cold-desserts/nut-prune-souffle.md)（p. 416）
+- [Apples in Bloom](../recipes/25-cold-desserts/apples-in-bloom.md)（p. 416）
+- [Neapolitan Baskets](../recipes/25-cold-desserts/neapolitan-baskets.md)（p. 417）
+- [Wine Cream](../recipes/25-cold-desserts/wine-cream.md)（p. 417）
+- [Orange Salad](../recipes/25-cold-desserts/orange-salad.md)（p. 417）
+- [Fruit Salad I](../recipes/25-cold-desserts/fruit-salad-i.md)（p. 417）
+- [Fruit Salad II](../recipes/25-cold-desserts/fruit-salad-ii.md)（p. 417）
+- [Fruit Salad with Wine Dressing](../recipes/25-cold-desserts/fruit-salad-with-wine-dressing.md)（p. 417）
+- [Wine Dressing](../recipes/25-cold-desserts/wine-dressing.md)（p. 418）
+- [Cream Whips](../recipes/25-cold-desserts/cream-whips.md)（p. 418）
+- [Sautéd Pears with Chocolate Sauce](../recipes/25-cold-desserts/sauted-pears-with-chocolate-sauce.md)（p. 418）
+- [Lemon Jelly](../recipes/25-cold-desserts/lemon-jelly.md)（p. 418）
+- [Orange Jelly](../recipes/25-cold-desserts/orange-jelly.md)（p. 419）
+- [Kumquat Jelly](../recipes/25-cold-desserts/kumquat-jelly.md)（p. 419）
+- [Coffee Jelly](../recipes/25-cold-desserts/coffee-jelly.md)（p. 419）
+- [Cider Jelly](../recipes/25-cold-desserts/cider-jelly.md)（p. 419）
+- [Wine Jelly I](../recipes/25-cold-desserts/wine-jelly-i.md)（p. 420）
+- [Wine Jelly II](../recipes/25-cold-desserts/wine-jelly-ii.md)（p. 420）
+- [Russian Jelly](../recipes/25-cold-desserts/russian-jelly.md)（p. 420）
+- [Jelly in Glasses](../recipes/25-cold-desserts/jelly-in-glasses.md)（p. 420）
+- [Sauterne Jelly](../recipes/25-cold-desserts/sauterne-jelly.md)（p. 421）
+- [Jellied Prunes](../recipes/25-cold-desserts/jellied-prunes.md)（p. 421）
+- [Jellied Walnuts](../recipes/25-cold-desserts/jellied-walnuts.md)（p. 421）
+- [Apricot and Wine Jelly](../recipes/25-cold-desserts/apricot-and-wine-jelly.md)（p. 422）
+- [Snow Pudding I](../recipes/25-cold-desserts/snow-pudding-i.md)（p. 422）
+- [Snow Pudding II](../recipes/25-cold-desserts/snow-pudding-ii.md)（p. 422）
+- [Amber Pudding](../recipes/25-cold-desserts/amber-pudding.md)（p. 422）
+- [Toasted Marshmallows](../recipes/25-cold-desserts/toasted-marshmallows.md)（p. 423）
+- [Pudding à la Macédoine](../recipes/25-cold-desserts/pudding-a-la-macedoine.md)（p. 423）
+- [Fruit Chartreuse](../recipes/25-cold-desserts/fruit-chartreuse.md)（p. 423）
+- [Spanish Cream](../recipes/25-cold-desserts/spanish-cream.md)（p. 424）
+- [Coffee Soufflé](../recipes/25-cold-desserts/coffee-souffle.md)（p. 424）
+- [Columbian Pudding](../recipes/25-cold-desserts/columbian-pudding.md)（p. 424）
+- [Macaroon Cream](../recipes/25-cold-desserts/macaroon-cream.md)（p. 424）
+- [Cold Cabinet Pudding](../recipes/25-cold-desserts/cold-cabinet-pudding.md)（p. 425）
+- [Mont Blanc](../recipes/25-cold-desserts/mont-blanc.md)（p. 425）
+- [Crême aux Fruits](../recipes/25-cold-desserts/creme-aux-fruits.md)（p. 425）
+- [To Whip Cream](../recipes/25-cold-desserts/to-whip-cream.md)（p. 426）
+- [Charlotte Russe](../recipes/25-cold-desserts/charlotte-russe.md)（p. 427）
+- [Orange Trifle](../recipes/25-cold-desserts/orange-trifle.md)（p. 427）
+- [Banana Cantaloupe](../recipes/25-cold-desserts/banana-cantaloupe.md)（p. 428）
+- [Chocolate Charlotte](../recipes/25-cold-desserts/chocolate-charlotte.md)（p. 428）
+- [Caramel Charlotte Russe](../recipes/25-cold-desserts/caramel-charlotte-russe.md)（p. 428）
+- [Burnt Almond Charlotte](../recipes/25-cold-desserts/burnt-almond-charlotte.md)（p. 429）
+- [Ginger Cream](../recipes/25-cold-desserts/ginger-cream.md)（p. 429）
+- [Orange Charlotte](../recipes/25-cold-desserts/orange-charlotte.md)（p. 429）
+- [Strawberry Sponge](../recipes/25-cold-desserts/strawberry-sponge.md)（p. 429）
+- [Orange Baskets](../recipes/25-cold-desserts/orange-baskets.md)（p. 430）
+- [Orange Jelly in Ambush](../recipes/25-cold-desserts/orange-jelly-in-ambush.md)（p. 430）
+- [Bavarian Cream (Quick)](../recipes/25-cold-desserts/bavarian-cream-quick.md)（p. 430）
+- [Strawberry Bavarian Cream](../recipes/25-cold-desserts/strawberry-bavarian-cream.md)（p. 430）
+- [Pineapple Bavarian Cream](../recipes/25-cold-desserts/pineapple-bavarian-cream.md)（p. 430）
+- [Royal Diplomatic Pudding](../recipes/25-cold-desserts/royal-diplomatic-pudding.md)（p. 431）
+- [Fruit Cream](../recipes/25-cold-desserts/fruit-cream.md)（p. 431）
+- [Ivory Cream](../recipes/25-cold-desserts/ivory-cream.md)（p. 431）
+- [Pudding à l'Adrea](../recipes/25-cold-desserts/pudding-a-ladrea.md)（p. 432）
+- [French Easter Cream](../recipes/25-cold-desserts/french-easter-cream.md)（p. 432）
+- [Marshmallow Pudding à la Stanley](../recipes/25-cold-desserts/marshmallow-pudding-a-la-stanley.md)（p. 433）
+
+## Chapter 26. Ices, Ice Creams, and Other Frozen Desserts
+
+- [How to Freeze Desserts](../recipes/26-ices-ice-creams-and-other-frozen-desserts/how-to-freeze-desserts.md)（p. 435）
+- [To Line a Mould](../recipes/26-ices-ice-creams-and-other-frozen-desserts/to-line-a-mould.md)（p. 435）
+- [To Mould Frozen Mixtures](../recipes/26-ices-ice-creams-and-other-frozen-desserts/to-mould-frozen-mixtures.md)（p. 435）
+- [Lemon Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/lemon-ice.md)（p. 434）
+- [Cup St. Jacques](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cup-st-jacques.md)（p. 434）
+- [Orange Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/orange-ice.md)（p. 436）
+- [Maraschino Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/maraschino-ice.md)（p. 436）
+- [Pomegranate Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pomegranate-ice.md)（p. 436）
+- [Raspberry Ice I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/raspberry-ice-i.md)（p. 436）
+- [Raspberry Ice II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/raspberry-ice-ii.md)（p. 436）
+- [Strawberry Ice I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/strawberry-ice-i.md)（p. 436）
+- [Strawberry Ice II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/strawberry-ice-ii.md)（p. 436）
+- [Currant Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/currant-ice.md)（p. 436）
+- [Raspberry and Currant Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/raspberry-and-currant-ice.md)（p. 437）
+- [Crême de Menthe Ice](../recipes/26-ices-ice-creams-and-other-frozen-desserts/creme-de-menthe-ice.md)（p. 437）
+- [Icebergs](../recipes/26-ices-ice-creams-and-other-frozen-desserts/icebergs.md)（p. 437）
+- [Canton Sherbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/canton-sherbet.md)（p. 437）
+- [Milk Sherbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/milk-sherbet.md)（p. 437）
+- [Frozen Chocolate with Whipped Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-chocolate-with-whipped-cream.md)（p. 438）
+- [Pineapple Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pineapple-frappe.md)（p. 438）
+- [Pineapple Sorbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pineapple-sorbet.md)（p. 438）
+- [Sicilian Sorbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/sicilian-sorbet.md)（p. 438）
+- [Italian Sorbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/italian-sorbet.md)（p. 438）
+- [Apricot Sorbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/apricot-sorbet.md)（p. 439）
+- [Café Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cafe-frappe.md)（p. 439）
+- [Cranberry Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cranberry-frappe.md)（p. 439）
+- [Grape Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/grape-frappe.md)（p. 439）
+- [Pomona Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pomona-frappe.md)（p. 439）
+- [Clam Frappé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/clam-frappe.md)（p. 440）
+- [Frozen Cranberries](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-cranberries.md)（p. 440）
+- [Frozen Apricots](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-apricots.md)（p. 440）
+- [Pineapple Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pineapple-cream.md)（p. 440）
+- [Cardinal Punch](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cardinal-punch.md)（p. 441）
+- [Punch Hollandaise](../recipes/26-ices-ice-creams-and-other-frozen-desserts/punch-hollandaise.md)（p. 441）
+- [Victoria Punch](../recipes/26-ices-ice-creams-and-other-frozen-desserts/victoria-punch.md)（p. 441）
+- [Lenox Punch](../recipes/26-ices-ice-creams-and-other-frozen-desserts/lenox-punch.md)（p. 441）
+- [German Punch](../recipes/26-ices-ice-creams-and-other-frozen-desserts/german-punch.md)（p. 442）
+- [London Sherbet](../recipes/26-ices-ice-creams-and-other-frozen-desserts/london-sherbet.md)（p. 442）
+- [Roman Punch](../recipes/26-ices-ice-creams-and-other-frozen-desserts/roman-punch.md)（p. 442）
+- [Coup Sicilienne](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coup-sicilienne.md)（p. 442）
+- [Coup a l'Ananas](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coup-a-lananas.md)（p. 442）
+- [Vanilla Ice Cream I (Philadelphia)](../recipes/26-ices-ice-creams-and-other-frozen-desserts/vanilla-ice-cream-i-philadelphia.md)（p. 443）
+- [Vanilla Ice Cream II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/vanilla-ice-cream-ii.md)（p. 443）
+- [Chocolate Sauce I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/chocolate-sauce-i.md)（p. 443）
+- [Chocolate Sauce II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/chocolate-sauce-ii.md)（p. 443）
+- [Coffee Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coffee-sauce.md)（p. 444）
+- [Vanilla Ice Cream Croquettes](../recipes/26-ices-ice-creams-and-other-frozen-desserts/vanilla-ice-cream-croquettes.md)（p. 444）
+- [Chocolate Ice Cream I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/chocolate-ice-cream-i.md)（p. 444）
+- [Chocolate Ice Cream II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/chocolate-ice-cream-ii.md)（p. 444）
+- [Strawberry Ice Cream I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/strawberry-ice-cream-i.md)（p. 444）
+- [Strawberry Ice Cream II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/strawberry-ice-cream-ii.md)（p. 445）
+- [Orange Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/orange-ice-cream.md)（p. 445）
+- [Pineapple Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pineapple-ice-cream.md)（p. 445）
+- [Coffee Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coffee-ice-cream.md)（p. 445）
+- [Caramel Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/caramel-ice-cream.md)（p. 586）
+- [Burnt Almond Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/burnt-almond-ice-cream.md)（p. 446）
+- [Brown Bread Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/brown-bread-ice-cream.md)（p. 446）
+- [Bisque Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/bisque-ice-cream.md)（p. 446）
+- [Burnt Walnut Bisque](../recipes/26-ices-ice-creams-and-other-frozen-desserts/burnt-walnut-bisque.md)（p. 446）
+- [Praline Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/praline-ice-cream.md)（p. 447）
+- [Macaroon Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/macaroon-ice-cream.md)（p. 447）
+- [Banana Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/banana-ice-cream.md)（p. 447）
+- [Ginger Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/ginger-ice-cream.md)（p. 447）
+- [Pistachio Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pistachio-ice-cream.md)（p. 447）
+- [Pistachio Bisque](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pistachio-bisque.md)（p. 447）
+- [Fig Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/fig-ice-cream.md)（p. 448）
+- [Junket Ice Cream with Peaches](../recipes/26-ices-ice-creams-and-other-frozen-desserts/junket-ice-cream-with-peaches.md)（p. 448）
+- [Violet Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/violet-ice-cream.md)（p. 448）
+- [Neapolitan or Harlequin Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/neapolitan-or-harlequin-ice-cream.md)（p. 448）
+- [Baked Alaska](../recipes/26-ices-ice-creams-and-other-frozen-desserts/baked-alaska.md)（p. 449）
+- [Pudding Glacé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pudding-glace.md)（p. 449）
+- [Frozen Pudding I](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-pudding-i.md)（p. 449）
+- [Frozen Pudding II](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-pudding-ii.md)（p. 450）
+- [Frozen Tom and Jerry](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-tom-and-jerry.md)（p. 450）
+- [University Pudding](../recipes/26-ices-ice-creams-and-other-frozen-desserts/university-pudding.md)（p. 450）
+- [Covington Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/covington-cream.md)（p. 450）
+- [Delmonico Ice Cream with Angel Food](../recipes/26-ices-ice-creams-and-other-frozen-desserts/delmonico-ice-cream-with-angel-food.md)（p. 450）
+- [Angel Food](../recipes/26-ices-ice-creams-and-other-frozen-desserts/angel-food.md)（p. 451）
+- [Manhattan Pudding](../recipes/26-ices-ice-creams-and-other-frozen-desserts/manhattan-pudding.md)（p. 451）
+- [Sultana Roll with Claret Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/sultana-roll-with-claret-sauce.md)（p. 451）
+- [Claret Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/claret-sauce.md)（p. 451）
+- [Angel Parfait](../recipes/26-ices-ice-creams-and-other-frozen-desserts/angel-parfait.md)（p. 451）
+- [Café Parfait](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cafe-parfait.md)（p. 452）
+- [Italian Meringue](../recipes/26-ices-ice-creams-and-other-frozen-desserts/italian-meringue.md)（p. 452）
+- [Bombe Glacée](../recipes/26-ices-ice-creams-and-other-frozen-desserts/bombe-glacee.md)（p. 452）
+- [Noisette Bomb](../recipes/26-ices-ice-creams-and-other-frozen-desserts/noisette-bomb.md)（p. 453）
+- [Nesselrode Pudding](../recipes/26-ices-ice-creams-and-other-frozen-desserts/nesselrode-pudding.md)（p. 453）
+- [Pistachio Fruit Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pistachio-fruit-ice-cream.md)（p. 453）
+- [Nougat Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/nougat-ice-cream.md)（p. 454）
+- [Orange Pekoe Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/orange-pekoe-ice-cream.md)（p. 547）
+- [Orange Delicious](../recipes/26-ices-ice-creams-and-other-frozen-desserts/orange-delicious.md)（p. 547）
+- [Strawberry Mousse](../recipes/26-ices-ice-creams-and-other-frozen-desserts/strawberry-mousse.md)（p. 547）
+- [Coffee Mousse](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coffee-mousse.md)（p. 455）
+- [Pineapple Mousse](../recipes/26-ices-ice-creams-and-other-frozen-desserts/pineapple-mousse.md)（p. 455）
+- [Chocolate Mousse](../recipes/26-ices-ice-creams-and-other-frozen-desserts/chocolate-mousse.md)（p. 455）
+- [Maple Parfait](../recipes/26-ices-ice-creams-and-other-frozen-desserts/maple-parfait.md)（p. 455）
+- [Mousse Marron](../recipes/26-ices-ice-creams-and-other-frozen-desserts/mousse-marron.md)（p. 456）
+- [Cardinal Mousse, with Iced Madeira Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cardinal-mousse-with-iced-madeira-sauce.md)（p. 456）
+- [Iced Madeira Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/iced-madeira-sauce.md)（p. 456）
+- [Cocoanut Naples, Sauterne Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/cocoanut-naples-sauterne-sauce.md)（p. 456）
+- [Sauterne Sauce](../recipes/26-ices-ice-creams-and-other-frozen-desserts/sauterne-sauce.md)（p. 456）
+- [Ice à la Margot](../recipes/26-ices-ice-creams-and-other-frozen-desserts/ice-a-la-margot.md)（p. 456）
+- [Coup aux Marrons](../recipes/26-ices-ice-creams-and-other-frozen-desserts/coup-aux-marrons.md)（p. 457）
+- [Plombière Glacé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/plombiere-glace.md)（p. 457）
+- [Demi-glacé aux Fraises](../recipes/26-ices-ice-creams-and-other-frozen-desserts/demi-glace-aux-fraises.md)（p. 457）
+- [Mazarine](../recipes/26-ices-ice-creams-and-other-frozen-desserts/mazarine.md)（p. 457）
+- [Flowering Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/flowering-ice-cream.md)（p. 458）
+- [Concord Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/concord-cream.md)（p. 458）
+- [German Ice Cream](../recipes/26-ices-ice-creams-and-other-frozen-desserts/german-ice-cream.md)（p. 458）
+- [Frozen Orange Soufflé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-orange-souffle.md)（p. 458）
+- [Biscuit Tortoni in Boxes](../recipes/26-ices-ice-creams-and-other-frozen-desserts/biscuit-tortoni-in-boxes.md)（p. 459）
+- [Frozen Soufflé Glacé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-souffle-glace.md)（p. 459）
+- [Frozen Plum Pudding](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-plum-pudding.md)（p. 448）
+- [Frozen Charlotte Glacé](../recipes/26-ices-ice-creams-and-other-frozen-desserts/frozen-charlotte-glace.md)（p. 460）
+
+## Chapter 27. Pastry
+
+- [Puff Paste](../recipes/27-pastry/puff-paste.md)（p. 462）
+- [To Bake Puff Paste](../recipes/27-pastry/to-bake-puff-paste.md)（p. 462）
+- [Patty Shells](../recipes/27-pastry/patty-shells.md)（p. 463）
+- [Vol-au-vents](../recipes/27-pastry/vol-au-vents.md)（p. 463）
+- [Quick Puff Paste](../recipes/27-pastry/quick-puff-paste.md)（p. 463）
+- [Plain Paste](../recipes/27-pastry/plain-paste.md)（p. 464）
+- [Chopped Paste](../recipes/27-pastry/chopped-paste.md)（p. 464）
+- [Quick Paste](../recipes/27-pastry/quick-paste.md)（p. 464）
+- [Paste with Lard](../recipes/27-pastry/paste-with-lard.md)（p. 465）
+- [Entire Wheat Paste](../recipes/27-pastry/entire-wheat-paste.md)（p. 466）
+
+## Chapter 28. Pies
+
+- [Apple Pie I](../recipes/28-pies/apple-pie-i.md)（p. 467）
+- [Apple Pie II](../recipes/28-pies/apple-pie-ii.md)（p. 467）
+- [Blackberry Pie](../recipes/28-pies/blackberry-pie.md)（p. 468）
+- [Blueberry Pie](../recipes/28-pies/blueberry-pie.md)（p. 468）
+- [Cranberry Pie](../recipes/28-pies/cranberry-pie.md)（p. 468）
+- [Currant Pie](../recipes/28-pies/currant-pie.md)（p. 468）
+- [Cream Pie](../recipes/28-pies/cream-pie.md)（p. 469）
+- [Custard Pie](../recipes/28-pies/custard-pie.md)（p. 469）
+- [Date Pie](../recipes/28-pies/date-pie.md)（p. 469）
+- [Lemon Pie I](../recipes/28-pies/lemon-pie-i.md)（p. 469）
+- [Lemon Pie II](../recipes/28-pies/lemon-pie-ii.md)（p. 470）
+- [Lemon Pie III](../recipes/28-pies/lemon-pie-iii.md)（p. 480）
+- [Lemon Pie IV](../recipes/28-pies/lemon-pie-iv.md)（p. 480）
+- [Lemon Pie V](../recipes/28-pies/lemon-pie-v.md)（p. 480）
+- [Mince Pies](../recipes/28-pies/mince-pies.md)（p. 471）
+- [Mince Pie Meat I](../recipes/28-pies/mince-pie-meat-i.md)（p. 471）
+- [Mince Pie Meat II](../recipes/28-pies/mince-pie-meat-ii.md)（p. 472）
+- [English Mince Meat](../recipes/28-pies/english-mince-meat.md)（p. 472）
+- [Mince Meat (without Alcoholic Liquor)](../recipes/28-pies/mince-meat-without-alcoholic-liquor.md)（p. 472）
+- [Mock Mince Pie](../recipes/28-pies/mock-mince-pie.md)（p. 472）
+- [Mock Cherry Pie](../recipes/28-pies/mock-cherry-pie.md)（p. 472）
+- [Peach Pie](../recipes/28-pies/peach-pie.md)（p. 473）
+- [Prune Pie](../recipes/28-pies/prune-pie.md)（p. 473）
+- [Rhubarb Pie](../recipes/28-pies/rhubarb-pie.md)（p. 473）
+- [Squash Pie I](../recipes/28-pies/squash-pie-i.md)（p. 474）
+- [Squash Pie II](../recipes/28-pies/squash-pie-ii.md)（p. 474）
+- [Pumpkin Pie](../recipes/28-pies/pumpkin-pie.md)（p. 475）
+
+## Chapter 29. Pastry Desserts
+
+- [Banbury Tarts](../recipes/29-pastry-desserts/banbury-tarts.md)（p. 475）
+- [Cheese Cakes](../recipes/29-pastry-desserts/cheese-cakes.md)（p. 475）
+- [Cheese Straws](../recipes/29-pastry-desserts/cheese-straws.md)（p. 476）
+- [Condés](../recipes/29-pastry-desserts/condes.md)（p. 476）
+- [Galattes](../recipes/29-pastry-desserts/galattes.md)（p. 476）
+- [Cream Horns](../recipes/29-pastry-desserts/cream-horns.md)（p. 476）
+- [Florentine Meringue](../recipes/29-pastry-desserts/florentine-meringue.md)（p. 477）
+- [Cocoanut Tea Cakes](../recipes/29-pastry-desserts/cocoanut-tea-cakes.md)（p. 477）
+- [Napoleons](../recipes/29-pastry-desserts/napoleons.md)（p. 477）
+- [Orange Sticks](../recipes/29-pastry-desserts/orange-sticks.md)（p. 477）
+- [Lemon Sticks](../recipes/29-pastry-desserts/lemon-sticks.md)（p. 477）
+- [Palm Leaves](../recipes/29-pastry-desserts/palm-leaves.md)（p. 477）
+- [Raspberry Puffs](../recipes/29-pastry-desserts/raspberry-puffs.md)（p. 478）
+- [Tarts](../recipes/29-pastry-desserts/tarts.md)（p. 478）
+- [Polish Tartlets](../recipes/29-pastry-desserts/polish-tartlets.md)（p. 478）
+- [Almond Tartlets](../recipes/29-pastry-desserts/almond-tartlets.md)（p. 478）
+- [Peach Crusts](../recipes/29-pastry-desserts/peach-crusts.md)（p. 478）
+- [Malaga Boats](../recipes/29-pastry-desserts/malaga-boats.md)（p. 479）
+- [Calvé Tarts](../recipes/29-pastry-desserts/calve-tarts.md)（p. 479）
+- [Fruit Baskets](../recipes/29-pastry-desserts/fruit-baskets.md)（p. 479）
+- [Lemon Tartlets](../recipes/29-pastry-desserts/lemon-tartlets.md)（p. 479）
+- [For Pies, Puddings, and Desserts](../recipes/29-pastry-desserts/for-pies-puddings-and-desserts.md)（p. 480）
+- [Meringue I](../recipes/29-pastry-desserts/meringue-i.md)（p. 480）
+- [Meringue II](../recipes/29-pastry-desserts/meringue-ii.md)（p. 480）
+- [Meringue III](../recipes/29-pastry-desserts/meringue-iii.md)（p. 480）
+- [Meringues Glacées, or Kisses](../recipes/29-pastry-desserts/meringues-glacees-or-kisses.md)（p. 480）
+- [Nut Meringues](../recipes/29-pastry-desserts/nut-meringues.md)（p. 481）
+- [Meringues (Mushrooms)](../recipes/29-pastry-desserts/meringues-mushrooms.md)（p. 481）
+- [Meringues Panachées](../recipes/29-pastry-desserts/meringues-panachees.md)（p. 481）
+- [Creole Kisses](../recipes/29-pastry-desserts/creole-kisses.md)（p. 482）
+
+## Chapter 30. Gingerbreads, Cookies, and Wafers
+
+- [Hot Water Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/hot-water-gingerbread.md)（p. 482）
+- [Sour Milk Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/sour-milk-gingerbread.md)（p. 482）
+- [Soft Molasses Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/soft-molasses-gingerbread.md)（p. 483）
+- [Cambridge Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/cambridge-gingerbread.md)（p. 483）
+- [Soft Sugar Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/soft-sugar-gingerbread.md)（p. 483）
+- [Gossamer Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/gossamer-gingerbread.md)（p. 483）
+- [Fairy Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/fairy-gingerbread.md)（p. 484）
+- [Hard Sugar Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/hard-sugar-gingerbread.md)（p. 484）
+- [Christmas English Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/christmas-english-gingerbread.md)（p. 484）
+- [Card Gingerbread](../recipes/30-gingerbreads-cookies-and-wafers/card-gingerbread.md)（p. 485）
+- [Walnut Molasses Bars](../recipes/30-gingerbreads-cookies-and-wafers/walnut-molasses-bars.md)（p. 485）
+- [Ginger Snaps](../recipes/30-gingerbreads-cookies-and-wafers/ginger-snaps.md)（p. 485）
+- [Molasses Cookies](../recipes/30-gingerbreads-cookies-and-wafers/molasses-cookies.md)（p. 486）
+- [Soft Molasses Cookies](../recipes/30-gingerbreads-cookies-and-wafers/soft-molasses-cookies.md)（p. 486）
+- [Spice Cookies](../recipes/30-gingerbreads-cookies-and-wafers/spice-cookies.md)（p. 486）
+- [Scotch Wafers](../recipes/30-gingerbreads-cookies-and-wafers/scotch-wafers.md)（p. 487）
+- [Oatmeal Cookies](../recipes/30-gingerbreads-cookies-and-wafers/oatmeal-cookies.md)（p. 487）
+- [Scottish Fancies](../recipes/30-gingerbreads-cookies-and-wafers/scottish-fancies.md)（p. 487）
+- [Vanilla Wafers](../recipes/30-gingerbreads-cookies-and-wafers/vanilla-wafers.md)（p. 487）
+- [Cream Cookies](../recipes/30-gingerbreads-cookies-and-wafers/cream-cookies.md)（p. 488）
+- [Imperial Cookies](../recipes/30-gingerbreads-cookies-and-wafers/imperial-cookies.md)（p. 488）
+- [Hermits](../recipes/30-gingerbreads-cookies-and-wafers/hermits.md)（p. 488）
+- [Rich Cookies](../recipes/30-gingerbreads-cookies-and-wafers/rich-cookies.md)（p. 488）
+- [Jelly Jumbles](../recipes/30-gingerbreads-cookies-and-wafers/jelly-jumbles.md)（p. 489）
+- [Royal Fans](../recipes/30-gingerbreads-cookies-and-wafers/royal-fans.md)（p. 489）
+- [Boston Cookies](../recipes/30-gingerbreads-cookies-and-wafers/boston-cookies.md)（p. 489）
+- [Cocoanut Cream Cookies](../recipes/30-gingerbreads-cookies-and-wafers/cocoanut-cream-cookies.md)（p. 490）
+- [Peanut Cookies](../recipes/30-gingerbreads-cookies-and-wafers/peanut-cookies.md)（p. 490）
+- [Almond Cookies](../recipes/30-gingerbreads-cookies-and-wafers/almond-cookies.md)（p. 490）
+- [Nut Cookies](../recipes/30-gingerbreads-cookies-and-wafers/nut-cookies.md)（p. 490）
+- [Seed Cakes](../recipes/30-gingerbreads-cookies-and-wafers/seed-cakes.md)（p. 491）
+- [Chocolate Cookies](../recipes/30-gingerbreads-cookies-and-wafers/chocolate-cookies.md)（p. 491）
+- [German Chocolate Cookies](../recipes/30-gingerbreads-cookies-and-wafers/german-chocolate-cookies.md)（p. 491）
+- [Chocolate Fruit Cookies](../recipes/30-gingerbreads-cookies-and-wafers/chocolate-fruit-cookies.md)（p. 491）
+- [Chocolate Cakes](../recipes/30-gingerbreads-cookies-and-wafers/chocolate-cakes.md)（p. 492）
+- [Neuremburghs](../recipes/30-gingerbreads-cookies-and-wafers/neuremburghs.md)（p. 528）
+- [Sand Tarts](../recipes/30-gingerbreads-cookies-and-wafers/sand-tarts.md)（p. 528）
+- [Swedish Wafers](../recipes/30-gingerbreads-cookies-and-wafers/swedish-wafers.md)（p. 493）
+- [Marguerites I](../recipes/30-gingerbreads-cookies-and-wafers/marguerites-i.md)（p. 493）
+- [Marguerites II](../recipes/30-gingerbreads-cookies-and-wafers/marguerites-ii.md)（p. 493）
+- [Kornettes](../recipes/30-gingerbreads-cookies-and-wafers/kornettes.md)（p. 494）
+- [Rolled Wafers](../recipes/30-gingerbreads-cookies-and-wafers/rolled-wafers.md)（p. 494）
+- [Almond Wafers](../recipes/30-gingerbreads-cookies-and-wafers/almond-wafers.md)（p. 494）
+- [English Rolled Wafers I](../recipes/30-gingerbreads-cookies-and-wafers/english-rolled-wafers-i.md)（p. 495）
+- [English Rolled Wafers II](../recipes/30-gingerbreads-cookies-and-wafers/english-rolled-wafers-ii.md)（p. 495）
+- [Nut Bars](../recipes/30-gingerbreads-cookies-and-wafers/nut-bars.md)（p. 495）
+- [Nut Macaroons](../recipes/30-gingerbreads-cookies-and-wafers/nut-macaroons.md)（p. 495）
+- [Brownies](../recipes/30-gingerbreads-cookies-and-wafers/brownies.md)（p. 496）
+- [Card Cakes](../recipes/30-gingerbreads-cookies-and-wafers/card-cakes.md)（p. 497）
+
+## Chapter 31. Cake
+
+- [Hot Water Sponge Cake](../recipes/31-cake/hot-water-sponge-cake.md)（p. 501）
+- [Cheap Sponge Cake](../recipes/31-cake/cheap-sponge-cake.md)（p. 501）
+- [Cream Sponge Cake](../recipes/31-cake/cream-sponge-cake.md)（p. 502）
+- [Petit Four](../recipes/31-cake/petit-four.md)（p. 502）
+- [Sponge Cake](../recipes/31-cake/sponge-cake.md)（p. 502）
+- [Sunshine Cake](../recipes/31-cake/sunshine-cake.md)（p. 503）
+- [Mocha Cake](../recipes/31-cake/mocha-cake.md)（p. 503）
+- [Angel Cake](../recipes/31-cake/angel-cake.md)（p. 503）
+- [Moonshine Cake](../recipes/31-cake/moonshine-cake.md)（p. 504）
+- [Lady Fingers](../recipes/31-cake/lady-fingers.md)（p. 504）
+- [Sponge Drops](../recipes/31-cake/sponge-drops.md)（p. 504）
+- [Almond Tart](../recipes/31-cake/almond-tart.md)（p. 505）
+- [Jelly Roll](../recipes/31-cake/jelly-roll.md)（p. 505）
+- [Election Cake](../recipes/31-cake/election-cake.md)（p. 505）
+- [One Egg Cake](../recipes/31-cake/one-egg-cake.md)（p. 506）
+- [Chocolate Cake I](../recipes/31-cake/chocolate-cake-i.md)（p. 506）
+- [Chocolate Cake II](../recipes/31-cake/chocolate-cake-ii.md)（p. 506）
+- [Chocolate Marshmallow Cake](../recipes/31-cake/chocolate-marshmallow-cake.md)（p. 506）
+- [Chocolate Nougat Cake](../recipes/31-cake/chocolate-nougat-cake.md)（p. 507）
+- [Chocolate Dominoes](../recipes/31-cake/chocolate-dominoes.md)（p. 507）
+- [Cream Pie I](../recipes/31-cake/cream-pie-i.md)（p. 507）
+- [Cream Pie II](../recipes/31-cake/cream-pie-ii.md)（p. 507）
+- [Cocoanut Pie](../recipes/31-cake/cocoanut-pie.md)（p. 507）
+- [Washington Pie](../recipes/31-cake/washington-pie.md)（p. 508）
+- [Chocolate Pie](../recipes/31-cake/chocolate-pie.md)（p. 508）
+- [Orange Cake](../recipes/31-cake/orange-cake.md)（p. 508）
+- [Quick Cake](../recipes/31-cake/quick-cake.md)（p. 508）
+- [Boston Favorite Cake](../recipes/31-cake/boston-favorite-cake.md)（p. 509）
+- [Cream Cake](../recipes/31-cake/cream-cake.md)（p. 509）
+- [Currant Cake](../recipes/31-cake/currant-cake.md)（p. 509）
+- [Citron Cake](../recipes/31-cake/citron-cake.md)（p. 509）
+- [Velvet Cake](../recipes/31-cake/velvet-cake.md)（p. 510）
+- [Walnut Cake](../recipes/31-cake/walnut-cake.md)（p. 510）
+- [Spanish Cake](../recipes/31-cake/spanish-cake.md)（p. 510）
+- [Cup Cakes](../recipes/31-cake/cup-cakes.md)（p. 510）
+- [Cinnamon Cakes](../recipes/31-cake/cinnamon-cakes.md)（p. 511）
+- [Almond Cakes](../recipes/31-cake/almond-cakes.md)（p. 511）
+- [Brownies](../recipes/31-cake/brownies.md)（p. 511）
+- [Chocolate Sponge](../recipes/31-cake/chocolate-sponge.md)（p. 511）
+- [Devil's Food Cake I](../recipes/31-cake/devils-food-cake-i.md)（p. 512）
+- [Devil's Food Cake II](../recipes/31-cake/devils-food-cake-ii.md)（p. 512）
+- [Chocolate Vienna Cake](../recipes/31-cake/chocolate-vienna-cake.md)（p. 512）
+- [Chocolate Fruit Cake](../recipes/31-cake/chocolate-fruit-cake.md)（p. 513）
+- [Ribbon Cake](../recipes/31-cake/ribbon-cake.md)（p. 513）
+- [Golden Spice Cake](../recipes/31-cake/golden-spice-cake.md)（p. 528）
+- [Walnut Mocha Cake](../recipes/31-cake/walnut-mocha-cake.md)（p. 514）
+- [Birthday Cake](../recipes/31-cake/birthday-cake.md)（p. 532）
+- [Rich Coffee Cake](../recipes/31-cake/rich-coffee-cake.md)（p. 532）
+- [Nut Spice Cake](../recipes/31-cake/nut-spice-cake.md)（p. 515）
+- [Dark Fruit Cake](../recipes/31-cake/dark-fruit-cake.md)（p. 515）
+- [Nut Cakes](../recipes/31-cake/nut-cakes.md)（p. 515）
+- [Snow Cake](../recipes/31-cake/snow-cake.md)（p. 515）
+- [Lily Cake](../recipes/31-cake/lily-cake.md)（p. 516）
+- [Corn-starch Cake](../recipes/31-cake/corn-starch-cake.md)（p. 516）
+- [Prune Almond Cake](../recipes/31-cake/prune-almond-cake.md)（p. 516）
+- [Marshmallow Cake](../recipes/31-cake/marshmallow-cake.md)（p. 516）
+- [Fig Éclair](../recipes/31-cake/fig-eclair.md)（p. 516）
+- [Banana Cake](../recipes/31-cake/banana-cake.md)（p. 517）
+- [Bride's Cake](../recipes/31-cake/brides-cake.md)（p. 517）
+- [Ice Cream Cake](../recipes/31-cake/ice-cream-cake.md)（p. 517）
+- [Light Fruit Cake](../recipes/31-cake/light-fruit-cake.md)（p. 517）
+- [White Nut Cake](../recipes/31-cake/white-nut-cake.md)（p. 517）
+- [Golden Cake](../recipes/31-cake/golden-cake.md)（p. 518）
+- [Mocha Cakes](../recipes/31-cake/mocha-cakes.md)（p. 518）
+- [Cream Cakes](../recipes/31-cake/cream-cakes.md)（p. 519）
+- [French Cream Cakes](../recipes/31-cake/french-cream-cakes.md)（p. 519）
+- [French Strawberry Cream Cakes](../recipes/31-cake/french-strawberry-cream-cakes.md)（p. 519）
+- [Éclairs](../recipes/31-cake/eclairs.md)（p. 519）
+- [Lemon Queens](../recipes/31-cake/lemon-queens.md)（p. 519）
+- [Queen Cake](../recipes/31-cake/queen-cake.md)（p. 520）
+- [Pound Cake](../recipes/31-cake/pound-cake.md)（p. 520）
+- [New York Gingerbread](../recipes/31-cake/new-york-gingerbread.md)（p. 520）
+- [Newport Pound Cake](../recipes/31-cake/newport-pound-cake.md)（p. 520）
+- [Christmas Cakes](../recipes/31-cake/christmas-cakes.md)（p. 520）
+- [Ginger Pound Cakes](../recipes/31-cake/ginger-pound-cakes.md)（p. 521）
+- [Molasses Pound Cake](../recipes/31-cake/molasses-pound-cake.md)（p. 528）
+- [English Fruit Cake](../recipes/31-cake/english-fruit-cake.md)（p. 522）
+- [Wedding Cake I](../recipes/31-cake/wedding-cake-i.md)（p. 522）
+- [Wedding Cake II](../recipes/31-cake/wedding-cake-ii.md)（p. 523）
+- [Imperial Cake](../recipes/31-cake/imperial-cake.md)（p. 524）
+
+## Chapter 32. Cake Fillings and Frostings
+
+- [Cream Filling](../recipes/32-cake-fillings-and-frostings/cream-filling.md)（p. 524）
+- [Chocolate Cream Filling](../recipes/32-cake-fillings-and-frostings/chocolate-cream-filling.md)（p. 524）
+- [Coffee Cream Filling](../recipes/32-cake-fillings-and-frostings/coffee-cream-filling.md)（p. 524）
+- [French Cream Filling](../recipes/32-cake-fillings-and-frostings/french-cream-filling.md)（p. 524）
+- [Strawberry Filling](../recipes/32-cake-fillings-and-frostings/strawberry-filling.md)（p. 525）
+- [Lemon Filling](../recipes/32-cake-fillings-and-frostings/lemon-filling.md)（p. 525）
+- [Orange Filling](../recipes/32-cake-fillings-and-frostings/orange-filling.md)（p. 525）
+- [Chocolate Filling](../recipes/32-cake-fillings-and-frostings/chocolate-filling.md)（p. 525）
+- [Nut or Fruit Filling](../recipes/32-cake-fillings-and-frostings/nut-or-fruit-filling.md)（p. 525）
+- [Cocoanut Filling](../recipes/32-cake-fillings-and-frostings/cocoanut-filling.md)（p. 526）
+- [Lemon Cocoanut Cream](../recipes/32-cake-fillings-and-frostings/lemon-cocoanut-cream.md)（p. 526）
+- [Fig Filling](../recipes/32-cake-fillings-and-frostings/fig-filling.md)（p. 526）
+- [Marshmallow Paste](../recipes/32-cake-fillings-and-frostings/marshmallow-paste.md)（p. 526）
+- [Pistachio Paste](../recipes/32-cake-fillings-and-frostings/pistachio-paste.md)（p. 526）
+- [Prune Almond Filling](../recipes/32-cake-fillings-and-frostings/prune-almond-filling.md)（p. 527）
+- [Confectioners' Frosting](../recipes/32-cake-fillings-and-frostings/confectioners-frosting.md)（p. 527）
+- [Orange Frosting](../recipes/32-cake-fillings-and-frostings/orange-frosting.md)（p. 527）
+- [Gelatine Frosting](../recipes/32-cake-fillings-and-frostings/gelatine-frosting.md)（p. 527）
+- [Plain Frosting](../recipes/32-cake-fillings-and-frostings/plain-frosting.md)（p. 527）
+- [Chocolate Frosting I](../recipes/32-cake-fillings-and-frostings/chocolate-frosting-i.md)（p. 528）
+- [Chocolate Frosting II](../recipes/32-cake-fillings-and-frostings/chocolate-frosting-ii.md)（p. 528）
+- [Chocolate Frosting III](../recipes/32-cake-fillings-and-frostings/chocolate-frosting-iii.md)（p. 528）
+- [White Mountain Cream](../recipes/32-cake-fillings-and-frostings/white-mountain-cream.md)（p. 528）
+- [Ice Cream Frosting](../recipes/32-cake-fillings-and-frostings/ice-cream-frosting.md)（p. 529）
+- [Boiled Frosting](../recipes/32-cake-fillings-and-frostings/boiled-frosting.md)（p. 529）
+- [Boiled Chocolate Frosting](../recipes/32-cake-fillings-and-frostings/boiled-chocolate-frosting.md)（p. 529）
+- [Brown Frosting](../recipes/32-cake-fillings-and-frostings/brown-frosting.md)（p. 529）
+- [Maple Sugar Frosting](../recipes/32-cake-fillings-and-frostings/maple-sugar-frosting.md)（p. 529）
+- [Cream Maple Sugar Frosting](../recipes/32-cake-fillings-and-frostings/cream-maple-sugar-frosting.md)（p. 529）
+- [Milk Frosting](../recipes/32-cake-fillings-and-frostings/milk-frosting.md)（p. 530）
+- [Caramel Frosting I](../recipes/32-cake-fillings-and-frostings/caramel-frosting-i.md)（p. 530）
+- [Caramel Frosting II](../recipes/32-cake-fillings-and-frostings/caramel-frosting-ii.md)（p. 530）
+- [Nut Caramel Frosting](../recipes/32-cake-fillings-and-frostings/nut-caramel-frosting.md)（p. 530）
+- [Opera Caramel Frosting](../recipes/32-cake-fillings-and-frostings/opera-caramel-frosting.md)（p. 531）
+- [Chocolate Fudge Frosting](../recipes/32-cake-fillings-and-frostings/chocolate-fudge-frosting.md)（p. 531）
+- [Mocha Frosting](../recipes/32-cake-fillings-and-frostings/mocha-frosting.md)（p. 531）
+- [Fondant Icing](../recipes/32-cake-fillings-and-frostings/fondant-icing.md)（p. 531）
+- [Marshmallow Frosting](../recipes/32-cake-fillings-and-frostings/marshmallow-frosting.md)（p. 532）
+- [Ornamental Frosting I](../recipes/32-cake-fillings-and-frostings/ornamental-frosting-i.md)（p. 532）
+- [Ornamental Frosting II](../recipes/32-cake-fillings-and-frostings/ornamental-frosting-ii.md)（p. 533）
+
+## Chapter 33. Fancy Cakes and Confections
+
+- [Macaroons](../recipes/33-fancy-cakes-and-confections/macaroons.md)（p. 533）
+- [Almond Macaroons](../recipes/33-fancy-cakes-and-confections/almond-macaroons.md)（p. 534）
+- [Crescents](../recipes/33-fancy-cakes-and-confections/crescents.md)（p. 534）
+- [Cinnamon Bars](../recipes/33-fancy-cakes-and-confections/cinnamon-bars.md)（p. 534）
+- [Horseshoes](../recipes/33-fancy-cakes-and-confections/horseshoes.md)（p. 535）
+- [Cocoanut Cakes I](../recipes/33-fancy-cakes-and-confections/cocoanut-cakes-i.md)（p. 535）
+- [Cocoanut Cakes II](../recipes/33-fancy-cakes-and-confections/cocoanut-cakes-ii.md)（p. 535）
+- [Stuffed Dates I](../recipes/33-fancy-cakes-and-confections/stuffed-dates-i.md)（p. 535）
+- [Stuffed Dates II](../recipes/33-fancy-cakes-and-confections/stuffed-dates-ii.md)（p. 535）
+- [Salted Almonds I](../recipes/33-fancy-cakes-and-confections/salted-almonds-i.md)（p. 536）
+- [Salted Almonds II](../recipes/33-fancy-cakes-and-confections/salted-almonds-ii.md)（p. 536）
+- [Salted Peanuts](../recipes/33-fancy-cakes-and-confections/salted-peanuts.md)（p. 536）
+- [Salted Pecans](../recipes/33-fancy-cakes-and-confections/salted-pecans.md)（p. 536）
+- [Parisian Sweets](../recipes/33-fancy-cakes-and-confections/parisian-sweets.md)（p. 537）
+- [Sugared Popped Corn](../recipes/33-fancy-cakes-and-confections/sugared-popped-corn.md)（p. 537）
+- [Molasses Candy](../recipes/33-fancy-cakes-and-confections/molasses-candy.md)（p. 537）
+- [Velvet Molasses Candy](../recipes/33-fancy-cakes-and-confections/velvet-molasses-candy.md)（p. 538）
+- [Buttercups](../recipes/33-fancy-cakes-and-confections/buttercups.md)（p. 538）
+- [Vinegar Candy](../recipes/33-fancy-cakes-and-confections/vinegar-candy.md)（p. 538）
+- [Ice Cream Candy](../recipes/33-fancy-cakes-and-confections/ice-cream-candy.md)（p. 539）
+- [Butter Scotch](../recipes/33-fancy-cakes-and-confections/butter-scotch.md)（p. 539）
+- [Butter Taffy](../recipes/33-fancy-cakes-and-confections/butter-taffy.md)（p. 539）
+- [Horehound Candy](../recipes/33-fancy-cakes-and-confections/horehound-candy.md)（p. 539）
+- [Chocolate Caramels](../recipes/33-fancy-cakes-and-confections/chocolate-caramels.md)（p. 540）
+- [Nut Chocolate Caramels](../recipes/33-fancy-cakes-and-confections/nut-chocolate-caramels.md)（p. 540）
+- [Rich Chocolate Caramels](../recipes/33-fancy-cakes-and-confections/rich-chocolate-caramels.md)（p. 540）
+- [Peanut Nougat](../recipes/33-fancy-cakes-and-confections/peanut-nougat.md)（p. 540）
+- [Nut Bar](../recipes/33-fancy-cakes-and-confections/nut-bar.md)（p. 541）
+- [French Nougat](../recipes/33-fancy-cakes-and-confections/french-nougat.md)（p. 541）
+- [Nougatine Drops](../recipes/33-fancy-cakes-and-confections/nougatine-drops.md)（p. 541）
+- [Wintergreen Wafers](../recipes/33-fancy-cakes-and-confections/wintergreen-wafers.md)（p. 542）
+- [Cocoanut Cream Candy](../recipes/33-fancy-cakes-and-confections/cocoanut-cream-candy.md)（p. 542）
+- [Chocolate Cream Candy](../recipes/33-fancy-cakes-and-confections/chocolate-cream-candy.md)（p. 542）
+- [Maple Sugar Candy](../recipes/33-fancy-cakes-and-confections/maple-sugar-candy.md)（p. 543）
+- [Sultana Caramels](../recipes/33-fancy-cakes-and-confections/sultana-caramels.md)（p. 543）
+- [Pralines](../recipes/33-fancy-cakes-and-confections/pralines.md)（p. 543）
+- [Creamed Walnuts](../recipes/33-fancy-cakes-and-confections/creamed-walnuts.md)（p. 544）
+- [Peppermints](../recipes/33-fancy-cakes-and-confections/peppermints.md)（p. 544）
+- [White Fondant](../recipes/33-fancy-cakes-and-confections/white-fondant.md)（p. 545）
+- [Coffee Fondant](../recipes/33-fancy-cakes-and-confections/coffee-fondant.md)（p. 545）
+- [Maple Fondant](../recipes/33-fancy-cakes-and-confections/maple-fondant.md)（p. 545）
+- [Bonbons](../recipes/33-fancy-cakes-and-confections/bonbons.md)（p. 546）
+- [Cream Mints](../recipes/33-fancy-cakes-and-confections/cream-mints.md)（p. 546）
+- [Cream Nut Bars](../recipes/33-fancy-cakes-and-confections/cream-nut-bars.md)（p. 546）
+- [Dipped Walnuts](../recipes/33-fancy-cakes-and-confections/dipped-walnuts.md)（p. 546）
+- [Tutti-Frutti Candy](../recipes/33-fancy-cakes-and-confections/tutti-frutti-candy.md)（p. 547）
+- [Glacé Nuts](../recipes/33-fancy-cakes-and-confections/glace-nuts.md)（p. 547）
+- [Glacé Fruits](../recipes/33-fancy-cakes-and-confections/glace-fruits.md)（p. 547）
+- [Candied Orange Peel](../recipes/33-fancy-cakes-and-confections/candied-orange-peel.md)（p. 548）
+- [Spun Sugar](../recipes/33-fancy-cakes-and-confections/spun-sugar.md)（p. 549）
+
+## Chapter 34. Sandwiches and Canapés
+
+- [Rolled Bread](../recipes/34-sandwiches-and-canapes/rolled-bread.md)（p. 549）
+- [Bread and Butter Folds](../recipes/34-sandwiches-and-canapes/bread-and-butter-folds.md)（p. 550）
+- [Lettuce Sandwiches](../recipes/34-sandwiches-and-canapes/lettuce-sandwiches.md)（p. 550）
+- [Egg Sandwiches](../recipes/34-sandwiches-and-canapes/egg-sandwiches.md)（p. 550）
+- [Sardine Sandwiches](../recipes/34-sandwiches-and-canapes/sardine-sandwiches.md)（p. 550）
+- [Sliced Ham Sandwiches](../recipes/34-sandwiches-and-canapes/sliced-ham-sandwiches.md)（p. 550）
+- [Chopped Ham Sandwiches](../recipes/34-sandwiches-and-canapes/chopped-ham-sandwiches.md)（p. 550）
+- [Anchovy Sandwiches](../recipes/34-sandwiches-and-canapes/anchovy-sandwiches.md)（p. 550）
+- [Chicken Sandwiches](../recipes/34-sandwiches-and-canapes/chicken-sandwiches.md)（p. 551）
+- [Lobster Sandwiches](../recipes/34-sandwiches-and-canapes/lobster-sandwiches.md)（p. 551）
+- [Lobster Sandwiches à la Boulevard](../recipes/34-sandwiches-and-canapes/lobster-sandwiches-a-la-boulevard.md)（p. 551）
+- [Oyster Sandwiches](../recipes/34-sandwiches-and-canapes/oyster-sandwiches.md)（p. 551）
+- [Nut and Cheese Sandwiches](../recipes/34-sandwiches-and-canapes/nut-and-cheese-sandwiches.md)（p. 551）
+- [Cheese and Anchovy Sandwiches](../recipes/34-sandwiches-and-canapes/cheese-and-anchovy-sandwiches.md)（p. 551）
+- [Windsor Sandwiches](../recipes/34-sandwiches-and-canapes/windsor-sandwiches.md)（p. 552）
+- [Club Sandwiches](../recipes/34-sandwiches-and-canapes/club-sandwiches.md)（p. 552）
+- [Ginger Sandwiches](../recipes/34-sandwiches-and-canapes/ginger-sandwiches.md)（p. 552）
+- [Fruit Sandwiches](../recipes/34-sandwiches-and-canapes/fruit-sandwiches.md)（p. 552）
+- [Brown Bread Sandwiches](../recipes/34-sandwiches-and-canapes/brown-bread-sandwiches.md)（p. 552）
+- [Noisette Sandwiches](../recipes/34-sandwiches-and-canapes/noisette-sandwiches.md)（p. 54）
+- [Colonial Sandwiches](../recipes/34-sandwiches-and-canapes/colonial-sandwiches.md)（p. 553）
+- [German Sandwiches](../recipes/34-sandwiches-and-canapes/german-sandwiches.md)（p. 61）
+- [Russian Sandwiches](../recipes/34-sandwiches-and-canapes/russian-sandwiches.md)（p. 61）
+- [Jelly Sandwiches](../recipes/34-sandwiches-and-canapes/jelly-sandwiches.md)（p. 61）
+- [Cheese Wafers](../recipes/34-sandwiches-and-canapes/cheese-wafers.md)（p. 61）
+- [Canapés](../recipes/34-sandwiches-and-canapes/canapes.md)（p. 61）
+- [Cheese Canapés I](../recipes/34-sandwiches-and-canapes/cheese-canapes-i.md)（p. 554）
+- [Cheese Canapés II](../recipes/34-sandwiches-and-canapes/cheese-canapes-ii.md)（p. 554）
+- [Sardine Canapés](../recipes/34-sandwiches-and-canapes/sardine-canapes.md)（p. 554）
+- [Lobster Canapés](../recipes/34-sandwiches-and-canapes/lobster-canapes.md)（p. 554）
+- [Canapés Martha](../recipes/34-sandwiches-and-canapes/canapes-martha.md)（p. 554）
+- [Anchovy Canapés](../recipes/34-sandwiches-and-canapes/anchovy-canapes.md)（p. 555）
+- [Cheese and Olive Canapés](../recipes/34-sandwiches-and-canapes/cheese-and-olive-canapes.md)（p. 555）
+- [Canapés Lorenzo](../recipes/34-sandwiches-and-canapes/canapes-lorenzo.md)（p. 555）
+- [Algonquin Canapés](../recipes/34-sandwiches-and-canapes/algonquin-canapes.md)（p. 556）
+
+## Chapter 35. Recipes for the Chafing-Dish
+
+- [Scrambled Eggs with Sweetbreads](../recipes/35-recipes-for-the-chafing-dish/scrambled-eggs-with-sweetbreads.md)（p. 557）
+- [Scrambled Eggs with Calf's Brains](../recipes/35-recipes-for-the-chafing-dish/scrambled-eggs-with-calfs-brains.md)（p. 558）
+- [Cheese Omelet](../recipes/35-recipes-for-the-chafing-dish/cheese-omelet.md)（p. 558）
+- [Eggs au Beurre Noir](../recipes/35-recipes-for-the-chafing-dish/eggs-au-beurre-noir.md)（p. 558）
+- [Eggs à la Caracas](../recipes/35-recipes-for-the-chafing-dish/eggs-a-la-caracas.md)（p. 558）
+- [Union Grill](../recipes/35-recipes-for-the-chafing-dish/union-grill.md)（p. 559）
+- [Oysters à la D'Uxelles](../recipes/35-recipes-for-the-chafing-dish/oysters-a-la-duxelles.md)（p. 559）
+- [Oysters à la Thorndike](../recipes/35-recipes-for-the-chafing-dish/oysters-a-la-thorndike.md)（p. 559）
+- [Jack's Oyster Ragout](../recipes/35-recipes-for-the-chafing-dish/jacks-oyster-ragout.md)（p. 560）
+- [Lobster à la Delmonico](../recipes/35-recipes-for-the-chafing-dish/lobster-a-la-delmonico.md)（p. 560）
+- [Lobster à la Newburg](../recipes/35-recipes-for-the-chafing-dish/lobster-a-la-newburg.md)（p. 560）
+- [Clams à la Newburg](../recipes/35-recipes-for-the-chafing-dish/clams-a-la-newburg.md)（p. 560）
+- [Shrimps à la Newburg](../recipes/35-recipes-for-the-chafing-dish/shrimps-a-la-newburg.md)（p. 561）
+- [Fish à la Provençale](../recipes/35-recipes-for-the-chafing-dish/fish-a-la-provencale.md)（p. 561）
+- [Grilled Sardines](../recipes/35-recipes-for-the-chafing-dish/grilled-sardines.md)（p. 561）
+- [Sardines with Anchovy Sauce](../recipes/35-recipes-for-the-chafing-dish/sardines-with-anchovy-sauce.md)（p. 561）
+- [Creamed Sardines](../recipes/35-recipes-for-the-chafing-dish/creamed-sardines.md)（p. 562）
+- [Welsh Rarebit I](../recipes/35-recipes-for-the-chafing-dish/welsh-rarebit-i.md)（p. 562）
+- [Welsh Rarebit II](../recipes/35-recipes-for-the-chafing-dish/welsh-rarebit-ii.md)（p. 562）
+- [Oyster Rarebit](../recipes/35-recipes-for-the-chafing-dish/oyster-rarebit.md)（p. 563）
+- [Tomato Rarebit](../recipes/35-recipes-for-the-chafing-dish/tomato-rarebit.md)（p. 563）
+- [English Monkey](../recipes/35-recipes-for-the-chafing-dish/english-monkey.md)（p. 563）
+- [Breaded Tongue with Tomato Sauce](../recipes/35-recipes-for-the-chafing-dish/breaded-tongue-with-tomato-sauce.md)（p. 563）
+- [Scotch Woodcock](../recipes/35-recipes-for-the-chafing-dish/scotch-woodcock.md)（p. 564）
+- [Shredded Ham with Currant Jelly Sauce](../recipes/35-recipes-for-the-chafing-dish/shredded-ham-with-currant-jelly-sauce.md)（p. 564）
+- [Venison Cutlets with Apples](../recipes/35-recipes-for-the-chafing-dish/venison-cutlets-with-apples.md)（p. 564）
+- [Mutton with Currant Jelly Sauce](../recipes/35-recipes-for-the-chafing-dish/mutton-with-currant-jelly-sauce.md)（p. 564）
+- [Minced Mutton](../recipes/35-recipes-for-the-chafing-dish/minced-mutton.md)（p. 565）
+- [Devilled Bones](../recipes/35-recipes-for-the-chafing-dish/devilled-bones.md)（p. 565）
+- [Devilled Almonds](../recipes/35-recipes-for-the-chafing-dish/devilled-almonds.md)（p. 565）
+- [Devilled Chestnuts](../recipes/35-recipes-for-the-chafing-dish/devilled-chestnuts.md)（p. 565）
+- [Fruit Canapés](../recipes/35-recipes-for-the-chafing-dish/fruit-canapes.md)（p. 565）
+- [Peach Canapés](../recipes/35-recipes-for-the-chafing-dish/peach-canapes.md)（p. 566）
+- [Fig Cups](../recipes/35-recipes-for-the-chafing-dish/fig-cups.md)（p. 567）
+
+## Chapter 36. Fruits: Fresh, Preserved, and Canned
+
+- [How to Prepare Strawberries for Serving](../recipes/36-fruits-fresh-preserved-and-canned/how-to-prepare-strawberries-for-serving.md)（p. 567）
+- [How to Prepare Cantaloupes and Muskmelons for Serving](../recipes/36-fruits-fresh-preserved-and-canned/how-to-prepare-cantaloupes-and-muskmelons-for-serving.md)（p. 568）
+- [How to Prepare Grapes for Serving](../recipes/36-fruits-fresh-preserved-and-canned/how-to-prepare-grapes-for-serving.md)（p. 568）
+- [Ways of Preparing Oranges for Serving](../recipes/36-fruits-fresh-preserved-and-canned/ways-of-preparing-oranges-for-serving.md)（p. 568）
+- [How to Prepare Grape Fruit for Serving](../recipes/36-fruits-fresh-preserved-and-canned/how-to-prepare-grape-fruit-for-serving.md)（p. 568）
+- [Grape Fruit with Sherry](../recipes/36-fruits-fresh-preserved-and-canned/grape-fruit-with-sherry.md)（p. 569）
+- [Grape Fruit with Apricot Brandy](../recipes/36-fruits-fresh-preserved-and-canned/grape-fruit-with-apricot-brandy.md)（p. 569）
+- [Grape Fruit with Sloe Gin](../recipes/36-fruits-fresh-preserved-and-canned/grape-fruit-with-sloe-gin.md)（p. 569）
+- [Fruit Cocktail](../recipes/36-fruits-fresh-preserved-and-canned/fruit-cocktail.md)（p. 569）
+- [Baked Apples](../recipes/36-fruits-fresh-preserved-and-canned/baked-apples.md)（p. 569）
+- [Baked Sweet Apples](../recipes/36-fruits-fresh-preserved-and-canned/baked-sweet-apples.md)（p. 570）
+- [Apple Sauce](../recipes/36-fruits-fresh-preserved-and-canned/apple-sauce.md)（p. 570）
+- [Spiced Apple Sauce](../recipes/36-fruits-fresh-preserved-and-canned/spiced-apple-sauce.md)（p. 570）
+- [Apple Ginger](../recipes/36-fruits-fresh-preserved-and-canned/apple-ginger.md)（p. 570）
+- [Apple Porcupine](../recipes/36-fruits-fresh-preserved-and-canned/apple-porcupine.md)（p. 571）
+- [Baked Bananas I](../recipes/36-fruits-fresh-preserved-and-canned/baked-bananas-i.md)（p. 571）
+- [Baked Bananas II](../recipes/36-fruits-fresh-preserved-and-canned/baked-bananas-ii.md)（p. 571）
+- [Sautéd Bananas](../recipes/36-fruits-fresh-preserved-and-canned/sauted-bananas.md)（p. 571）
+- [Baked Peaches](../recipes/36-fruits-fresh-preserved-and-canned/baked-peaches.md)（p. 571）
+- [Baked Pears](../recipes/36-fruits-fresh-preserved-and-canned/baked-pears.md)（p. 571）
+- [Baked Quinces](../recipes/36-fruits-fresh-preserved-and-canned/baked-quinces.md)（p. 572）
+- [Cranberry Sauce](../recipes/36-fruits-fresh-preserved-and-canned/cranberry-sauce.md)（p. 572）
+- [Cranberry Jelly](../recipes/36-fruits-fresh-preserved-and-canned/cranberry-jelly.md)（p. 572）
+- [Stewed Prunes](../recipes/36-fruits-fresh-preserved-and-canned/stewed-prunes.md)（p. 572）
+- [Rhubarb Sauce](../recipes/36-fruits-fresh-preserved-and-canned/rhubarb-sauce.md)（p. 572）
+- [Apple Jelly](../recipes/36-fruits-fresh-preserved-and-canned/apple-jelly.md)（p. 573）
+- [Quince Jelly](../recipes/36-fruits-fresh-preserved-and-canned/quince-jelly.md)（p. 573）
+- [Crab Apple Jelly](../recipes/36-fruits-fresh-preserved-and-canned/crab-apple-jelly.md)（p. 574）
+- [Currant Jelly](../recipes/36-fruits-fresh-preserved-and-canned/currant-jelly.md)（p. 574）
+- [Currant and Raspberry Jelly](../recipes/36-fruits-fresh-preserved-and-canned/currant-and-raspberry-jelly.md)（p. 574）
+- [Blackberry Jelly](../recipes/36-fruits-fresh-preserved-and-canned/blackberry-jelly.md)（p. 574）
+- [Raspberry Jelly](../recipes/36-fruits-fresh-preserved-and-canned/raspberry-jelly.md)（p. 574）
+- [Barberry Jelly](../recipes/36-fruits-fresh-preserved-and-canned/barberry-jelly.md)（p. 574）
+- [Grape Jelly](../recipes/36-fruits-fresh-preserved-and-canned/grape-jelly.md)（p. 575）
+- [Green Grape Jelly](../recipes/36-fruits-fresh-preserved-and-canned/green-grape-jelly.md)（p. 575）
+- [Venison Jelly](../recipes/36-fruits-fresh-preserved-and-canned/venison-jelly.md)（p. 575）
+- [Damson Jelly](../recipes/36-fruits-fresh-preserved-and-canned/damson-jelly.md)（p. 575）
+- [Raspberry Jam](../recipes/36-fruits-fresh-preserved-and-canned/raspberry-jam.md)（p. 575）
+- [Blackberry Jam](../recipes/36-fruits-fresh-preserved-and-canned/blackberry-jam.md)（p. 576）
+- [Grape Marmalade](../recipes/36-fruits-fresh-preserved-and-canned/grape-marmalade.md)（p. 576）
+- [Quince Marmalade](../recipes/36-fruits-fresh-preserved-and-canned/quince-marmalade.md)（p. 576）
+- [Orange Marmalade I](../recipes/36-fruits-fresh-preserved-and-canned/orange-marmalade-i.md)（p. 576）
+- [Orange Marmalade II](../recipes/36-fruits-fresh-preserved-and-canned/orange-marmalade-ii.md)（p. 577）
+- [Orange and Rhubarb Marmalade](../recipes/36-fruits-fresh-preserved-and-canned/orange-and-rhubarb-marmalade.md)（p. 577）
+- [Quince Honey](../recipes/36-fruits-fresh-preserved-and-canned/quince-honey.md)（p. 577）
+- [Directions for Canning](../recipes/36-fruits-fresh-preserved-and-canned/directions-for-canning.md)（p. 578）
+- [To Sterilize Jars](../recipes/36-fruits-fresh-preserved-and-canned/to-sterilize-jars.md)（p. 578）
+- [Canned Porter Apples](../recipes/36-fruits-fresh-preserved-and-canned/canned-porter-apples.md)（p. 578）
+- [Canned Peaches](../recipes/36-fruits-fresh-preserved-and-canned/canned-peaches.md)（p. 579）
+- [Canned Pears](../recipes/36-fruits-fresh-preserved-and-canned/canned-pears.md)（p. 579）
+- [Canned Pineapples](../recipes/36-fruits-fresh-preserved-and-canned/canned-pineapples.md)（p. 579）
+- [Canned Quinces](../recipes/36-fruits-fresh-preserved-and-canned/canned-quinces.md)（p. 579）
+- [Canned Cherries](../recipes/36-fruits-fresh-preserved-and-canned/canned-cherries.md)（p. 579）
+- [Canned Huckleberries](../recipes/36-fruits-fresh-preserved-and-canned/canned-huckleberries.md)（p. 579）
+- [Canned Rhubarb](../recipes/36-fruits-fresh-preserved-and-canned/canned-rhubarb.md)（p. 580）
+- [Canned Tomatoes](../recipes/36-fruits-fresh-preserved-and-canned/canned-tomatoes.md)（p. 580）
+- [Damson Preserves](../recipes/36-fruits-fresh-preserved-and-canned/damson-preserves.md)（p. 580）
+- [Strawberry Preserves](../recipes/36-fruits-fresh-preserved-and-canned/strawberry-preserves.md)（p. 580）
+- [Pear Chips](../recipes/36-fruits-fresh-preserved-and-canned/pear-chips.md)（p. 581）
+- [Raspberry and Currant Preserve](../recipes/36-fruits-fresh-preserved-and-canned/raspberry-and-currant-preserve.md)（p. 581）
+- [Brandied Peaches](../recipes/36-fruits-fresh-preserved-and-canned/brandied-peaches.md)（p. 581）
+- [Tutti-Frutti](../recipes/36-fruits-fresh-preserved-and-canned/tutti-frutti.md)（p. 581）
+- [Canned Red Peppers](../recipes/36-fruits-fresh-preserved-and-canned/canned-red-peppers.md)（p. 582）
+- [Preserved Melon Rind](../recipes/36-fruits-fresh-preserved-and-canned/preserved-melon-rind.md)（p. 582）
+- [Tomato Preserve](../recipes/36-fruits-fresh-preserved-and-canned/tomato-preserve.md)（p. 582）
+- [Spiced Currants](../recipes/36-fruits-fresh-preserved-and-canned/spiced-currants.md)（p. 583）
+- [Sweet Pickled Peaches](../recipes/36-fruits-fresh-preserved-and-canned/sweet-pickled-peaches.md)（p. 583）
+- [Sweet Pickled Pears](../recipes/36-fruits-fresh-preserved-and-canned/sweet-pickled-pears.md)（p. 583）
+- [Chili Sauce](../recipes/36-fruits-fresh-preserved-and-canned/chili-sauce.md)（p. 583）
+- [Ripe Tomato Pickle](../recipes/36-fruits-fresh-preserved-and-canned/ripe-tomato-pickle.md)（p. 583）
+- [Ripe Cucumber Pickle](../recipes/36-fruits-fresh-preserved-and-canned/ripe-cucumber-pickle.md)（p. 584）
+- [Unripe Cucumber Pickles (Gherkins)](../recipes/36-fruits-fresh-preserved-and-canned/unripe-cucumber-pickles-gherkins.md)（p. 584）
+- [Chopped Pickles](../recipes/36-fruits-fresh-preserved-and-canned/chopped-pickles.md)（p. 585）
+- [Spanish Pickles](../recipes/36-fruits-fresh-preserved-and-canned/spanish-pickles.md)（p. 585）
+- [Chow-Chow](../recipes/36-fruits-fresh-preserved-and-canned/chow-chow.md)（p. 585）
+- [Pickled Onions](../recipes/36-fruits-fresh-preserved-and-canned/pickled-onions.md)（p. 586）
