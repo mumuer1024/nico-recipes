@@ -1,0 +1,12 @@
+---
+import type { recipeCatalog } from '../lib/recipes';
+interface Props { recipes: typeof recipeCatalog; }
+const { recipes } = Astro.props;
+---
+<div class="items">{recipes.map((recipe) => <a class="recipe-row" href={recipe.url}><span>{recipe.displayTitle}</span><span aria-hidden="true">↗</span></a>)}</div>
+<style>
+	.items { padding:0 0 16px; }
+	.recipe-row { min-height:48px; display:grid; grid-template-columns:minmax(0, 1fr) 20px; gap:16px; align-items:center; border-top:1px solid var(--line); padding:10px 0; color:var(--ink); text-decoration:none; line-height:1.5; overflow-wrap:anywhere; }
+	.recipe-row:hover { color:var(--moss); text-decoration:underline; text-underline-offset:4px; }
+	.recipe-row span:last-child { color:var(--orange); }
+</style>

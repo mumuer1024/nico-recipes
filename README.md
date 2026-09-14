@@ -1,25 +1,44 @@
 # Nico Recipes
 
-一个纯静态 Astro 菜谱网站。`src/content/recipes/` 中的 Obsidian Markdown 是唯一内容源，列表结构来自 `src/content/recipes/moc/菜谱目录.md`。
+**今天，吃点什么？**
 
-## 本地开发
+猫猫餐桌、高蛋白食谱，还有一本来自 1910 年的美国烹饪书。Nico Recipes 把三种来处的菜谱放在一起，让下一顿饭多一点选择。
 
-```sh
-npm install
-astro dev --background
-```
+认真挑一道，或者交给运气。
 
-构建：`npm run build`。背景开发服务器可用 `astro dev status`、`astro dev logs` 和 `astro dev stop` 管理。
+## 这里有什么
 
-## GitHub Pages
+- **猫猫餐桌**：家常厨房里的菜谱。
+- **GLP-1 高蛋白食谱**：按早餐、午餐、晚餐、零食和配菜整理。
+- **Boston Cooking-School Cookbook / 1910**：按原书章节浏览，菜谱正文保留英文；部分目录名称已有中文对照。
 
-`.github/workflows/deploy.yml` 会在 push 到 `main` 时构建并部署。Astro 根据 GitHub Actions 的 `GITHUB_REPOSITORY` 自动设置 project Pages 的 `site` 和 `base`，不需要填写仓库名。
+## 认真挑一道
 
-首次启用时，在仓库 Settings → Pages → Build and deployment 中将 Source 设为 **GitHub Actions**。之后推送 `main` 即可触发部署。
+从首页点击 **浏览菜谱**，或使用顶部的 **菜谱目录**。
 
-## 内容约定
+目录先展示三个来源。点击来源，再展开感兴趣的分类，就能看到菜谱名称。多个来源和分类可以同时打开，方便来回比较；猫猫餐桌目前直接列出菜谱。点击名称即可阅读完整菜谱。
 
-- 只解析 `moc/菜谱目录.md` 中的 WikiLink 与 Markdown link。
-- Markdown link 优先使用 href 定位；没有路径时才按唯一文件名匹配。
-- 同名文件出现多个匹配时，构建会报错；找不到目标时会给出 warning，并在目录中保留该条目但不生成详情链接。
-- `moc/**` 不会生成菜谱详情页。
+## 或者交给运气
+
+从首页点击 **随便抽一个**、右侧圆球，或顶部的 **扭蛋机**。
+
+1. 选一个池子：**全部、猫猫餐桌、高蛋白、1910、正餐、零食、饮料、甜品、汤**。每次只能选一个。
+2. 点击机器底部的 **READY** 大按钮。
+3. 等三个 Emoji 停下，领取结果纸条。点击整张纸条即可查看菜谱。
+
+按钮会在纸条完整出现后再等一秒恢复。想换一道，等 `READY` 回来后再按一次即可；每次抽取相互独立，可能再次抽到同一道菜。Emoji 只是动画装饰，与抽到的菜谱无关。
+
+**目前正餐、零食、饮料、甜品和汤的类型标注尚未完成，这五个池暂时为空。** 可以先从“全部”或三个来源池中抽取；目录中的餐型、章节名称不等于扭蛋池的类型标注。
+
+## 按自己的节奏使用
+
+手机和电脑都可以浏览。开启设备的“减少动态效果”设置后，首页圆球和扭蛋动画会简化，抽取与查看菜谱照常可用。
+
+扭蛋机需要浏览器开启 JavaScript；目录与菜谱阅读不需要。
+
+## 相关入口
+
+- [用户手动测试说明](docs/manual-testing.md)：按实际操作检查页面和交互，也可用于记录问题。
+- [Astro 官方文档](https://docs.astro.build/)：技术说明入口。
+
+猫猫餐桌 · 高蛋白 · 1910

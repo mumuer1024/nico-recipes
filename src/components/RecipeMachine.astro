@@ -1,0 +1,155 @@
+---
+import machineArt from '../../pic/老虎机.svg?url';
+import { recipeCatalog, collections, recipeTypes } from '../lib/recipes';
+// Original artwork viewBox: 0 0 1920 1080. Crop only the empty canvas margins.
+const crop = { x: 641.5, y: 24, width: 637, height: 1032.5 };
+const place = (x: number, y: number, width: number, height?: number) => 
+	`left:${(x - crop.x) / crop.width * 100}%;top:${(y - crop.y) / crop.height * 100}%;width:${width / crop.width * 100}%;${height ? `height:${height / crop.height * 100}%;` : ''}`;
+const pools = [{ id: 'all', title: '全部' }, ...collections.map((collection) => ({ id: collection.id, title: collection.id === 'glp1' ? '高蛋白' : collection.id === 'boston' ? '1910' : collection.title })), ...recipeTypes.map((type) => ({ id: type, title: type }))];
+// Ship only fields used by the interaction; URLs come from the existing catalog.
+const entries = recipeCatalog.map((recipe) => ({ collectionId: recipe.collectionId, recipeTypes: recipe.recipeTypes, title: recipe.displayTitle, url: recipe.url, category: recipe.category?.title ?? null }));
+const payload = JSON.stringify({ entries, collections }).replace(/</g, '\\u003c');
+---
+<recipe-machine data-state="READY">
+	<div class="machine-controls">
+		<slot name="intro" />
+	<fieldset class="pools" disabled>
+		<legend>选一个池子</legend>
+		<div class="pool-options">{pools.map((pool, index) => <label><input type="radio" name="recipe-pool" value={pool.id} checked={index === 0} /><span>{pool.title}</span></label>)}</div>
+	</fieldset>
+	<p class="pool-status" role="status">全部 · {recipeCatalog.length} 道菜谱</p>
+	</div>
+	<div class="machine-assembly">
+		<div class="machine-surface">
+			<svg class="machine-art" viewBox={`${crop.x} ${crop.y} ${crop.width} ${crop.height}`} aria-hidden="true"><image href={machineArt} width="1920" height="1080" /></svg>
+			{[707.5, 880, 1052.5].map((x, index) => <div class="reel-window" style={place(x, 410.74, 160, 345)} aria-hidden="true"><div class="reel"><span>{['🍎', '🍜', '🍰'][index]}</span></div></div>)}
+			<button class="draw-trigger" style={place(680, 799.87, 560, 130)} type="button" aria-label="抽一道菜谱" disabled>
+				<span class="button-face"><svg viewBox="680 799.87 560 130" aria-hidden="true"><image href={machineArt} width="1920" height="1080" /></svg><span class="button-text">READY</span></span>
+			</button>
+		</div>
+		<!-- Paper emerges below the unmodified body, at logical y=1050. -->
+		<div class="outlet" style={`width:${540 / crop.width * 100}%;margin-top:${(1050 - (crop.y + crop.height)) / crop.width * 100}%`}>
+			<a class="result" hidden><small class="result-source"></small><strong class="result-title"></strong><span class="result-hint">查看菜谱 <span aria-hidden="true">↗</span></span></a>
+		</div>
+	</div>
+	<p class="announcement" aria-live="polite" aria-atomic="true"></p>
+	<noscript><p>开启 JavaScript 后即可抽取，或直接浏览<a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/recipes/`}>菜谱目录</a>。</p></noscript>
+	<script type="application/json" class="machine-data" set:html={payload} />
+</recipe-machine>
+<script>
+	import { createDrawController, getPoolRecipes } from '../lib/gacha';
+	type Entry = { collectionId: string; recipeTypes: string[]; title: string; url: string; category: string | null };
+	const foods = ['🍎', '🍗', '🍜', '🍰', '🥚', '🥗', '🍞', '🥐', '🥣', '🥪', '🍲', '🍪'];
+	class RecipeMachine extends HTMLElement {
+		private initialized = false;
+		connectedCallback() {
+			if (this.initialized) return;
+			this.initialized = true;
+			const { entries, collections } = JSON.parse(this.querySelector('.machine-data')!.textContent!) as { entries: Entry[]; collections: { id: string; title: string }[] };
+			const fieldset = this.querySelector('fieldset')!;
+			const trigger = this.querySelector<HTMLButtonElement>('.draw-trigger')!;
+			const buttonText = this.querySelector<HTMLElement>('.button-text')!;
+			const status = this.querySelector<HTMLElement>('.pool-status')!;
+			const reels = [...this.querySelectorAll<HTMLElement>('.reel')];
+			const result = this.querySelector<HTMLAnchorElement>('.result')!;
+			const announcement = this.querySelector<HTMLElement>('.announcement')!;
+			const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
+			const emoji = () => foods[Math.floor(Math.random() * foods.length)];
+			const selected = () => this.querySelector<HTMLInputElement>('input:checked')!;
+			const pool = () => getPoolRecipes(entries, selected().value);
+			const updateControls = () => {
+				const locked = controller.state !== 'READY';
+				fieldset.disabled = locked;
+				trigger.disabled = locked || pool().length === 0;
+				buttonText.textContent = locked ? '···' : 'READY';
+			};
+			const updatePool = () => {
+				const count = pool().length;
+				const title = selected().nextElementSibling!.textContent;
+				status.textContent = count ? `${title} · ${count} 道菜谱` : `${title}池暂时没有菜谱，换一个池子试试。`;
+				updateControls();
+			};
+			// Finish an in-flight visual immediately if the user enables reduced motion.
+			const play = async (element: HTMLElement, frames: Keyframe[], duration: number) => {
+				if (motion.matches) return;
+				const animation = element.animate(frames, { duration, easing: 'ease-out' });
+				const finish = () => { if (motion.matches) animation.finish(); };
+				motion.addEventListener('change', finish);
+				try { await animation.finished; } catch { /* A cancelled visual is already gone. */ }
+				finally { motion.removeEventListener('change', finish); }
+			};
+			const controller = createDrawController<Entry>({
+				onState: (state) => { this.dataset.state = state; updateControls(); },
+				spin: async () => {
+					result.hidden = true;
+					announcement.textContent = '';
+					await Promise.all(reels.map(async (reel, index) => {
+						// Emoji are cosmetic. The controller has already selected the recipe.
+						const finalEmoji = emoji();
+						const finalItem = document.createElement('span'); finalItem.textContent = finalEmoji;
+						if (motion.matches) { reel.replaceChildren(finalItem); return; }
+						const symbols = Array.from({ length: 10 }, () => emoji());
+						symbols.push(finalEmoji);
+						reel.replaceChildren(...symbols.map((symbol) => { const item = document.createElement('span'); item.textContent = symbol; return item; }));
+						await play(reel, [{ transform: 'translateY(0)' }, { transform: 'translateY(-1000%)' }], 650 + index * 150);
+						reel.replaceChildren(finalItem);
+					}));
+				},
+				dispense: async (recipe) => {
+					result.href = recipe.url;
+					result.querySelector('.result-title')!.textContent = recipe.title;
+					const source = collections.find((collection) => collection.id === recipe.collectionId)!.title;
+					result.querySelector('.result-source')!.textContent = source + (recipe.category ? ` · ${recipe.category}` : '');
+					result.hidden = false;
+					await play(result, [{ opacity: 0, transform: 'translateY(-100%)' }, { opacity: 1, transform: 'translateY(0)' }], 350);
+					announcement.textContent = `抽到了：${recipe.title}，来自${source}。可点击纸条查看菜谱。`;
+				},
+			});
+			fieldset.addEventListener('change', updatePool);
+			trigger.addEventListener('click', () => { void controller.draw(pool()); });
+			updatePool();
+		}
+	}
+	customElements.define('recipe-machine', RecipeMachine);
+</script>
+<style>
+	recipe-machine { display:grid; grid-template-columns:1fr 1.15fr; gap:clamp(32px, 6vw, 90px); align-items:center; width:100%; min-width:0; }
+	.machine-controls { min-width:0; }
+	.pools { border:0; padding:0; margin:0; }
+	legend { font-size:.8rem; color:var(--muted); margin-bottom:12px; }
+	.pool-options { display:flex; flex-wrap:wrap; gap:8px; }
+	label { position:relative; cursor:pointer; }
+	input { position:absolute; width:1px; height:1px; opacity:0; }
+	label > span { display:inline-flex; align-items:center; min-height:44px; padding:7px 15px; border:1px solid var(--line); border-radius:2px; color:var(--moss); font-size:.85rem; }
+	input:checked + span { background:var(--moss); color:var(--paper); border-color:var(--moss); }
+	input:focus-visible + span { outline:2px solid var(--moss); outline-offset:3px; }
+	fieldset:disabled label { cursor:default; }
+	.pool-status { font-size:.78rem; color:var(--muted); margin:12px 0 24px; min-height:1.8em; }
+	.machine-assembly { width:min(320px, calc((100svh - 310px) * .617)); min-width:240px; max-width:100%; justify-self:center; container-type:inline-size; }
+	/* Every overlay uses the same cropped SVG coordinate system, never page pixels. */
+	.machine-surface { position:relative; width:100%; aspect-ratio:637 / 1032.5; }
+	.machine-art { display:block; width:100%; height:100%; }
+	.reel-window { position:absolute; overflow:hidden; border-radius:2%; background:#fffdf6; }
+	.reel { width:100%; height:100%; font-size:17cqw; line-height:1; text-align:center; }
+	.reel :global(span) { display:grid; place-items:center; width:100%; height:100%; }
+	.draw-trigger { position:absolute; padding:0; border:0; background:transparent; border-radius:1.4% / 6%; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+	.button-face { display:block; position:absolute; inset:0; transition:transform 100ms ease-out, filter 100ms ease-out; }
+	.button-face svg { display:block; width:100%; height:100%; }
+	.button-text { position:absolute; inset:0; display:grid; place-items:center; color:#ffe5a2; font-size:12cqw; font-weight:800; line-height:1; letter-spacing:.06em; padding-left:.06em; }
+	.draw-trigger:disabled { cursor:default; }
+	.draw-trigger:disabled .button-text { opacity:.6; }
+	recipe-machine:not([data-state="READY"]) .button-face { transform:translateY(5%) scale(.985); filter:brightness(.88); }
+	@media (hover:hover) { .draw-trigger:not(:disabled):hover .button-face { filter:brightness(1.06); } }
+	.draw-trigger:focus-visible { outline:2px solid var(--ink); outline-offset:4px; }
+	.outlet { position:relative; margin:0 auto; min-height:140px; overflow:hidden; }
+	.result { display:flex; flex-direction:column; gap:8px; background:#fffdf6; padding:14px 16px; text-decoration:none; overflow-wrap:anywhere; box-shadow:inset 0 3px 5px #23181518; }
+	.result[hidden] { display:none; }
+	.result-source { color:var(--muted); font-size:.7rem; line-height:1.5; }
+	.result-title { color:var(--moss); font-size:1.1rem; line-height:1.4; }
+	.result-hint { color:var(--moss); font-size:.75rem; display:flex; justify-content:space-between; }
+	.result-hint > span { color:var(--orange); }
+	.result:hover .result-title { text-decoration:underline; text-underline-offset:4px; }
+	.announcement { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+	@media (max-width:700px) { recipe-machine { grid-template-columns:1fr; gap:14px; } .pool-status { margin:10px 0 0; } .machine-controls { padding-bottom:4px; } .pools { margin-top:16px; } .machine-assembly { width:220px; min-width:0; } .outlet { min-height:clamp(0px, calc(100svh - 810px), 110px); } }
+	@media (prefers-reduced-motion:reduce) { .button-face { transition:none; } recipe-machine:not([data-state="READY"]) .button-face { transform:none; filter:none; } }
+</style>

@@ -1,6 +1,6 @@
 ---
-interface Props { title?: string; }
-const { title = 'Nico 的菜谱' } = Astro.props;
+interface Props { title?: string; singleScreen?: boolean; }
+const { title = 'Nico 的菜谱', singleScreen = false } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
 
@@ -17,13 +17,13 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
-	<body>
+	<body class:list={{ 'single-screen': singleScreen }}>
 		<header class="site-header"><div class="shell header-inner">
 			<a class="wordmark" href={base} aria-label="返回首页"><span>nico</span><i>recipes</i></a>
-			<nav aria-label="主导航"><a href={`${base}recipes/`}>菜谱目录 <span aria-hidden="true">↗</span></a></nav>
+			<nav aria-label="主导航"><a href={`${base}recipes/`}>菜谱目录</a><a href={`${base}gacha/`}>扭蛋机</a></nav>
 		</div></header>
 		<main><slot /></main>
-		<footer class="site-footer"><div class="shell">从厨房笔记，到餐桌上的下一顿。</div></footer>
+		<footer class="site-footer"><div class="shell">猫猫餐桌 · 高蛋白 · 1910</div></footer>
 	</body>
 </html>
 
@@ -43,4 +43,12 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 	nav a span { color:var(--orange); font-size:1rem; margin-left:5px; }
 	.site-footer { color:var(--muted); border-top:1px solid var(--line); margin-top:96px; padding:24px 0 40px; font-size:12px; line-height:1.6; }
 	@media (max-width:600px) { .shell { width:min(100% - 32px, 1120px); } .header-inner { height:64px; } .site-footer { margin-top:64px; } }
+	button, input { font:inherit; }
+	:focus-visible { outline:2px solid var(--moss); outline-offset:5px; }
+	nav { display:flex; gap:24px; }
+	nav a { display:inline-flex; align-items:center; min-height:44px; }
+	.single-screen { min-height:100svh; display:flex; flex-direction:column; }
+	.single-screen main { flex:1; display:flex; }
+	.single-screen .site-footer { margin-top:0; padding:16px 0; }
+	@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
 </style>

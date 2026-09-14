@@ -2,26 +2,41 @@
 import Layout from '../layouts/Layout.astro';
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
-<Layout>
+<Layout singleScreen>
 	<section class="hero shell">
-		<div class="hero-kicker">NICO'S KITCHEN NOTEBOOK <span>·</span> 2026</div>
-		<h1>今天，<br><em>吃点好的。</em></h1>
-		<p>一份从 Obsidian 厨房笔记里长出来的菜谱目录。<br />不追求复杂，只记录真正会再做的味道。</p>
-		<a class="button" href={`${base}recipes/`}>打开菜谱目录 <span>→</span></a>
-		<div class="hero-note"><span>01</span><span>家常 · 高蛋白 · 认真吃饭</span></div>
+		<div class="hero-copy">
+			<div class="hero-kicker">NICO'S KITCHEN NOTEBOOK <span>·</span> 2026</div>
+			<h1>今天，<br><em>吃点什么？</em></h1>
+			<p>猫猫餐桌、高蛋白食谱，<br>还有一本来自 1910 年的美国烹饪书。<br><span>认真挑一道，或者交给运气。</span></p>
+			<div class="actions"><a class="button" href={`${base}recipes/`}>浏览菜谱 <span aria-hidden="true">→</span></a><a class="random-link" href={`${base}gacha/`}>随便抽一个 <span aria-hidden="true">↗</span></a></div>
+		</div>
+		<a class="recipe-balls" href={`${base}gacha/`} aria-label="进入扭蛋机，随便抽一道菜谱">
+			<span class="ball ball-one"></span><span class="ball ball-two"></span><span class="ball ball-three"></span><span class="ball ball-four"></span><span class="ball ball-five"></span>
+		</a>
 	</section>
 </Layout>
 <style>
-	.hero { min-height:calc(100vh - 76px); padding:clamp(72px, 15vh, 160px) 0 70px; position:relative; }
-	.hero::after { content:'✳'; position:absolute; right:5%; top:20%; color:var(--orange); font-size:clamp(4rem, 10vw, 9rem); line-height:1; transform:rotate(16deg); opacity:.8; }
-	.hero-kicker { color:var(--orange); font-size:.74rem; font-weight:400; letter-spacing:.12em; }
-	h1 { max-width:780px; margin:22px 0 18px; color:var(--moss); font-size:clamp(3.2rem, 8vw, 6.5rem); line-height:1.06; letter-spacing:-.08em; font-weight:800; }
+	.hero { display:grid; grid-template-columns:1.3fr 1fr; align-items:center; gap:24px; padding:clamp(24px, 5vh, 64px) 0; }
+	.hero-copy { position:relative; z-index:1; }
+	.hero-kicker { color:var(--orange); font-size:.74rem; letter-spacing:.12em; }
+	h1 { margin:22px 0 18px; color:var(--moss); font-size:clamp(3.2rem, 7.5vw, 6.2rem); line-height:1.06; letter-spacing:-.08em; font-weight:800; }
 	h1 em { color:var(--ink); font-style:normal; }
-	p { color:var(--muted); max-width:470px; margin:0 0 34px; font-size:1rem; line-height:1.82; }
-	.button { display:inline-flex; gap:35px; align-items:center; padding:14px 19px 14px 22px; color:#fff; background:var(--moss); border-radius:2px; text-decoration:none; font-size:.9rem; font-weight:400; transition:transform .2s, background .2s; }
-	.button:hover { background:var(--orange); transform:translateY(-2px); }
-	.button span { font-size:1.3rem; line-height:1; }
-	.hero-note { position:absolute; bottom:70px; left:0; display:flex; gap:20px; color:var(--muted); font-size:12px; line-height:1.5; letter-spacing:.05em; }
-	.hero-note span:first-child { color:var(--orange); }
-	@media (max-width:600px) { .hero { min-height:calc(100vh - 64px); padding-top:100px; } .hero::after { top:10%; right:2%; font-size:4rem; } .hero-note { bottom:30px; flex-direction:column; gap:2px; } h1 { font-size:clamp(3.1rem, 16vw, 5rem); } }
+	p { color:var(--muted); margin:0 0 28px; font-size:.95rem; line-height:1.82; }
+	p span { display:inline-block; margin-top:12px; }
+	.actions { display:flex; align-items:center; gap:24px; flex-wrap:wrap; }
+	.button { display:inline-flex; gap:30px; align-items:center; padding:12px 20px; color:#fff; background:var(--moss); border-radius:2px; text-decoration:none; font-size:.9rem; transition:background .2s; }
+	.button:hover { background:var(--ink); }
+	.random-link { display:inline-flex; align-items:center; min-height:44px; gap:10px; color:var(--moss); text-decoration:none; font-size:.9rem; }
+	.random-link span { color:var(--orange); }
+	.recipe-balls { display:block; position:relative; width:100%; aspect-ratio:1; max-height:430px; }
+	.ball { position:absolute; border-radius:50%; }
+	.ball-one { width:48%; aspect-ratio:1; background:var(--moss); left:5%; top:25%; animation:float 9s ease-in-out infinite alternate; }
+	.ball-two { width:34%; aspect-ratio:1; background:var(--orange); right:3%; top:9%; animation:float 12s ease-in-out -4s infinite alternate-reverse; }
+	.ball-three { width:25%; aspect-ratio:1; background:var(--line); right:9%; bottom:12%; }
+	.ball-four { width:13%; aspect-ratio:1; background:var(--muted); left:24%; top:3%; }
+	.ball-five { width:9%; aspect-ratio:1; background:var(--orange); left:35%; bottom:5%; }
+	@keyframes float { from { transform:translateY(-6px); } to { transform:translateY(6px); } }
+	@media (max-width:700px) { .hero { grid-template-columns:1fr; gap:12px; position:relative; } .hero-copy { padding:24px 0; } h1 { font-size:clamp(3.1rem, 12vw, 5rem); } .recipe-balls { position:absolute; width:100px; height:100px; right:0; top:0; opacity:.8; } .hero-kicker { max-width:calc(100% - 90px); font-size:.65rem; } }
+	@media (max-width:360px) { .actions { gap:14px; } p { font-size:.85rem; } }
+	@media (prefers-reduced-motion:reduce) { .ball { animation:none; } .button { transition:none; } }
 </style>

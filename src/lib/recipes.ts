@@ -1,7 +1,10 @@
 import type { Component } from 'astro/types';
+import { collections, readRecipeMetadata, type RecipeMetadata } from './recipe-metadata';
+export { collections, recipeTypes } from './recipe-metadata';
+export type { CollectionId, RecipeCategory, RecipeType } from './recipe-metadata';
 
 type RecipeModule = { Content: Component; frontmatter?: Record<string, unknown> };
-export type RecipeFile = { id: string; filePath: string; module: RecipeModule; title: string };
+export type RecipeFile = RecipeMetadata & { id: string; filePath: string; module: RecipeModule; title: string };
 export type DirectoryItem = { title: string; description?: string; recipe?: RecipeFile };
 export type DirectorySection = { title: string; level: number; items: DirectoryItem[] };
 
@@ -9,8 +12,16 @@ const modules = import.meta.glob('../content/recipes/**/*.md', { eager: true }) 
 const files = Object.entries(modules).filter(([key]) => !key.includes('/moc/')).map(([key, module]) => {
 	const filePath = key.replace(/^\.\.\/content\/recipes\//, '').replaceAll('\\', '/');
 	const title = typeof module.frontmatter?.title === 'string' ? module.frontmatter.title : filePath.split('/').at(-1)!.replace(/\.md$/, '');
-	return { id: filePath, filePath, module, title };
+	const metadata = readRecipeMetadata(filePath, module.frontmatter);
+	return { id: metadata.slug + '.md', filePath, module, title, ...metadata };
 });
+
+const slugs = new Set<string>();
+for (const file of files) {
+	const key = file.slug.normalize('NFC').toLowerCase();
+	if (slugs.has(key)) throw new Error('[recipes] 重复的静态页面 slug：' + file.slug);
+	slugs.add(key);
+}
 
 const normalize = (value: string) => decodeURIComponent(value).replaceAll('\\', '/').replace(/^\.\//, '').replace(/^\//, '').replace(/\.md$/i, '');
 
@@ -51,4 +62,21 @@ export function parseDirectory(source = moc): DirectorySection[] {
 
 export const directory = parseDirectory();
 export const recipes = files;
-export function recipeUrl(recipe: RecipeFile) { const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`; return `${base}recipes/${recipe.filePath.replace(/\.md$/i, '').split('/').map(encodeURIComponent).join('/')}/`; }
+export function recipeUrl(recipe: Pick<RecipeFile, 'slug'>) { const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`; return `${base}recipes/${recipe.slug.split('/').map(encodeURIComponent).join('/')}/`; }
+
+// Serializable metadata for future UI; Markdown components remain server-side.
+const directoryItems = new Map(directory.flatMap((section) => section.items.filter((item) => item.recipe).map((item) => [item.recipe!.id, item] as const)));
+export const recipeCatalog = recipes.map(({ module, ...recipe }) => ({
+	...recipe,
+	displayTitle: directoryItems.get(recipe.id)?.title ?? recipe.title,
+	description: directoryItems.get(recipe.id)?.description,
+	url: recipeUrl(recipe),
+}));
+export const collectionIndex = collections.map((collection) => {
+	const entries = recipeCatalog.filter((recipe) => recipe.collectionId === collection.id);
+	const categories = [...new Set(entries.map((recipe) => recipe.category?.id ?? null))].map((id) => ({
+		category: entries.find((recipe) => (recipe.category?.id ?? null) === id)!.category,
+		recipes: entries.filter((recipe) => (recipe.category?.id ?? null) === id),
+	})).sort((a, b) => (a.category?.order ?? 0) - (b.category?.order ?? 0));
+	return { ...collection, recipes: entries, categories };
+});

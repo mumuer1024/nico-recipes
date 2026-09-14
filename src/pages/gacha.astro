@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import RecipeMachine from '../components/RecipeMachine.astro';
+---
+<Layout title="扭蛋机 · Nico 的菜谱" singleScreen>
+	<section class="gacha shell">
+		<RecipeMachine><div class="intro" slot="intro"><div class="eyebrow">LEAVE IT TO LUCK</div><h1>今天，<br>抽到什么？</h1><p>选一个池子，剩下的交给运气。</p></div></RecipeMachine>
+	</section>
+</Layout>
+<style>
+	.gacha { display:flex; align-items:center; padding:20px 0; }
+	.eyebrow { color:var(--orange); font-size:.74rem; letter-spacing:.12em; }
+	h1 { margin:22px 0 20px; font-size:clamp(3rem, 5.8vw, 5rem); color:var(--moss); line-height:1.1; letter-spacing:-.08em; }
+	.intro p { margin-bottom:28px; color:var(--muted); font-size:.9rem; }
+	@media (max-width:700px) { h1 { margin:8px 0; font-size:clamp(2rem, 7vw, 3rem); } h1 br { display:none; } .intro p { margin:8px 0 0; font-size:.8rem; } .eyebrow { font-size:.65rem; } }
+</style>
